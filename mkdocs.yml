@@ -11,5 +11,11 @@ theme:
     primary: red
     accent: deep purple
   logo: docs/assets/logo.png
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
 extra:
   social:
