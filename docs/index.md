@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to the Levant vACC's controller documentation
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
 
 ## Commands
 
