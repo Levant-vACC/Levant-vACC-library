@@ -1,6 +1,8 @@
 site_name: Levant vACC controller library
 site_url: https://levantvacc.library
 repo_url: https://github.com/Levant-vACC/Levant-vACC-library
+edit_uri: ""
+copyright: ""
 repo_name: levant-vacc/library
 theme:
   name: material
