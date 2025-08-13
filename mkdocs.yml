@@ -1,21 +1,53 @@
-site_name: Levant vACC controller library
-site_url: https://levantvacc.library
+site_name: Levant vACC Controller Library
+site_url: https://library.levantvacc.com
 repo_url: https://github.com/Levant-vACC/Levant-vACC-library
 edit_uri: ""
 copyright: ""
 repo_name: levant-vacc/library
 theme:
   name: material
+  custom_dir: overrides
   palette: 
     scheme: slate
-    primary: red
+    primary: black
     accent: deep purple
-  logo: docs/assets/logo.png
+  logo: assets/logobg.png
+  favicon: assets/logobg.png
   features:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path
+    - header.autohide
+    - navigation.footer
+    - announce.dismiss
+  icon:
+    repo: fontawesome/brands/github
+    admonition:
+      example: fontawesome/solid/headset
+  font:
+    text: Roboto
 extra:
   social:
+
+plugins:
+  - search:
+      lang: en
+  - awesome-pages:
+        strict: false
+        order: asc
+        sort_type: natural
+        order_by: title
+  - glightbox:
+      touchNavigation: true
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: false
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption

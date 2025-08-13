@@ -4,4 +4,20 @@
          <loc>https://levantvacc.library/</loc>
          <lastmod>2025-08-13</lastmod>
     </url>
+    <url>
+         <loc>https://levantvacc.library/General/</loc>
+         <lastmod>2025-08-13</lastmod>
+    </url>
+    <url>
+         <loc>https://levantvacc.library/OLBB%20FIR/</loc>
+         <lastmod>2025-08-13</lastmod>
+    </url>
+    <url>
+         <loc>https://levantvacc.library/ORBB%20FIR/</loc>
+         <lastmod>2025-08-13</lastmod>
+    </url>
+    <url>
+         <loc>https://levantvacc.library/OSTT%20FIR/</loc>
+         <lastmod>2025-08-13</lastmod>
+    </url>
 </urlset>
