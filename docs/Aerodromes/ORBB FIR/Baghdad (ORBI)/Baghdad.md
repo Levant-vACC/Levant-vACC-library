@@ -21,5 +21,18 @@
 ORBI_TWR is responsible for the West Baghdad CTR airspace from `SFC` to `A030`, and the East Baghdad CTR airspace from `A010` to `A030`.
 
 ## VFR Operations
+All VFR clearances are assigned by the revelant TWR controller.
 
 ### VFR Circuits
+VFR Circuits are only permitted on runways 33L and 15R.
+
+VFR aircraft wishing to do remain in the circuit at Baghdad shall be given the following circuit directions:
+
+| Runway | Direction |
+| 33L | Left |
+| 15R | Right |
+
+!!! phraseology "VFR Circuits"
+  **ABC**: Baghdad Tower, ABC holding short P2 runway 33L.
+  **ORBI_TWR: ABC, Baghdad Tower, cleared to operate in the circuit area not above altitude 3000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.
+  **ABC**: Cleared to operate in the circuit area not above altitude 3000ft, will report on the left downwind, cleared for take-off runway 33L.
