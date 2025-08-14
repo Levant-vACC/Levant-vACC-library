@@ -8,9 +8,23 @@ theme:
   name: material
   custom_dir: overrides
   palette: 
-    scheme: slate
-    primary: black
-    accent: deep purple
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: black
+      accent: deep purple
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: blue
+      accent: deep orange
+
   logo: assets/logobg.png
   favicon: assets/logobg.png
   features:
@@ -21,7 +35,6 @@ theme:
     - navigation.path
     - header.autohide
     - navigation.footer
-    - announce.dismiss
   icon:
     repo: fontawesome/brands/github
     admonition:
@@ -34,11 +47,7 @@ extra:
 plugins:
   - search:
       lang: en
-  - awesome-pages:
-        strict: false
-        order: asc
-        sort_type: natural
-        order_by: title
+  
   - glightbox:
       touchNavigation: true
       effect: zoom
@@ -47,7 +56,69 @@ plugins:
       zoomable: true
       draggable: false
 
+#styling
+extra_css:
+  - stylesheets/extra.css
+  - stylesheets/admonitions.css
+  - stylesheets/navigation.css
+
+nav:
+  - Home: index.md  
+  - Aerodromes: 
+    - Overview: Aerodromes/index.md
+    - OLBB FIR: 
+      - Beirut (OLBA): 
+        - Airport Overview: Aerodromes/OLBB FIR/Beirut (OLBA)/Airport Overview.md
+        - Beirut Ground: Aerodromes/OLBB FIR/Beirut (OLBA)/Beirut Ground.md
+        - Beirut Tower: Aerodromes/OLBB FIR/Beirut (OLBA)/Beirut Tower.md
+    - ORBB FIR:
+      - Al-Najaf (ORNI): 
+        - Airport Overview: Aerodromes/ORBB FIR/Al-Najaf (ORNI)/Airport Overview.md
+      - Baghdad (ORBI):
+        - Airport Overview: Aerodromes/ORBB FIR/Baghdad (ORBI)/Airport Overview.md
+      - Basra (ORMM):
+        - Airport Overview: Aerodromes/ORBB FIR/Basra (ORMM)/Airport Overview.md
+      - Erbil (ORER):
+        - Airport Overview: Aerodromes/ORBB FIR/Erbil (ORER)/Airport Overview.md
+      - Kirkuk (ORKK):
+        - Airport Overview: Aerodromes/ORBB FIR/Kirkuk (ORKK)/Airport Overview.md
+    - OSTT FIR:
+      - Damascus (OSDI): 
+        - Airport Overview: Aerodrome/OSTT FIR/Damascus (OSDI)/Airport Overview.md
+      
+  - Terminal:
+    - Overview: Terminal/index.md
+  - Enroute:
+    - Overview: Enroute/index.md
+  - Events: 
+    - Overview: Events/index.md
+  - Tier 2 Positions:
+    - Overview: Tier 2 Positions/index.md
+  - Training documents:
+    - Overview: Training documents/index.md
+  - vACC policies:
+    - Overview: vACC policies/index.md
+
+
+
+
 markdown_extensions:
+  - admonition
   - attr_list
   - md_in_html
-  - pymdownx.blocks.caption
+  - pymdownx.blocks.caption:
+  - pymdownx.tabbed:
+     alternate_style: true
+  - pymdownx.details: {} # Additional features to admonition
+  - pymdownx.caret: {} # Formatting Extension
+  - pymdownx.critic: {} # Alternate Formatting Extension
+  - pymdownx.mark: {} # Formatting Extension
+  - pymdownx.tilde: {} # Formatting Extension
+  - pymdownx.keys: {} # Visual keyboard keys extension
+  - pymdownx.superfences: {}
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji: # Allows emoji style inline embeds for icons
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - md_in_html: {} #enables the use of image figures

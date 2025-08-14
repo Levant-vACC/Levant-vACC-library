@@ -1,12 +1,16 @@
 ---
-  title: Aerodrome
+  title: Aerodromes
 ---
 <figure markdown>
 ![Aerodrome](img/banner.png)
 </figure>
 
 ## Scope
-The following documentation outlines the general operating procedures for our airports at an aerodrome level. Some documents serve as supplements to the **Arabian MATS Part 1 – Operating Procedures, Arabian MATS Part 2 – Operating Techniques, Arabian MATS Wake Turbulence Separation, and the relevant aerodrome charts**. These SOP(s) should be used in conjunction with the aforementioned sources. In case of any discrepancies between the aerodrome-specific procedures in this SOP and the Arabian MATS, the procedures in these SOP(s) shall take precedence. The referenced documentation is available in the Foundations section of this site.
+The following documentation outlines the general operating procedures for Levant airports at an aerodrome level. Some documents serve as supplements to the real world eAIP. These SOP(s) should be used in conjunction with the aforementioned sources. In case of any discrepancies between the aerodrome-specific procedures in this SOP and the real-world eAIP, the procedures in these SOP(s) shall take precedence.
+
+## Included FIRs
+!!! info
+    The included FIRs are the Beirut FIR (OLBB), Baghdad FIR (ORBB) and Damascus FIR (OSTT)
 
 ## Limitation of Liability
 !!! warning
