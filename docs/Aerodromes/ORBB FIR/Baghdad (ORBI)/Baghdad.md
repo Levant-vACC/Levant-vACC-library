@@ -35,9 +35,7 @@ All VFR aircraft wishing to do remain in the circuit at Baghdad shall be issued 
 
 !!! example "VFR Circuits"
     **ABC**: Baghdad Tower, ABC holding short P2 runway 33L.
-
     **ORBI_TWR**: ABC, Baghdad Tower, cleared to operate in the circuit area not above altitude 3000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.
-
     **ABC**: Cleared to operate in the circuit area not above altitude 3000ft, will report on the left downwind, cleared for take-off runway 33L, ABC.
 
 VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
@@ -54,7 +52,5 @@ VFR traffic requesting to leave the CTR may be cleared to leave via the visual r
 
 !!! example "Exiting the CTR"
     **YYC**: Baghdad Tower, YYC is requesting to exit the Baghdad CTR via Tusk, altitude 3000ft.
-
     **ORBI_TWR**: YYC, Baghdad Tower, cleared to leave the Baghdad CTR via Tusk, maintain altitude 3000ft, squawk 7403.
-    
     **YYC**: Cleared to leave the Baghdad CTR via Tusk, maintain altitude 3000ft, and squawk 7403, YYC.
