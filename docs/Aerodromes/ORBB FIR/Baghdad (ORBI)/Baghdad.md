@@ -26,13 +26,31 @@ All VFR clearances are assigned by the revelant TWR controller.
 ### VFR Circuits
 VFR Circuits are only permitted on runways 33L and 15R.
 
-VFR aircraft wishing to do remain in the circuit at Baghdad shall be given the following circuit directions:
+All VFR aircraft wishing to do remain in the circuit at Baghdad shall be issued `3000ft` and the following circuit directions:
 
 | Runway | Direction |
+| ------ | --------- |
 | 33L | Left |
 | 15R | Right |
 
 !!! phraseology "VFR Circuits"
   **ABC**: Baghdad Tower, ABC holding short P2 runway 33L.
   **ORBI_TWR: ABC, Baghdad Tower, cleared to operate in the circuit area not above altitude 3000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.
-  **ABC**: Cleared to operate in the circuit area not above altitude 3000ft, will report on the left downwind, cleared for take-off runway 33L.
+  **ABC**: Cleared to operate in the circuit area not above altitude 3000ft, will report on the left downwind, cleared for take-off runway 33L, ABC.
+
+VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
+
+### VFR Reporting Points
+VFR traffic requesting to leave the CTR may be cleared to leave via the visual referencing points below:
+
+| Fix Name | Description |
+| -------- | ----------- |
+| Tusk | Building with blue windows |
+| Warthog | Large farm compound |
+| Dakota | - |
+| Austin | - |
+
+!!! phraseology "Exiting the CTR"
+  **YYC**: Baghdad Tower, YYC is requesting to exit the Baghdad CTR via Tusk, altitude 3000ft.
+  **ORBI_TWR**: YYC, Baghdad Tower, cleared to leave the Baghdad CTR via Tusk, maintain altitude 3000ft, squawk 7403.
+  **YYC**: Cleared to leave the Baghdad CTR via Tusk, maintain altitude 3000ft, and squawk 7403, YYC.
