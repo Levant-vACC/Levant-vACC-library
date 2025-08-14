@@ -7,9 +7,9 @@
   --md-card-a-hover: rgb(252, 123, 116);
   --md-default-table-header-text: #fff;
   --md-top: var(--md-default-bg-color);
-  --md-typeset-link: rgb(247, 61, 52);
-  --md-typeset-link-hover: rgba(247, 61, 52, 0.7);
-  --md-typeset-a-color: rgb(247, 61, 52);
+  --md-typeset-link: rgb(20, 21, 26);
+  --md-typeset-link-hover: rgba(20, 21, 26, 0.7);
+  --md-typeset-a-color: rgb(20, 21, 26);
   --hotline: #f73d34;
   --coldline: #35b9ff66;
 }
