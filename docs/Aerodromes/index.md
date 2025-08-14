@@ -2,7 +2,7 @@
   title: Aerodromes
 ---
 <figure markdown>
-![Aerodrome](img/banner.png)
+![Aerodrome](img/aerodrome.png)
 </figure>
 
 ## Scope

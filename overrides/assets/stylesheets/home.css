@@ -32,7 +32,7 @@
 }
 
 .hero-items .left {
-    width: 80%;
+    width: 40%;
 }
 
 .hero-items .right {
@@ -43,15 +43,16 @@
 .hero .hero-items h1 {
     color: currentColor;
     font-family: 'Roboto';
-    font-size: 50px;
-    font-style: normal;
+    font-size: 60px;
+    font-style: bold;
     font-weight: 600;
     line-height: normal;
     margin: 0 0 0.25rem;
+    margin-left: 0;
 }
 
 .hero .hero-items p {
-    margin: 0;
+    margin-left: 0;
 }
 
 .hero .md-button {
@@ -207,7 +208,7 @@
     }
 
     .feature h2 {
-        margin-left: 10px;
+        margin-left: 5px;
     }
 }
 

@@ -4,7 +4,7 @@
   --md-accent-fg-color: rgb(23, 30, 44);
   --md-footer-fg-color: rgb(23, 30, 44);
   --md-card-a: rgba(209, 213, 218, 0.6);
-  --md-card-a-hover: rgb(209, 213, 218);
+  --md-card-a-hover: rgb(252, 123, 116);
   --md-default-table-header-text: #fff;
   --md-top: var(--md-default-bg-color);
   --md-typeset-link: rgb(247, 61, 52);
@@ -22,9 +22,9 @@
   --md-card-a-hover: #293858;
   --md-default-table-header-text: #fff;
   --md-top: #1b253b;
-  --md-typeset-link: rgb(247, 61, 52);
-  --md-typeset-link-hover: rgba(247, 61, 52, 0.7);
-  --md-typeset-a-color: rgb(247, 61, 52);
+  --md-typeset-link: rgb(1, 0, 29);
+  --md-typeset-link-hover: rgba(1, 0, 29, 0.7);
+  --md-typeset-a-color: rgb(1, 0, 29);
   --hotline: #b7b10291;
   --coldline: #16aeff6e;
 }

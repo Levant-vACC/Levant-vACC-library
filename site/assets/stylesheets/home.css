@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&family=Roboto:wght@400;500&display=swap');
 /* Main Elements */
 .md-main {
     flex-grow: 1;
@@ -31,7 +32,7 @@
 }
 
 .hero-items .left {
-    width: 60%;
+    width: 40%;
 }
 
 .hero-items .right {
@@ -41,16 +42,17 @@
 
 .hero .hero-items h1 {
     color: currentColor;
-    font-family: Mulish;
-    font-size: 40px;
-    font-style: normal;
+    font-family: 'Roboto';
+    font-size: 60px;
+    font-style: bold;
     font-weight: 600;
     line-height: normal;
     margin: 0 0 0.25rem;
+    margin-left: 0;
 }
 
 .hero .hero-items p {
-    margin: 0;
+    margin-left: 0;
 }
 
 .hero .md-button {
@@ -81,7 +83,7 @@
 .lowerSection {}
 
 .feature {
-    font-family: Mulish;
+    font-family: 'Roboto';
     font-weight: 300;
     box-sizing: border-box;
 }
@@ -206,7 +208,7 @@
     }
 
     .feature h2 {
-        margin-left: 10px;
+        margin-left: 5px;
     }
 }
 
