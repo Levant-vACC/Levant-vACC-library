@@ -1,0 +1,76 @@
+{% extends "main.html" %}
+{% block tabs %}
+{{ super() }}
+<link rel="stylesheet" href="assets/stylesheets/home.css">
+<!-- Hero -->
+<section class="container">
+    <div class="md-grid md-typeset">
+        <div class="hero">
+            <div class="hero-items">
+                <div class="left">
+                    <h1>Welcome to Levant!</h1>
+                    <p>Welcome to the Levant vACC's documentation hub! Home to our manuals, SOPs, and all controller materials! Begin exploring the vACC of the cedars by navigating our pages above!</p>
+                </div>
+                <div class="right">
+                    <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | striptags }}"
+                    class="md-button md-button--primary">
+                        <span style="">Click for more
+                            <svg xmlns="http://www.w3.org/2000/svg" width="25" height="15" viewBox="0 0 25 20" fill="none">
+                                <path d="M2 10H23.5M23.5 10L15.5 18M23.5 10L15.5 2" stroke="black" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+                            </svg>
+                        </span>
+                
+                        
+                    </a>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Page links -->
+
+<div class="lowerSection">
+    <div class="md-grid md-typeset">
+        <div class="feature">
+            <h2>Featured Sections</h2>
+
+            <div class="cards">
+                <div class="card">
+                    <a href="foundations/">
+                        <h3>Aerodromes</h3>
+
+                        <p>
+                            Explore the Standard Operating Procedures at an aerodrome level for airports located within our vACC, including controller materials, radiotelephony guides, and much much more.
+                        </p>
+                    </a>
+                </div>
+
+                <div class="card">
+                    <a href="aerodrome/">
+                        <h3>Events</h3>
+
+                        <p>
+                            Access all of Levant's events, this is where controllers can sign up to control at our events, and pilots can nominate to attend! All event/marketing department materials are available here.
+                        </p>
+                    </a>
+                </div>
+
+                <div class="card">
+                    <a href="vacc_documents/">
+                        <h3>Policies</h3>
+
+                        <p>
+                            Searching for our vACC policies for controllers, events guidelines, training syllabus, and more? You’ll find all of these resources in this section of the library.
+                        </p>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+{% endblock %}
+{% block content %}{% endblock %}
