@@ -115,7 +115,7 @@ h4 {
 /*Table Styling*/
 .md-typeset table:not([class]) th {
   font-weight: bold;
-  background-color: #171e2c;
+  background-color: #14151a;
   color: var(--md-default-table-header-text);
 }
 
@@ -127,7 +127,7 @@ h4 {
 
 /* Tasklist */
 .md-typeset [type=checkbox]:checked+.task-list-indicator:before {
-  background-color: #171e2c;
+  background-color: #14151a;
 }
 
 /* Coord Examples */
