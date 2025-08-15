@@ -67,9 +67,7 @@ nav:
     - Overview: Aerodromes/index.md
     - OLBB FIR: 
       - Beirut (OLBA): 
-        - Airport Overview: Aerodromes/OLBB FIR/Beirut (OLBA)/Airport Overview.md
-        - Beirut Ground: Aerodromes/OLBB FIR/Beirut (OLBA)/Beirut Ground.md
-        - Beirut Tower: Aerodromes/OLBB FIR/Beirut (OLBA)/Beirut Tower.md
+        - Beirut (OLBA): Aerodromes/OLBB FIR/Beirut (OLBA)/Airport Overview.md
     - ORBB FIR:
       - Al-Najaf (ORNI): 
         - Airport Overview: Aerodromes/ORBB FIR/Al-Najaf (ORNI)/Airport Overview.md

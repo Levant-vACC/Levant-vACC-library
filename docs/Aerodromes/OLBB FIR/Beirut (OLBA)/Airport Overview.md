@@ -1,18 +1,36 @@
-# Airport Overview
+---
+  title: Beirut (OLBA)
+---
 
-<figure markdown>
-![Aerodrome](img/beirut.png)
-</figure>
+## Positions
 
-## Information
+| Name			     	| Callsign				      | Frequency		  | Login ID		  | Remarks	  |
+| ---------------	| ---------------------	| -------------	| -------------	| ---------	|
+| **Beirut ADC**	| **Beirut Tower** | **###.###**	| **OLBA_TWR**	| |
+| **Beirut SMC**	| **Beirut Ground** | **###.###** | **OLBA_GND**	| |
+| **Baghdad ATIS** | | **###.###**	  | **OLBA_ATIS**	| |
 
-| IATA | ICAO | Charts | NOTAM(s) |
-|:----:|:----:|:------:|:--------:|
-|  BEY | OLBA |Navigraph|          |
+!!! abstract "Non-Standard Positions"
+    :material-information-outline: Non-standard positions may only be used with prior authorization from the vACC ATS department.  
+    Approval must be sought from the **bolded parent position** prior to opening a Non-Standard Position, unless indicated otherwise (eg, for events).
 
-NEEDS REMOVING
+## Airspace - Class D
 
-Beirut–Rafic Hariri International Airport (BEY), Lebanon’s sole commercial airport, lies about 9 km south of central Beirut and serves as the country’s main air gateway. Opened in 1954 and expanded in the late 1990s and early 2000s, it features a U-shaped terminal with East and West wings, 23 gates (19 with jetways), and multiple passenger amenities including lounges, duty-free, cafés, and free limited-time Wi-Fi. It is the primary hub for Middle East Airlines (MEA), connecting Beirut to key destinations such as Dubai, Istanbul, Cairo, Doha, Paris, and Riyadh. Accessible by taxi, ride-share, and bus, the airport is crucial for travel and trade, especially amid regional instability—MEA currently operates most flights, using coastal approach routes to reduce risk. Despite conflict in the surrounding area, BEY remains a vital lifeline linking Lebanon to the rest of the world.
 
-Stations: OLBA_GND, OLBA_TWR, OLBA_APP, OLBB_CTR
 
+## VFR Operations
+All VFR clearances are assigned by the revelant TWR controller.
+
+### VFR Circuits
+
+
+!!! example "**Phraseology:** VFR Circuits"
+   
+
+VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
+
+### VFR Reporting Points
+
+
+!!! example "**Phraseology:** Exiting the CTR"
+   
