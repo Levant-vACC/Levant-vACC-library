@@ -81,7 +81,9 @@ nav:
         - Airport Overview: Aerodromes/ORBB FIR/Kirkuk (ORKK)/Airport Overview.md
     - OSTT FIR:
       - Damascus (OSDI): 
-        - Airport Overview: Aerodrome/OSTT FIR/Damascus (OSDI)/Airport Overview.md
+        - Damascus (OSDI): Aerodromes/OSTT FIR/Damascus (OSDI)/Damascus.md
+      - Aleppo (OSAP):
+        - Aleppo (OSAP): Aerodromes/OSTT FIR/Aleppo (OSAP)/Airport Overview.md
   - Terminal:
     - Overview: Terminal/index.md
     - OLBB FIR: 
