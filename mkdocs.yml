@@ -39,7 +39,7 @@ theme:
     admonition:
       example: fontawesome/solid/headset
   font:
-    text: Roboto
+    text: Maven Pro
 extra:
   social:
 
