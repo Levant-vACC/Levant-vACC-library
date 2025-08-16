@@ -25,7 +25,7 @@ theme:
       accent: deep orange
 
   logo: assets/logobg.png
-  favicon: assets/logobg.png
+  favicon: assets/favicon.ico
   features:
     - navigation.instant
     - navigation.instant.prefetch
@@ -42,6 +42,14 @@ theme:
     text: Maven Pro
 extra:
   social:
+    - icon: fontawesome/brands/twitch
+      link: https://twitch.tv/levant_vacc
+    - icon: fontawesome/brands/discord
+      link: https://vats.im/lev/discord 
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/levant_vacc
+    - icon: fontawesome/brands/github
+      link: https://github.com/levant-vACC
 
 plugins:
   - search:
