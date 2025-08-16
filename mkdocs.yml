@@ -84,10 +84,14 @@ nav:
       - Sulaimaniyah (ORSU): 
         - Sulaimaniyah (ORSU): Aerodromes/ORBB FIR/Sulaimaniyah (ORSU)/Sulaimaniyah.md
     - OSTT FIR:
+      - Aleppo (OSAP):
+        - Aleppo (OSAP): Aerodromes/OSTT FIR/Aleppo (OSAP)/Aleppo.md
       - Damascus (OSDI): 
         - Damascus (OSDI): Aerodromes/OSTT FIR/Damascus (OSDI)/Damascus.md
-      - Aleppo (OSAP):
-        - Aleppo (OSAP): Aerodromes/OSTT FIR/Aleppo (OSAP)/Airport Overview.md
+      - Deir ez-Zor (OSDZ):
+        - Deir ez-Zor (OSDZ): Aerodromes/OSTT FIR/Deir ez-Zor (OSDZ)/Deir ez-Zor.md
+      - Qamishli (OSKL):
+        - Qamishli (OSKL): Aerodromes/OSTT FIR/Qamishli (OSKL)/Qamishli.md
   - Terminal:
     - Overview: Terminal/index.md
     - OLBB FIR: 
