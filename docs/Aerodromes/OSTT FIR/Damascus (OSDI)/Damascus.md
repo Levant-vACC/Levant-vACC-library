@@ -5,15 +5,15 @@
 ## Positions
 
 | Name			   	|       Callsign	    |  Frequency    |   Login ID    | Remarks |
-| ---------------	| ---------------------	| -------------	| -------------	| ------- |
-|   Damascus ADC	|    Damascus Tower     |    118.500 	|   OSDI_TWR	|         |
+| ---------------	| ---------------------	| -------------	| ------------| ------- |
+|   Damascus ADC	|    Damascus Tower     |    118.500  	|   OSDI_TWR	|         |
 |   Damascus SMC	|    Damascus Ground    |    121.900    |   OSDI_GND	|         |
-|   Damascus ATIS   |                       |    128.225    |   OSDI_ATIS	|         |
+|   Damascus ATIS |                       |    128.225    |   OSDI_ATIS	|         |
 
 
 ## Airspace - Class B
 
-OSDI_TWR is responsible for the entire Damascus CTR airspace from `SFC` to `3700`.
+OSDI_TWR is responsible for the entire Damascus CTR airspace from `SFC` to `A037`.
 
 ## VFR Operations
 

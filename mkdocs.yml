@@ -55,7 +55,9 @@ extra:
 plugins:
   - search:
       lang: en
-  
+  - git-revision-date-localized:
+      type: date
+      strict: false
   - glightbox:
       touchNavigation: true
       effect: zoom
