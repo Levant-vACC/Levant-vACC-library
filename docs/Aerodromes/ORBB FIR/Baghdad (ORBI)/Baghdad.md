@@ -24,7 +24,7 @@ ORBI_TWR is responsible for the West Baghdad CTR airspace from `SFC` to `A030`, 
 All VFR clearances are assigned by the revelant TWR controller.
 
 ### VFR Circuits
-VFR Circuits are only permitted on runways 33L and 15R.
+VFR Circuits are only permitted on runways **33L** and **15R**.
 
 All VFR aircraft wishing to do remain in the circuit at Baghdad shall be issued `A030` and the following circuit directions:
 
