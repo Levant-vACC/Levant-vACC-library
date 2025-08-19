@@ -88,6 +88,7 @@ All departing aircraft shall be assigned Taxiway Y. Taxiway W falls under the ju
 Winds must always be considered for Runway modes (Crosswind <20kts, Tailwind <5kts), however the order of preference is as follows:
 
 | Priority - Mode | Arrivals | Departures | Remarks |
+| --------------- | -------- | ---------- | ------- |
 | 1 - MODE A | 33R | 33R | VFR 33L |
 | 2 - MODE B | 33R | 33R, 33R | |
 | 3 - MODE C | 15L | 15L | VFR 15R |
