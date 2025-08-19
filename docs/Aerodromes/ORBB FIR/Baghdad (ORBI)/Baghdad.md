@@ -121,13 +121,15 @@ Due to the airspace structure in Baghdad, all departures shall be coordinated wi
 The Standard Assignable level from Baghdad **ADC** to **TMA** is:
 
 | Flight Rule | Level |
-| IFR | `A060` |
-| VFR | `A030` |
+| ----------- | ----- |
+|     IFR     | `A060`|
+|     VFR     | `A030`|
 
 ### Standard Assignable Departure Headings
 As there are no SIDs in Baghdad, aircraft must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Baghdad **TMA** controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:
 
 | Runway | Heading |
+| ------ | ------- |
 | 33R | H325, H250 |
 | 33L | H325, H250 |
 | 15R | H145 |
