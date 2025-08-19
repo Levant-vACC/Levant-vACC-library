@@ -100,7 +100,18 @@ Winds must always be considered for Runway modes (Crosswind <20kts, Tailwind <5k
     During Modes A, C, Runways 33L and 15R shall only be assigned to VFR and military, however when Modes B, D, E, F are used, Runways 33L and 15R may be assigned to any type of flight and aircraft. Similarly, Runways 33R and 15L may be used for VFR and military if requested by the pilot during Modes B, D, E, F.
 
 ## Baghdad Flow
-The FMP position shall only be activated during major events or when authorized by the ATS department. This position is in charge of sequencing aircraft for push and ensuring that all departures push on time. It is only beneficial when large amounts of traffic and when performed carefully and deliberately.
+The **FMP** position shall only be activated during major events or when authorized by the ATS department. This position is in charge of sequencing aircraft for push and ensuring that all departures push on time. It is only beneficial when large amounts of traffic and when performed carefully and deliberately.
+
+### Position Operations
+During events, Baghdad Flow shall be in charge of the following:
+
+- Ensuring all event traffic push and depart on time according to their event ETOT; and
+- Ensuring that all non-event traffic are coordinated and provided with a proper departure slot; and
+- Assisting **ACD** to check and validating flightplans; and
+- Assisting **SMC** with push-back time slots
+
+!!! tip
+    The responsibilities of Baghdad **FMP** may be delegated to **ACD** when there is high **SMC** workload but no seperate **FMP** controller available.
 
 ## Coordination
 
