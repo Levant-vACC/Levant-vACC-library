@@ -150,7 +150,8 @@ As there are no SIDs in Baghdad, aircraft must recieve an assigned heading with 
 | 15L | `A006` |
 
 !!! phraseology
-    **BI ADC**: IAW23, after departure climb to altitude 6000ft, passing 1200ft turn left heading 250.
+    **IAW23**: Baghdad Tower, IAW23 ready for departure.  
+    **BI ADC**: IAW23, after departure climb to altitude 6000ft, passing 1200ft turn left heading 250. Surface winds variable at 3 knots, runway 33R cleared for take-off.
 
 ### Between ADC and SMC
 #### Taxiway W
