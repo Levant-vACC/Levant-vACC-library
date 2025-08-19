@@ -1032,6 +1032,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Standard Assignable Departure Headings">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#aircraft-turn-altitudes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aircraft 'Turn Altitudes'
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
           <li class="md-nav__item">
@@ -3773,6 +3788,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Standard Assignable Departure Headings">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#aircraft-turn-altitudes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Aircraft 'Turn Altitudes'
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
           <li class="md-nav__item">
@@ -3904,7 +3934,7 @@ Approval must be sought from the <strong>bolded parent position</strong> prior t
 <div class="admonition phraseology">
 <p class="admonition-title">Phraseology</p>
 <p><strong>ABC</strong>: Baghdad Tower, ABC holding short P2 runway 33L.<br />
-<strong>ORBI_TWR</strong>: ABC, Baghdad Tower, cleared to operate in the circuit area not above altitude 3000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.<br />
+<strong>BI ADC</strong>: ABC, Baghdad Tower, cleared to operate in the circuit area not above altitude 3000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.<br />
 <strong>ABC</strong>: Cleared to operate in the circuit area not above altitude 3000ft, will report on the left downwind, cleared for take-off runway 33L, ABC.</p>
 </div>
 <p>VFR Circuits shall <strong>not</strong> be permitted at the aerodrome during times of increased IFR departure or arrival activity.</p>
@@ -3941,17 +3971,17 @@ Approval must be sought from the <strong>bolded parent position</strong> prior t
 <div class="admonition phraseology">
 <p class="admonition-title">Phraseology</p>
 <p><strong>FYI</strong>: Baghdad Tower, FYI holding short P2 runway 33L.<br />
-<strong>ORBI_TWR</strong>: FYI, Baghdad Tower, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.<br />
+<strong>BI ADC</strong>: FYI, Baghdad Tower, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.<br />
 <strong>FYI</strong>: Roger, cleared for take-off runway 33L.<br />
 <strong>AIRCRAFT ON THE CROSSWIND TURN</strong><br />
-<strong>ORBI_TWR</strong>: FYI, report leaving the Baghdad CTR, maintain 3000ft.<br />
+<strong>BI ADC</strong>: FYI, report leaving the Baghdad CTR, maintain altitude 3000ft.<br />
 <strong>FYI</strong>: 3000ft, FYI.</p>
 </div>
 <p>Aircraft requesting to exit the Baghdad CTR shall be assigned a clearance limit followed by a valid VFR cruising altitude (+500ft).</p>
 <div class="admonition phraseology">
 <p class="admonition-title">Phraseology</p>
 <p><strong>YYC</strong>: Baghdad Tower, YYC is requesting to exit the Baghdad CTR via direct Al Najaf, altitude 3500ft.<br />
-<strong>ORBI_TWR</strong>: YYC, Baghdad Tower, cleared to leave the Baghdad CTR direct Al Najaf, maintain altitude 3500ft, squawk 7403, QNH 998 hectopascals.<br />
+<strong>BI ADC</strong>: YYC, Baghdad Tower, cleared to leave the Baghdad CTR direct Al Najaf, maintain altitude 3500ft, squawk 7403, QNH 998 hectopascals.<br />
 <strong>YYC</strong>: Cleared to leave the Baghdad CTR direct Al Najaf, maintain altitude 3000ft, QNH 998, and squawk 7403, YYC.</p>
 </div>
 <p>Inbound VFR aircraft shall be sent to <strong>ADC</strong> with enough time such that two-way
@@ -4034,52 +4064,16 @@ radio communications have been established before aircraft receive clearance to 
 <li>All departures not on a Standard Assignable Heading</li>
 </ul>
 <p>The Standard Assignable level from Baghdad <strong>ADC</strong> to <strong>TMA</strong> is:</p>
-<table>
-<thead>
-<tr>
-<th>Flight Rule</th>
-<th>Level</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>IFR</td>
-<td><code>A060</code></td>
-</tr>
-<tr>
-<td>VFR</td>
-<td><code>A030</code></td>
-</tr>
-</tbody>
-</table>
+<p>| Flight Rule | Level |
+| IFR | <code>A060</code> |
+| VFR | <code>A030</code> |</p>
 <h3 id="standard-assignable-departure-headings">Standard Assignable Departure Headings</h3>
 <p>As there are no SIDs in Baghdad, aircraft must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Baghdad <strong>TMA</strong> controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:</p>
-<table>
-<thead>
-<tr>
-<th>Runway</th>
-<th>Heading</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>33R</td>
-<td>H335, H250</td>
-</tr>
-<tr>
-<td>33L</td>
-<td>H335, H250</td>
-</tr>
-<tr>
-<td>15R</td>
-<td>H155</td>
-</tr>
-<tr>
-<td>15L</td>
-<td>H155</td>
-</tr>
-</tbody>
-</table>
+<p>| Runway | Heading |
+| 33R | H325, H250 |
+| 33L | H325, H250 |
+| 15R | H145 |
+| 15L | H145 |</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <p>Where multiple standard assignable headings are available, assign the heading most suitable for the aircraft's direction of flight.</p>
@@ -4088,16 +4082,44 @@ radio communications have been established before aircraft receive clearance to 
 <p class="admonition-title">Tip</p>
 <p>If strong winds are present at altitude, <strong>ADC/TMA</strong> should discuss slight changes to these headings (+/- 5 degrees) to compensate for large crosswind components.</p>
 </div>
+<h4 id="aircraft-turn-altitudes">Aircraft 'Turn Altitudes'</h4>
+<table>
+<thead>
+<tr>
+<th>Runway</th>
+<th>Altitude</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>33R</td>
+<td><code>A012</code></td>
+</tr>
+<tr>
+<td>33L</td>
+<td><code>A010</code></td>
+</tr>
+<tr>
+<td>15R</td>
+<td><code>A007</code></td>
+</tr>
+<tr>
+<td>15L</td>
+<td><code>A006</code></td>
+</tr>
+</tbody>
+</table>
+<div class="admonition phraseology">
+<p class="admonition-title">Phraseology</p>
+<p><strong>BI ADC</strong>: IAW23, after departure climb to altitude 6000ft, passing 1200ft turn left heading 250.</p>
+</div>
 <h3 id="between-adc-and-smc">Between ADC and SMC</h3>
 <h4 id="taxiway-w">Taxiway W</h4>
 <p>As mentioned previously, <strong>Taxiway W</strong> is under the jurisdiction of Baghdad <strong>ADC</strong> when online. This is to facilitate arrivals on Runways 33R, 33L, 15R, 15L.</p>
 <div class="admonition phraseology">
 <p class="admonition-title">Phraseology</p>
-<p><strong>ORBI_GND</strong>: Tower, Ground.<br />
-<strong>ORBI_TWR</strong>: Go ahead.<br />
-<strong>ORBI_GND</strong>: Request to taxi IAW23 on Whiskey.<br />
-<strong>ORBI_TWR</strong>: Taxi IAW23 on Whiskey.<br />
-<strong>ORBI_GND</strong>: IAW23, thanks.</p>
+<p><strong>BI SMC</strong>: Request to taxi IAW23 on Whiskey, 33R.<br />
+<strong>BI ADC</strong>: Taxi IAW23 on Whiskey.  </p>
 </div>
 
 
@@ -4119,7 +4141,7 @@ radio communications have been established before aircraft receive clearance to 
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 19, 2025 02:55:41 UTC">August 19, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="August 19, 2025 04:02:26 UTC">August 19, 2025</span>
   </span>
 
     
