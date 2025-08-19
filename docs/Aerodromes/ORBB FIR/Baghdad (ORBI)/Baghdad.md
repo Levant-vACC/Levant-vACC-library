@@ -23,7 +23,7 @@ ORBI_TWR is responsible for the West Baghdad CTR airspace from `SFC` to `A030`, 
 ## VFR Operations
 All VFR clearances are assigned by the revelant TWR controller.
 
-### VFR Circuits
+### Circuits
 VFR Circuits are only permitted on runways **33L** and **15R**.
 
 All VFR aircraft wishing to do remain in the circuit at Baghdad shall be issued `A030` and the following circuit directions:
@@ -40,7 +40,7 @@ All VFR aircraft wishing to do remain in the circuit at Baghdad shall be issued 
 
 VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
 
-### VFR Reporting Points
+### Visual Reporting Points
 VFR helicopter traffic requesting to leave the CTR may be cleared to leave via the visual referencing points below:
 
 | Fix Name | Description |
@@ -50,7 +50,7 @@ VFR helicopter traffic requesting to leave the CTR may be cleared to leave via t
 | Dakota | - |
 | Austin | - |
 
-### VFR Leaving the CTR
+### Leaving the CTR
 Once VFR aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn they shall be instructed to report leaving the CTR. VFR procedures inside the Baghdad CTR must be conducted at or below `A030`.
 
 !!! phraseology
