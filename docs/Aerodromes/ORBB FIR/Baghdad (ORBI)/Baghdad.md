@@ -35,7 +35,7 @@ All VFR aircraft wishing to do remain in the circuit at Baghdad shall be issued 
 
 !!! phraseology
     **ABC**: Baghdad Tower, ABC holding short P2 runway 33L.  
-    **ORBI_TWR**: ABC, Baghdad Tower, cleared to operate in the circuit area not above altitude 3000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.  
+    **BI ADC**: ABC, Baghdad Tower, cleared to operate in the circuit area not above altitude 3000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.  
     **ABC**: Cleared to operate in the circuit area not above altitude 3000ft, will report on the left downwind, cleared for take-off runway 33L, ABC.
 
 VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
@@ -55,17 +55,17 @@ Once VFR aircraft are ready for departure, they shall be cleared for take-off in
 
 !!! phraseology
     **FYI**: Baghdad Tower, FYI holding short P2 runway 33L.  
-    **ORBI_TWR**: FYI, Baghdad Tower, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.  
+    **BI ADC**: FYI, Baghdad Tower, surface winds 320 degrees 5 knots, cleared for take-off runway 33L.  
     **FYI**: Roger, cleared for take-off runway 33L.  
     **AIRCRAFT ON THE CROSSWIND TURN**  
-    **ORBI_TWR**: FYI, report leaving the Baghdad CTR, maintain 3000ft.  
+    **BI ADC**: FYI, report leaving the Baghdad CTR, maintain altitude 3000ft.  
     **FYI**: 3000ft, FYI.
 
 Aircraft requesting to exit the Baghdad CTR shall be assigned a clearance limit followed by a valid VFR cruising altitude (+500ft).
 
 !!! phraseology
     **YYC**: Baghdad Tower, YYC is requesting to exit the Baghdad CTR via direct Al Najaf, altitude 3500ft.  
-    **ORBI_TWR**: YYC, Baghdad Tower, cleared to leave the Baghdad CTR direct Al Najaf, maintain altitude 3500ft, squawk 7403, QNH 998 hectopascals.  
+    **BI ADC**: YYC, Baghdad Tower, cleared to leave the Baghdad CTR direct Al Najaf, maintain altitude 3500ft, squawk 7403, QNH 998 hectopascals.  
     **YYC**: Cleared to leave the Baghdad CTR direct Al Najaf, maintain altitude 3000ft, QNH 998, and squawk 7403, YYC.
 
 Inbound VFR aircraft shall be sent to **ADC** with enough time such that two-way
@@ -128,16 +128,27 @@ The Standard Assignable level from Baghdad **ADC** to **TMA** is:
 As there are no SIDs in Baghdad, aircraft must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Baghdad **TMA** controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:
 
 | Runway | Heading |
-| 33R | H335, H250 |
-| 33L | H335, H250 |
-| 15R | H155 |
-| 15L | H155 |
+| 33R | H325, H250 |
+| 33L | H325, H250 |
+| 15R | H145 |
+| 15L | H145 |
 
 !!! note
     Where multiple standard assignable headings are available, assign the heading most suitable for the aircraft's direction of flight.
 
 !!! tip
     If strong winds are present at altitude, **ADC/TMA** should discuss slight changes to these headings (+/- 5 degrees) to compensate for large crosswind components.
+
+#### Aircraft 'Turn Altitudes'
+| Runway | Altitude |
+| ------ | -------- |
+| 33R | `A012` |
+| 33L | `A010` |
+| 15R | `A007` |
+| 15L | `A006` |
+
+!!! phraseology
+    **BI ADC**: IAW23, after departure climb to altitude 6000ft, passing 1200ft turn left heading 250.
 
 ### Between ADC and SMC
 #### Taxiway W
