@@ -127,24 +127,14 @@ nav:
   - Enroute:
     - Overview: Enroute/index.md
     - OLBB FIR: 
-      - Beirut (OLBA): 
-        - Airport Overview: Enroute/OLBB FIR/Beirut (OLBA)/Airport Overview.md
-        - Beirut Ground: Enroute/OLBB FIR/Beirut (OLBA)/Beirut Ground.md
-        - Beirut Tower: Enroute/OLBB FIR/Beirut (OLBA)/Beirut Tower.md
+      - Beirut Radar(OLBB_CTR): 
+        - Beirut Radar (OLBB_CTR): Enroute/OLBB FIR/Beirut Radar (OLBB_CTR)/Beirut Radar (OLBB_CTR).md
     - ORBB FIR:
-      - Al-Najaf (ORNI): 
-        - Airport Overview: Enroute/ORBB FIR/Al-Najaf (ORNI)/Airport Overview.md
-      - Baghdad (ORBI):
-        - Baghdad (ORBI): Enroute/ORBB FIR/Baghdad (ORBI)/Baghdad.md
-      - Basra (ORMM):
-        - Airport Overview: Enroute/ORBB FIR/Basra (ORMM)/Airport Overview.md
-      - Erbil (ORER):
-        - Airport Overview: Enroute/ORBB FIR/Erbil (ORER)/Airport Overview.md
-      - Kirkuk (ORKK):
-        - Airport Overview: Enroute/ORBB FIR/Kirkuk (ORKK)/Airport Overview.md
+      - Baghdad Control (ORBB_*_CTR): 
+        - Baghdad Control (ORBB_*_CTR): Enroute/ORBB FIR/Baghdad Control (ORBB_*_CTR)/Baghdad Control (ORBB_*_CTR).md
     - OSTT FIR:
-      - Damascus (OSDI): 
-        - Airport Overview: Enroute/OSTT FIR/Damascus (OSDI)/Airport Overview.md
+      - Damascus Control (OSTT_CTR): 
+        - Damascus Control (OSTT_CTR): Enroute/OSTT FIR/Damascus Control (OSTT_CTR)/Damascus Control (OSTT_CTR).md
   - Events: 
     - Overview: Events/index.md
   - Tier 2 Positions:
