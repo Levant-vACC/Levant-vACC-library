@@ -18,7 +18,7 @@ OLBA_TWR is responsible for the Beirut ATZ airspace from `SFC` to `A030`.
 All VFR clearances are assigned by the revelant TWR controller.
 
 ### VFR Circuits
-VFR Circuits are only permitted on runways 17 and 35.
+VFR Circuits are preferred on runways 17 and 35.
 
 All VFR light aircraft wishing to remain in the circuit at Beirut shall be issued `1000ft`, all VFR medium and heavy aircraft wishing to remain in the circuit at Beirut shall be issues `2000ft`, and the following circuit directions:
 
