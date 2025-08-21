@@ -1,9 +1,10 @@
 ---
-  title: Deir ez-Zor (OSDZ)
+  title: Latakia (OSLK)
 ---
 
 ## Positions
 
 |    Name   | Callsign	| Frequency | Login ID | Remarks |
 | --------- | --------	| ---------	| -------- | ------- |
-| Deir ez-Zor ADC | Deir ez-Zor Tower | 118.075 | OSDZ_TWR | |
+| Latakia ADC | Latakia Tower | 118.100 | OSLK_TWR | |
+
