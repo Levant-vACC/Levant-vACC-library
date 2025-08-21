@@ -35,7 +35,7 @@ All VFR light aircraft wishing to remain in the circuit at Beirut shall be issue
 
 VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
 
-### VFR Reporting Points
+### Visual Reporting Points
 VFR traffic may use these VFR reporting points to navigate the Beirut TMA
 
 |   VRP name    |         Coordinates      |
