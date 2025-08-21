@@ -4,15 +4,19 @@
 
 ## Positions
 
-| Name			     	| Callsign				      | Frequency		  | Login ID		  | Remarks	  |
-| ---------------	| ---------------------	| -------------	| -------------	| ---------	|
-| Beirut ADC	    |     Beirut Tower      |    118.900  	|   OLBA_TWR	  |           |
-| Beirut SMC     	|     Beirut Ground     |    121.900    |   OLBA_GND  	|           |
-|   Beirut ATIS   |                       |    120.600	  |   OLBA_ATIS  	|           |
+| Name | Callsign	| Frequency | Login ID | Remarks |
+| ---- | --------	| ---------	| -------- | ------- |
+| **Beirut ADC** | Beirut Tower | 118.900 | OLBA_TWR | |
+| **Beirut SMC** | Beirut Ground | 121.900 | OLBA_GND	| |
+| Beirut FMP :material-information-outline: | Beirut Flow | 121.900 | OLBA_FMP | |
+| **Beirut ATIS** | | 120.600 | OLBA_ATIS | |
+
+!!! abstract "Non-Standard Positions"
+    :material-information-outline: Non-standard positions may only be used with prior authorization from the vACC ATS department.  
+    Approval must be sought from the **bolded parent position** prior to opening a Non-Standard Position, unless indicated otherwise (eg, for events).
 
 ## Airspace - Class D
 OLBA_TWR is responsible for the Beirut ATZ airspace from `SFC` to `A030`.
-
 
 ## VFR Operations
 All VFR clearances are assigned by the revelant TWR controller.
@@ -35,8 +39,5 @@ All VFR light aircraft wishing to remain in the circuit at Beirut shall be issue
 
 VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
 
-### VFR Reporting Points
-
-
-!!! example "**Phraseology:** Exiting the CTR"
+### Visual Reporting Points
    
