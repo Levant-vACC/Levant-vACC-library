@@ -6,10 +6,10 @@
 
 | Name | Callsign	| Frequency | Login ID | Remarks |
 | ---- | --------	| ---------	| -------- | ------- |
-| **Beirut ADC** | Beirut Tower | 118.900 | OLBA_TWR | |
-| **Beirut SMC** | Beirut Ground | 121.900 | OLBA_GND	| |
+| **Beirut ADC** | **Beirut Tower** | **118.900** | **OLBA_TWR** | |
+| **Beirut SMC** | **Beirut Ground** | **121.900** | **OLBA_GND**	| |
 | Beirut FMP :material-information-outline: | Beirut Flow | 121.900 | OLBA_FMP | |
-| **Beirut ATIS** | | 120.600 | OLBA_ATIS | |
+| **Beirut ATIS** | | **120.600** | **OLBA_ATIS** | |
 
 !!! abstract "Non-Standard Positions"
     :material-information-outline: Non-standard positions may only be used with prior authorization from the vACC ATS department.  
@@ -85,8 +85,3 @@ The table below shows all the 7 valid routes for VFR departures from Beirut.
 VFR operations at Rayak Airport are exclusively authorized to follow routes 6 and 7.
 VFR operations at Kleyate Airport are exclusively allowed to follow routes 5 and 7.
 VFR operations at both airports are permitted to utilize only route 7.
-
-
-
-!!! example "**Phraseology:** Exiting the CTR"
-   
