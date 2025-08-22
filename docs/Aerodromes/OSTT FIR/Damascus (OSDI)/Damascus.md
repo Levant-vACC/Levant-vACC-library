@@ -30,7 +30,9 @@ All VFR aircraft wishing to do remain in the circuit at Damascus shall be issued
 |  05R   |   Right   |
 
 !!! phraseology
-
+    **FDY**: Damascus Tower, FDY holding short runway 23L.  
+    **DI ADC**: FDY, Dmascus Tower, cleared to operate in the circuit area not above altitude 2000ft, left hand circuits report on the downwind, surface winds 120 degrees 3 knots, cleared for take-off runway 23L.  
+    **ABC**: Cleared to operate in the circuit area not above altitude 2000ft, will report on the left downwind, cleared for take-off runway 23L, FDY.
 
 VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
 
@@ -56,4 +58,4 @@ The Standard Assignable level from Baghdad **ADC** to **TMA** is:
 | All | `A050` |
 
 !!! note
-    Initial climbs are listed on the ATIS and are not given to aircraft in their clearance. 
+    Initial climbs are on the ATIS and are not given to aircraft in their clearance. 
