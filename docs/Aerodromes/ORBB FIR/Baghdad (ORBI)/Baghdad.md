@@ -118,7 +118,7 @@ During events, Baghdad Flow shall be in charge of the following:
 ### Departure Procedures
 Due to the airspace structure in Baghdad, all departures shall be coordinated with the relevant **TMA** controller before release.
 
-'Next' coordination is not required for aircraft that are:
+'Next' coordination is **not** required to Baghdad **TMA** for aircraft that are:
 
 - Departing from a runway nominated on the ATIS; and
 - Assigned the Standard assignable level; and
