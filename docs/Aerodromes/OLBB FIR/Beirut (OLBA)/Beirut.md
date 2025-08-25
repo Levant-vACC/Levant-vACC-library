@@ -125,8 +125,8 @@ valid for runways 34 and 35.
 
 Listed below are the SIDs:
 
-|   SID   | 21, 17 | 03 | 34, 35 |
-| ------- | -------- | ---------- | 
+|  SID | 21, 17 | 03 | 34, 35 |
+| ---- | ------ | ---- | ----- |
 |  KALDE  | 2D | 1E | 2F |
 |  LATEB  | 1D | 1E | 2F |
 |  LEBOR  | 1D | 1E | 2F |
