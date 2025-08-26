@@ -55,7 +55,7 @@ The Standard Assignable level from Baghdad **ADC** to **TMA** is:
 
 | Aircraft | Level |
 | -------- | ----- |
-| All | `A050` |
+| All | The lower of `RFL` or `A050` |
 
 !!! note
     Initial climbs are on the ATIS and are not given to aircraft in their clearance. 
