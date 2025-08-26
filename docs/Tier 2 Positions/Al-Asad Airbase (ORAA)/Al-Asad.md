@@ -1,0 +1,124 @@
+---
+  title: Al-Asad (ORAA)
+---
+
+## Positions
+
+| Name | Callsign	| Frequency | Login ID | Remarks |
+| ---- | --------	| ---------	| -------- | ------- |
+| **Al-Asad ADC** | **Al-Asad Tower** |**123.675**(363.675)| **ORAA_TWR** | |
+| **Al-Asad SMC** | **Al-Asad Ground** | **118.200**(325.250) | **ORAA_GND**	| |
+| **Al-Asad Information** | | **25.092** | **ORAA_ATIS** | |
+
+## Airspace - MATZ
+ORAA_TWR is responsible for the Al-Asad MATZ airspace from `SFC` to `A030`.
+
+## Aerodrome Information
+Al-Asad is an airbase located in Western Iraq, located in the center of the R414 (ARCHER MOA) restricted airspace. The airbase consists of 3 runways, including 2 dependant parallel runways (27L/09R) and (27R/09L), and a grass airstrip located on the southern portion of the aerodrome (08/26).
+
+## Flight Categories
+Recovering military aircraft will usually be flying IFR, but must revert to VFR at the following points:
+
+- At the initial point when recovering via military stream landing pattern (initial and pitch).
+- At High-Key.
+- Following a touch and go, go-around, overhead break, or visual overshoot when a local IFR aircraft has indicated an intention to join the circuit.
+
+## Circuit Procedures
+The Al-Asad Military Air Traffic Zone (AA MATZ) is active at all times when R414 (ARCHER MOA) is active.
+
+Circuit Operations shall occur within a `5NM` radius of IQA ARP, at the following altitudes:
+
+|     Type    | Normal Altitude |
+| ----------- | --------------- |
+|     Jet     |      `A020`     |
+|   Non-Jet   |      `A010`     |
+
+All Circuit clearances shall be issued by Al-Asad **ADC**, or by Al-Asad **SMC** in coordination with **ADC** prior.
+
+### Circuit Direction
+Visual Circuits are allowed on both runways 27L/09R and 27R/09L, runway 08/26 is not suitable for most fixed-wing aircraft, hence shall not be used for circuits.
+
+| Runway | Direction |
+| ------ | --------- |
+|  27L    |   Left   |
+|  09R    |   Right  |
+|  27R   |   Right   |
+|  09L   |   Left    |
+
+!!! phraseology
+    **COBRA7**: Al-Asad Tower, COBRA7, flight of 2 F16's, on taxiway K, request departure to remain in circuits, information B.  
+    **ORAA ADC**: COBRA7, Al-Asad Tower, cleared left hand circuit runway runway 27L, maintain alitude 2000ft, remain this frequency, report fully ready.  
+    **COBRA7**: Left hand circuits 27L, maintain 2000ft, on your frequency, fully ready.  
+    **ORAA ADC**: COBRA7, roger, winds 280 degrees 3 knots, runway 27L cleared for takeoff, report downwind midfield with intentions, departure end cable indicates raised.  
+
+## Military Procedures
+Military aircraft are entitled to different and more complex procedures than a normal civil fixed-wing aircraft.
+
+### Overhead Maneuver
+
+Pilots operating in accordance with an IFR flight plan in Visual Meteorological Conditions (VMC) may request ATC authorization for an overhead maneuver (overhead break). An overhead maneuver is not an instrument approach procedure. An aircraft conducting an overhead maneuver is considered to be VFR and the IFR flight plan is cancelled when the aircraft reaches the initial point on the initial approach portion of the maneuver. (See image below.)
+
+
+![Overhead Maneuver](../img/Overhead Maneuver.png)
+
+
+The existence of a standard overhead maneuver pattern does not eliminate the possible requirement for an aircraft to conform to conventional rectangular patterns if an overhead maneuver cannot be approved. If requested by pilot, controllers should authorize an overhead maneuver whenever possible, and issue the following to arriving aircraft:
+
+- Circuit altitude and direction of circuits. Omit both or either, if you are aware that the pilot is familiar with the non-standard procedure.
+
+!!! phraseology
+    **EAGLE1**: Al-Asad Tower, EAGLE1, inbound to the east, request overhead break to remain in pattern, we have bravo onboard.  
+    **ORAA ADC**: EAGLE1, Al-Asad Tower, bravo is correct, runway 27L winds 280 degrees at 4 knots, pattern altitude 2000 ft, left turns, report initial.  
+    **EAGLE1**: 27L, 2000ft, left turns, will report initial, EAGLE1.  
+    **EAGLE1**: Initial, EAGLE1.  
+    **ORAA ADC**: Roger EAGLE1, break at departure end, report break.  
+    **EAGLE1**: Breaking depature end, wilco, EAGLE1.  
+    **EAGLE1**: Break, EAGLE1.  
+    **ORAA ADC**: EAGLE1, runway 27L cleared touch and go.
+
+### SFO/ELP/PPA
+At Al-Asad Airbase there are no restrictions for these procedures, and controllers should assist the aircraft requesting practice precautionary/SFO/ELP approaches to the best extent possible.
+#### Simulated Flameout (SFO) Approach
+This is a practice approach by a military jet aircraft at idle thrust to a runway. The approach may start over the runway (high key) and may continue on a relatively high and wide downwind leg with a continuous turn to final. It **must** terminate in landing or low approach. The purpose of this approach is to simulate a engine flameout on a jet aircraft.
+
+![Flameout Pattern](../img/Flameout Pattern.png)
+
+![Straight-in Flameout Pattern](../img/Straight-in%20Flameout.png)
+
+At Al-Asad Airbase, pilots are required to report 5 mile final, **only when** flying a straight-in SFO approach.
+
+#### Emergency Landing Pattern (ELP)
+This is a 360º overhead pattern designed to position the aircraft for landing when the possibility of a power loss exists or no power is available. Hence, the emergency landing pattern is utilized for both actual or simulated Precautionary Emergency Landing and actual or simulated Forced Landings.
+
+![Emergency Landing Pattern](../img/ELP.png)
+
+#### Precautionary Landing
+This is a premeditated landing, on or off an airport, when further flight is possible but inadvisable. Examples of conditions that may call for a precautionary landing include deteriorating weather, being lost, fuel shortage, and gradually developing engine trouble.
+
+#### Forced Landing
+This is an immediate landing, on or off an airport, necessitated by the inability to continue further flight. Atypical example of which is an airplane forced down by engine failure.
+
+!!! warning 
+    **These procedures can only be authorised to military pilots requesting, as long as;**  
+
+      1. Traffic information regarding aircraft in radio communication with or visible to tower controllers which are operating within or adjacent to the flameout maneuvering area is provided to the SFO/ELP aircraft and other concerned aircraft.  
+      2. The high-key altitude or practice precautionary approach maneuvering altitudes of the aircraft concerned are obtained prior to approving the approach.  
+!!! note "Controllers must be aware that:"
+    1. SFO/ELP approaches generally require high descent rates. Visibility ahead and beneath the aircraft is greatly restricted. This may preclude controllers from assigning visual separation to a pilot practicing such an approach.  
+    2. Pattern adjustments for aircraft conducting SFOs and ELPs may impact the effectiveness of SFO and ELP training. Hence, avoid issuing instructions that will require such an aircraft modify its flight path.
+!!! phraseology "Overhead SFO/ELP approach"
+    **DEVIL6**: Al-Asad Tower, DEVIL6, inbound requesting simulated flameout approach, information B.  
+    **ORAA ADC**: DEVIL6, Al-Asad Tower, Salam, information B correct, runway 27L, report high-key.  
+    **DEVIL6**: runway 27L, will report at the high-key, DEVIL6.  
+    **DEVIL6**: High-key, DEVIL6.  
+    **ORAA ADC**: DEVIL6 roger, winds 260 degrees at 6 knots, report low-key.  
+    **DEVIL6**: Low-key, DEVIL6.  
+    **ORAA ADC**: DEVIL6 roger, runway 27L cleared low approach, pattern altitude 2000ft, left turns.  
+!!! phraseology "Straight-in SFO approach"
+    **DEVIL6**: Al-Asad Tower, DEVIL6, salam, inbound from the east, requesting straight-in simulated flameout approach, information B.  
+    **ORAA ADC**: DEVIL6, Al-Asad Tower, salam, information B correct, runway 27L, report 5 mile simulated flameout final.  
+    **DEVIL6**: Runway 27L, will report 5 miles, DEVIL6.  
+    **DEVIL6**: 5 miles, DEVIL6.  
+    **ORAA ADC**: DEVIL6 roger, winds 290 degrees at 6 knots, runway 27L cleared low approach, pattern altitude 2000 ft, left turns.
+
+

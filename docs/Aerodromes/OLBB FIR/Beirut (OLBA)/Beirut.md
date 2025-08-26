@@ -125,14 +125,14 @@ valid for runways 34 and 35.
 
 Listed below are the SIDs:
 
-|  SID | 21, 17 | 03 | 34, 35 |
-| ---- | ------ | ---- | ----- |
-|  KALDE  | 2D | 1E | 2F |
-|  LATEB  | 1D | 1E | 2F |
-|  LEBOR  | 1D | 1E | 2F |
-| ~~BOD~~ |  ~~1~~ | ~~N/A~~|  ~~2~~|
+|   SID   | 21, 17 | 03 | 34, 35 |
+| ------- | ------ | -- | ------ |
+|  KALDE  |   2D   | 1E |   2F   |
+|  LATEB  |   1D   | 1E |   2F   |
+|  LEBOR  |   1D   | 1E |   2F   |
+| ~~BOD~~ |  ~~1~~ |~~N/A~~|~~2~~|
 
-!!! abstract
+!!! abstract "BOD1 and BOD2 departures"
     **BOD** departures are out of service, and are **not** to be issued by controllers.
 
 Departures should primarily adhere to the Standard Instrument Departure (SID) routes, avoiding
