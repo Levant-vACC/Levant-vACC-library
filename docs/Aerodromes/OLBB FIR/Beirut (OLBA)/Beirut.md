@@ -15,7 +15,7 @@
     :material-information-outline: Non-standard positions may only be used with prior authorization from the vACC ATS department.  
     Approval must be sought from the **bolded parent position** prior to opening a Non-Standard Position, unless indicated otherwise (eg, for events).
 
-## Airspace - Class D
+## Airspace - Class C
 OLBA_TWR is responsible for the Beirut ATZ airspace from `SFC` to `A030`.
 
 ## VFR Operations
@@ -209,5 +209,4 @@ The Standard Assignable level from Beirut **ADC** to **TMA** is:
 
 | Aircraft | Level |
 | -------- | ----- |
-| IFR | `A050` |
-| VFR | `A030` |
+| All | The lower of `RFL` or `A050` |
