@@ -2,6 +2,8 @@
   title: Al-Asad (ORAA)
 ---
 
+--8<-- "includes/abbreviations.md"
+
 ## Positions
 
 | Name | Callsign	| Frequency | Login ID | Remarks |
@@ -14,7 +16,13 @@
 ORAA_TWR is responsible for the Al-Asad MATZ airspace from `SFC` to `A030`.
 
 ## Aerodrome Information
-Al-Asad is an airbase located in Western Iraq, located in the center of the R414 (ARCHER MOA) restricted airspace. The airbase consists of 3 runways, including 2 dependant parallel runways (27L/09R) and (27R/09L), and a grass airstrip located on the southern portion of the aerodrome (08/26).
+Al-Asad is an airbase located in Western Iraq, located in the center of the R414 (ARCHER) restricted airspace. The airbase consists of 3 runways, including 2 dependant parallel runways (27L/09R) and (27R/09L), and a grass airstrip located on the southern portion of the aerodrome (08/26).
+
+# Aerodrome
+## Logon 
+Upon logging on Al-Asad ADC it is essential to annouce the activation status of R414
+!!! phraseology
+    **IQA ADC -> ORBB_N_CTR**: Request activation of R414 from SFC to A030
 
 ## Flight Categories
 Recovering military aircraft will usually be flying IFR, but must revert to VFR at the following points:
@@ -23,8 +31,11 @@ Recovering military aircraft will usually be flying IFR, but must revert to VFR 
 - At High-Key.
 - Following a touch and go, go-around, overhead break, or visual overshoot when a local IFR aircraft has indicated an intention to join the circuit.
 
+## Runway Modes
+Dependant Parallel Runway Operations
+
 ## Circuit Procedures
-The Al-Asad Military Air Traffic Zone (AA MATZ) is active at all times when R414 (ARCHER MOA) is active.
+The Al-Asad Military Air Traffic Zone (AA MATZ) is active at all times when R414 (ARCHER) is active.
 
 Circuit Operations shall occur within a `5NM` radius of IQA ARP, at the following altitudes:
 
@@ -51,8 +62,19 @@ Visual Circuits are allowed on both runways 27L/09R and 27R/09L, runway 08/26 is
     **COBRA7**: Left hand circuits 27L, maintain 2000ft, on your frequency, fully ready.  
     **ORAA ADC**: COBRA7, roger, winds 280 degrees 3 knots, runway 27L cleared for takeoff, report downwind midfield with intentions, departure end cable indicates raised.  
 
+## IFR Departures
+
+!!! phraseology
+        **IQA SMC**: COBRA7, Al-Asad Ground, you are cleared to Balad airbase, expect omnidirection departure, runway 27L, climb flight level 230, departure frequency victor 3, squawk 6275.   
+        **COBRA7**: cleared Balad, omnidirection runway 27L, climb level 230, departures on victor 3, squawking 6275.  
+        **IQA SMC**: readback correct, information B, QNH 996 hectopascals, report ready for start.
+        
+!!! phraseology
+        **COBRA7** winds 260 degrees at 6 knots, runway 27R cleared for takeoff, departure end cable indicates raised, switch to approach, cya!  
+
 ## Military Procedures
 Military aircraft are entitled to different and more complex procedures than a normal civil fixed-wing aircraft.
+
 
 ### Overhead Maneuver
 
@@ -106,6 +128,7 @@ This is an immediate landing, on or off an airport, necessitated by the inabilit
 !!! note "Controllers must be aware that:"
     1. SFO/ELP approaches generally require high descent rates. Visibility ahead and beneath the aircraft is greatly restricted. This may preclude controllers from assigning visual separation to a pilot practicing such an approach.  
     2. Pattern adjustments for aircraft conducting SFOs and ELPs may impact the effectiveness of SFO and ELP training. Hence, avoid issuing instructions that will require such an aircraft modify its flight path.
+
 !!! phraseology "Overhead SFO/ELP approach"
     **DEVIL6**: Al-Asad Tower, DEVIL6, inbound requesting simulated flameout approach, information B.  
     **ORAA ADC**: DEVIL6, Al-Asad Tower, Salam, information B correct, runway 27L, report high-key.  
@@ -114,6 +137,7 @@ This is an immediate landing, on or off an airport, necessitated by the inabilit
     **ORAA ADC**: DEVIL6 roger, winds 260 degrees at 6 knots, report low-key.  
     **DEVIL6**: Low-key, DEVIL6.  
     **ORAA ADC**: DEVIL6 roger, runway 27L cleared low approach, pattern altitude 2000ft, left turns.  
+
 !!! phraseology "Straight-in SFO approach"
     **DEVIL6**: Al-Asad Tower, DEVIL6, salam, inbound from the east, requesting straight-in simulated flameout approach, information B.  
     **ORAA ADC**: DEVIL6, Al-Asad Tower, salam, information B correct, runway 27L, report 5 mile simulated flameout final.  
@@ -121,4 +145,47 @@ This is an immediate landing, on or off an airport, necessitated by the inabilit
     **DEVIL6**: 5 miles, DEVIL6.  
     **ORAA ADC**: DEVIL6 roger, winds 290 degrees at 6 knots, runway 27L cleared low approach, pattern altitude 2000 ft, left turns.
 
+### Low approach
+By day, pilots of local aircraft may request a low approach. Pilots are responsible for ensuring that no collision risk exists and that there is suitable spacing to continue the approach and for the potential/subsequent go-around.
+
+## Coordination
+### Departures
+'Next' coordination is **not** required from IQA ADC to IQA TMA for aircraft that are:
+
+- Departing from a runway nominated on the ATIS; and  
+- Assigned the Standard assignable level; and  
+- Assigned a **Procedural** SID
+
+'Next' coordination is additionally required for:
+
+-  Visual depatures (eg. VFR aircraft)
+-  After a go around, the next departure from that runway
+
+The Standard Assignable level from IQA ADC to IQA TMA is:
+
+|  Aircraft  |             Level             |
+| ---------- | ----------------------------- |
+|    All     | The lower of `F280` and `RFL` |
+
+### Arrivals
+For single flight arrivals, cleared for an approach on to a runway nominated on the ATIS, coordination is **not** required between IQA TMA to IQA ADC. All other aircraft including multi-ship flights in formation, must be heads up coordinated as soon as practical
+!!! phraseology
+    **IQA TMA -> IQA ADC**: inbound 27L, COBRA, close formation of 3, any restrictions or requirements?
+    **IQA ADC -> IQA TMA**: COBRA, no restrictions or requirements, `A030`.  
+
+# Terminal 
+## Airspace
+IQA APP being online, will activate the following airspaces by default:
+
+- IQA MATZ `SFC` - `A030`  
+- R414 `SFC` - `F280`  
+- R401 `SFC` - `F210`  
+
+All of which are classified as **Class C** airspace when active.
+!!! note
+     IQA APP may increase the upper limit of the Restricted Areas and their airspace. This must be either published by NOTAM, or negotiated with ORBB_*_CTR if online.  
+## Logon 
+Upon logging on Al-Asad TMA it is essential to annouce the activation status of R414
+!!! phraseology
+    **IQA TMA -> ORBB_N_CTR**: Request activation of R414 from SFC to F280
 
