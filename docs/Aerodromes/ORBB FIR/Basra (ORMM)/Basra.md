@@ -52,6 +52,7 @@ Aircraft requesting to exit the Basra CTR shall be assigned a clearance limit fo
     **BSR ADC**: YYC, Basra Tower, cleared to leave the Basra CTR direct Al-Najaf, maintain altitude 5500ft, squawk 7403, QNH 998 hectopascals.  
     **YYC**: Cleared to leave the Basra CTR direct Al-Najaf, maintain altitude 5500ft, QNH 998, and squawk 7403, YYC.
 
+### Entering the CTR
 Inbound VFR aircraft shall be sent to **ADC** with enough time such that two-way
 radio communications have been established before aircraft receive clearance to enter the CTR.
 
@@ -76,6 +77,9 @@ Winds must always be considered for Runway modes (Crosswind <20kts, Tailwind <5k
 | --------------- | -------- | ---------- | ------- |
 | 1 - MODE A | 32 | 32 | |
 | 2 - MODE B | 14 | 14 | |
+
+!!! note
+    The preferential runway is runway 32, as it has a published ILS approach procedure, unlike runway 14.
 
 ## Coordination
 ### Departure Procedures

@@ -51,6 +51,7 @@ Aircraft requesting to exit the Erbil CTR shall be assigned a clearance limit fo
     **RER ADC**: YYC, Erbil Tower, cleared to leave the Erbil CTR direct Kirkuk, maintain altitude 5500ft, squawk 7403, QNH 998 hectopascals.  
     **YYC**: Cleared to leave the Erbil CTR direct Kirkuk, maintain altitude 5500ft, QNH 998, and squawk 7403, YYC.
 
+### Entering the CTR
 Inbound VFR aircraft shall be sent to **ADC** with enough time such that two-way
 radio communications have been established before aircraft receive clearance to enter the CTR.
 
@@ -64,6 +65,20 @@ On initial contact, Erbil **ADC** will pass the instructions for joining the cir
 
 During times of heavy IFR arrival activity, VFR arrivals may be denied entry into the CTR and instructed to hold outside of the CTR awaiting further instructions.
 
+## IFR Operations
+IFR clearances are issued by Erbil **ADC**, ensuring appropriate routing.
+
+### Omni-directional Departures
+All aircraft shall be assigned an omni-directional departure, as SIDs are not used at Erbil.
+
+!!! phraseology
+    **IAW123**: Erbil Tower, IAW123, request clearance to Antalya, with information Alpha.  
+    **RER ADC**: IAW123, Erbil Tower, cleared to Antalya, expect omni-directional departure, flight planned route, squawk 4301. 
+
+### Overflights/Arrivals
+In addition to aircraft on the ground at Erbil, **ORER_TWR** is also responsible for airborne arrivals and
+departures at and below 6,000ft. Special caution must be taken due to terrain to the east of the airport. As is the procedure at procedural airports, due to the lack of radar, only one aircraft must operate in the non-radar procedural airspace at one time.
+
 ## Standard Taxi Routes
 All departing aircraft shall be assigned the most appropriate taxiway, onto taxiway A. Erbil **ADC** must exercise extreme caution on taxiway A, as conflicts can easily occur between arriving and departing traffic. Taxiway B is restricted to military traffic only.
 
@@ -75,6 +90,10 @@ Winds must always be considered for Runway modes (Crosswind <20kts, Tailwind <5k
 | --------------- | -------- | ---------- | ------- |
 | 1 - MODE A | 18 | 18 | |
 | 2 - MODE B | 36 | 36 | |
+
+!!! note  
+    The preferential runway for both departures and arrivals is **runway 18** and shall be used when the
+    tailwind component is less than 8 knots.
 
 ## Coordination
 

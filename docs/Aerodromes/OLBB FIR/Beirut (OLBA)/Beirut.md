@@ -159,7 +159,7 @@ take-off clearance.
     **MEA123**: Beirut Tower, MEA123, at H ready for departure.  
     **OLBA ADC**: MEA123, turn right heading 220 degrees after departure, winds 210 degrees at 6 knots, runway 21 cleared for takeoff. 
 
-# Standard Taxi Routes
+## Standard Taxi Routes
 All departing aircraft from terminal A shall be assigned taxiways L and A for runway 21, all aircraft shall be assigned holding point H, unless an intersection departure is requested by the pilot, or for the purposes of sequencing taxiway G may be used for departure. Taxiway F shall never be used for departing aircraft. Beirut **SMC** is encouraged to make use of procedural taxi instructions, in-case of arriving traffic on taxiway A and to reduce potential conflicts.
 
 ## Runway Modes

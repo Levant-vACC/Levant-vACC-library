@@ -70,10 +70,17 @@ Aircraft requesting to exit the Baghdad CTR shall be assigned a clearance limit 
     **BI ADC**: YYC, Baghdad Tower, cleared to leave the Baghdad CTR direct Al Najaf, maintain altitude 3500ft, squawk 7403, QNH 998 hectopascals.  
     **YYC**: Cleared to leave the Baghdad CTR direct Al Najaf, maintain altitude 3500ft, QNH 998, and squawk 7403, YYC.
 
+### Entering the CTR
 Inbound VFR aircraft shall be sent to **ADC** with enough time such that two-way
 radio communications have been established before aircraft receive clearance to enter the CTR.
 
 On initial contact, Baghdad **ADC** will pass the instructions for joining the circuit, as well as any other pertinent information such as traﬃc information with the sector.
+
+!!! phraseology
+    **YYC**: Baghdad Tower, YYC is requesting to enter the Baghdad CTR from the West for circuits.     
+    **BI ADC**: YYC, Baghdad Tower, information A, cleared to enter the Baghdad CTR, maintain at or below altitude 3000ft, report left downwind runway 33L with intentions, squawk 7403.  
+    **YYC**: We have A, cleared to enter the Baghdad CTR, at or below altitude 3000ft, will report left downwind runway 33L with intentions, squawk 7403, YYC.   
+    **BSR ADC**: YYC, correct, QNH 998 hectopascals.  
 
 During times of heavy IFR arrival activity, VFR arrivals may be denied entry into the CTR and instructed to hold outside of the CTR awaiting further instructions.
 
