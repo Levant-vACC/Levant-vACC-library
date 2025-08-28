@@ -20,6 +20,8 @@
 
 ORBI_TWR is responsible for the West Baghdad CTR airspace from `SFC` to `A030`, and the East Baghdad CTR airspace from `A010` to `A030`.
 
+![Baghdad CTR airspace structure](img/Baghdad structure.png)
+
 ## VFR Operations
 All VFR clearances are assigned by the revelant TWR controller.
 
