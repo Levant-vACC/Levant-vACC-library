@@ -57,10 +57,10 @@ radio communications have been established before aircraft receive clearance to 
 On initial contact, Erbil **ADC** will pass the instructions for joining the circuit, as well as any other pertinent information such as traﬃc information with the sector.
 
 !!! phraseology
-    **YYC**: Erbil Tower, YYC is requesting to enter the Erbil CTR from the south for circuits.    
-    **RER ADC**: YYC, Erbil Tower, information A, cleared to enter the Erbil CTR, maintain at or below altitude 6000ft, report right downwind runway 18 with intentions, squawk 7403. 
-    **YYC**: We have A, cleared to enter the Erbil CTR, at or below altitude 6000ft, will report right downwind runway 18 with intentions, squawk 7403, YYC.  
-    **RER ADC**: YYC, correct, QNH 998 hectopascals.   
+    **YYC**: Erbil Tower, YYC is requesting to enter the Erbil CTR from the south for circuits.     
+    **RER ADC**: YYC, Erbil Tower, information A, cleared to enter the Erbil CTR, maintain at or below altitude 6000ft, report right downwind runway 18 with intentions, squawk 7403.  
+    **YYC**: We have A, cleared to enter the Erbil CTR, at or below altitude 6000ft, will report right downwind runway 18 with intentions, squawk 7403, YYC.   
+    **RER ADC**: YYC, correct, QNH 998 hectopascals.    
 
 During times of heavy IFR arrival activity, VFR arrivals may be denied entry into the CTR and instructed to hold outside of the CTR awaiting further instructions.
 
