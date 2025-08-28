@@ -79,9 +79,9 @@ Winds must always be considered for Runway modes (Crosswind <20kts, Tailwind <5k
 ## Coordination
 
 ### Departure Procedures
-Due to the airspace structure in Erbil, all departures shall be coordinated and receive a release for departure with the relevant **TMA** controller (ORKK_APP)before release.
+Due to the airspace structure in Erbil, all departures shall be coordinated and receive a release for departure with the relevant Baghdad **TMA** controller (ORKK_APP)before release.
 
-'Next' coordination is **not** required to Kirkuk **TMA** for aircraft that are:
+'Next' coordination is **not** required to Baghdad **TMA** for aircraft that are:
 
 - Departing from a runway nominated on the ATIS; and
 - Assigned the Standard assignable level; and
@@ -94,7 +94,7 @@ Due to the airspace structure in Erbil, all departures shall be coordinated and 
 - All departures not on a Standard Assignable Heading
 - After a go around, the next departure from that runway
 
-The Standard Assignable level from Erbil **ADC** to Kirkuk **TMA** is:
+The Standard Assignable level from Erbil **ADC** to Baghdad **TMA** is:
 
 | Aircraft | Level |
 | -------- | ----- |
@@ -102,7 +102,7 @@ The Standard Assignable level from Erbil **ADC** to Kirkuk **TMA** is:
 | VFR | `A060` |
 
 ### Standard Assignable Departure Headings
-As there are no SIDs currently used in Erbil, aircraft must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Kirkuk **TMA** controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:
+As there are no SIDs currently used in Erbil, aircraft must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Baghdad **TMA** controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:
 
 | Runway | Heading |
 | ------ | ------- |
