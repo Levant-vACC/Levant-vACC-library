@@ -8,7 +8,7 @@
 | --------- | --------	| ---------	| -------- | ------- |
 | **Sulaymaniyah ADC** | **Sulaymaniyah Tower** | **118.300** | **ORSU_TWR** | |
 
-## Airspace - Class D
+## Airspace - Procedural Class D
 
 ORSU_TWR is responsible for the Sulaymaniyah CTR airspace from `SFC` to `A060`.
 
@@ -95,6 +95,10 @@ The departure runway does not need to be included within the clearance, as these
     **IAW123**: Sulaymaniyah Tower, IAW123, request clearance to Antalya, with information Alpha.  
     **ISU ADC**: IAW123, Sulaymaniyah Tower, Cleared to Antalya, KIRKK1 departure, flight planned route, initial climb 6,000 ft, squawk 4301. 
 
+### Overflights/Arrivals
+In addition to aircraft on the ground at Sulaimaniyah, **ORSU_TWR** is also responsible for airborne
+arrivals and departures at and below 6,000ft. As is the procedure at procedural airports, due to the lack
+of radar, only one aircraft must operate in the non-radar procedural airspace at one time.
 
 ## Standard Taxi Routes
 All departing aircraft shall be assigned the most appropriate taxiway, onto taxiway A. Sulaymaniyah **ADC** must exercise extreme caution on taxiway A, as conflicts can easily occur between arriving and departing traffic.
@@ -132,6 +136,7 @@ The Standard Assignable level from Erbil **ADC** to Baghdad **TMA** is:
 | -------- | ----- |
 | IFR | `A060` |
 | VFR | `A060` |
+
 
 ### Standard Assignable Departure Headings
 As there are only 2 SIDs currently used in Erbil, aircraft that are flying an omni-directional departure must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Baghdad **TMA** controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:

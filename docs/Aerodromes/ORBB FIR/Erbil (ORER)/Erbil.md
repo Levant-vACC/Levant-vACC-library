@@ -9,7 +9,7 @@
 | **Erbil ADC** | **Erbil Tower** | **128.800** | **ORER_TWR** | |
 | **Erbil ATIS** | | **130.400** | **ORER_ATIS** | |
 
-## Airspace - Class D
+## Airspace - Procedural Class D
 
 ORER_TWR is responsible for the Erbil CTR airspace from `SFC` to `A060`.
 
