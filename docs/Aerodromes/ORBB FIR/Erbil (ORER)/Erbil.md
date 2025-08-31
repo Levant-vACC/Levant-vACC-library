@@ -19,7 +19,7 @@ All VFR clearances are assigned by the revelant TWR controller.
 ### Circuits
 VFR Circuits are permitted on runways **36** and **18**.
 
-All VFR aircraft wishing to do remain in the circuit at Erbil shall be issued `A030` and the following circuit directions:
+All VFR aircraft wishing to do remain in the circuit at Erbil shall be issued not above `A060` and the following circuit directions:
 
 | Runway | Direction |
 | ------ | --------- |
@@ -28,8 +28,8 @@ All VFR aircraft wishing to do remain in the circuit at Erbil shall be issued `A
 
 !!! phraseology
     **ABC**: Erbil Tower, ABC holding short A1 runway 18.  
-    **RER ADC**: ABC, Erbil Tower, cleared to operate in the circuit area not above altitude 3000ft, right hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 18.  
-    **ABC**: Cleared to operate in the circuit area not above altitude 3000ft, will report on the right downwind, cleared for take-off runway 18, ABC.
+    **RER ADC**: ABC, Erbil Tower, cleared to operate in the circuit area not above altitude 6000ft, right hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 18.  
+    **ABC**: Cleared to operate in the circuit area not above altitude 6000ft, will report on the right downwind, cleared for take-off runway 18, ABC.
 
 VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
 
@@ -68,16 +68,46 @@ During times of heavy IFR arrival activity, VFR arrivals may be denied entry int
 ## IFR Operations
 IFR clearances are issued by Erbil **ADC**, ensuring appropriate routing.
 
+### Standard Instrument Departures (SIDs)
+All aircraft shall be assigned a Standard Instrument Departure 
+
+Controllers shall assign the proper SID exit waypoint based on the first enroute waypoint in their
+flight plan, and the proper procedure identifier based on the selected runway for departure.
+All SIDs with an identifier of 1N are valid for runway 36. SIDs
+with an identifier of 1S are valid for runway 18. 
+Listed below are the SIDs:
+
+|   SID   | 36 | 18 |
+| ------- | -- | -- |
+|  DAVAS  | 1N | 1S |   
+|  EMIDO  | 1N | 1S | 
+|  ROXOP  | 1N | 1S |  
+|  UMESA  | 1N | 1S |
+
+
+Departures should primarily adhere to the Standard Instrument Departure (SID) routes, avoiding
+radar vectors whenever feasible. If radar vectors are to be assigned, a specific reason must be
+provided. 
+
+!!! phraseology
+    **IAW123**: Erbil Tower, IAW123, request clearance to Antalya, with information Alpha.  
+    **RER ADC**: IAW123, Erbil Tower, cleared to Antalya, EMID1S departure, flight planned route, initial climb 6000ft, squawk 4301. 
+
 ### Omni-directional Departures
-All aircraft shall be assigned an omni-directional departure, as SIDs are not used at Erbil.
+Aircraft can only be assigned an omni-directional departure if they are unable to fly the SIDs.
 
 !!! phraseology
     **IAW123**: Erbil Tower, IAW123, request clearance to Antalya, with information Alpha.  
     **RER ADC**: IAW123, Erbil Tower, cleared to Antalya, expect omni-directional departure, flight planned route, squawk 4301. 
 
-### Overflights/Arrivals
+### Arrivals
 In addition to aircraft on the ground at Erbil, **ORER_TWR** is also responsible for airborne arrivals and
 departures at and below 6,000ft. Special caution must be taken due to terrain to the east of the airport. As is the procedure at procedural airports, due to the lack of radar, only one aircraft must operate in the non-radar procedural airspace at one time.
+
+!!! phraseology
+    **IAW123**: Erbil Tower, IAW123, inbound ILS-Z runway 18, descending through 7000ft.  
+    **RER ADC**: IAW123, Erbil Tower, salam, report established on the ILS runway 18.  
+
 
 ## Standard Taxi Routes
 All departing aircraft shall be assigned the most appropriate taxiway, onto taxiway A. Erbil **ADC** must exercise extreme caution on taxiway A, as conflicts can easily occur between arriving and departing traffic. Taxiway B is restricted to military traffic only.
@@ -98,7 +128,7 @@ Winds must always be considered for Runway modes (Crosswind <20kts, Tailwind <5k
 ## Coordination
 
 ### Departure Procedures
-Due to the airspace structure in Erbil, all departures shall be coordinated and receive a release for departure with the relevant Baghdad **TMA** controller (ORKK_APP)before release.
+Due to the airspace structure in Erbil, all departures shall be coordinated and receive a release for departure with the relevant Baghdad **TMA** controller (ORKK_APP) before release.
 
 'Next' coordination is **not** required to Baghdad **TMA** for aircraft that are:
 
@@ -121,7 +151,7 @@ The Standard Assignable level from Erbil **ADC** to Baghdad **TMA** is:
 | VFR | `A060` |
 
 ### Standard Assignable Departure Headings
-As there are no SIDs currently used in Erbil, aircraft must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Baghdad **TMA** controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:
+If a departing aircraft is receiving an omni-directional departure, they must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Baghdad **TMA** controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:
 
 | Runway | Heading |
 | ------ | ------- |
