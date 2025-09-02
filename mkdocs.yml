@@ -77,34 +77,21 @@ nav:
   - Aerodromes: 
     - Overview: Aerodromes/index.md
     - OLBB FIR: 
-      - Beirut (OLBA): 
-        - Beirut (OLBA): Aerodromes/OLBB FIR/Beirut (OLBA)/Beirut.md
+      - Beirut (OLBA): Aerodromes/OLBB FIR/Beirut (OLBA)/Beirut.md
     - ORBB FIR:
-      - Al-Najaf (ORNI): 
-        - Al-Najaf (ORNI): Aerodromes/ORBB FIR/Al-Najaf (ORNI)/Al-Najaf.md
-      - Baghdad (ORBI):
-        - Baghdad (ORBI): Aerodromes/ORBB FIR/Baghdad (ORBI)/Baghdad.md
-      - Basra (ORMM):
-        - Basra (ORMM): Aerodromes/ORBB FIR/Basra (ORMM)/Basra.md
-      - Erbil (ORER):
-        - Erbil (ORER): Aerodromes/ORBB FIR/Erbil (ORER)/Erbil.md
-      - Kirkuk (ORKK):
-        - Kirkuk (ORKK): Aerodromes/ORBB FIR/Kirkuk (ORKK)/Kirkuk.md
-      - Mosul (ORBM):
-        - Mosul (ORBM): Aerodromes/ORBB FIR/Mosul (ORBM)/Mosul.md
-      - Sulaimaniyah (ORSU): 
-        - Sulaimaniyah (ORSU): Aerodromes/ORBB FIR/Sulaimaniyah (ORSU)/Sulaimaniyah.md
+      - Al-Najaf (ORNI): Aerodromes/ORBB FIR/Al-Najaf (ORNI)/Al-Najaf.md
+      - Baghdad (ORBI): Aerodromes/ORBB FIR/Baghdad (ORBI)/Baghdad.md
+      - Basra (ORMM): Aerodromes/ORBB FIR/Basra (ORMM)/Basra.md
+      - Erbil (ORER): Aerodromes/ORBB FIR/Erbil (ORER)/Erbil.md
+      - Kirkuk (ORKK): Aerodromes/ORBB FIR/Kirkuk (ORKK)/Kirkuk.md
+      - Mosul (ORBM): Aerodromes/ORBB FIR/Mosul (ORBM)/Mosul.md
+      - Sulaimaniyah (ORSU): Aerodromes/ORBB FIR/Sulaimaniyah (ORSU)/Sulaimaniyah.md
     - OSTT FIR:
-      - Aleppo (OSAP):
-        - Aleppo (OSAP): Aerodromes/OSTT FIR/Aleppo (OSAP)/Aleppo.md
-      - Damascus (OSDI): 
-        - Damascus (OSDI): Aerodromes/OSTT FIR/Damascus (OSDI)/Damascus.md
-      - Deir ez-Zor (OSDZ):
-        - Deir ez-Zor (OSDZ): Aerodromes/OSTT FIR/Deir ez-Zor (OSDZ)/Deir ez-Zor.md
-      - Qamishli (OSKL):
-        - Qamishli (OSKL): Aerodromes/OSTT FIR/Qamishli (OSKL)/Qamishli.md
-      - Latakia (OSLK):
-        - Latakia (OSLK): Aerodromes/OSTT FIR/Latakia (OSLK)/Latakia.md
+      - Aleppo (OSAP): Aerodromes/OSTT FIR/Aleppo (OSAP)/Aleppo.md
+      - Damascus (OSDI): Aerodromes/OSTT FIR/Damascus (OSDI)/Damascus.md
+      - Deir ez-Zor (OSDZ): Aerodromes/OSTT FIR/Deir ez-Zor (OSDZ)/Deir ez-Zor.md
+      - Qamishli (OSKL): Aerodromes/OSTT FIR/Qamishli (OSKL)/Qamishli.md
+      - Latakia (OSLK): Aerodromes/OSTT FIR/Latakia (OSLK)/Latakia.md
   - Terminal:
     - Overview: Terminal/index.md
     - OLBB FIR: 
@@ -143,10 +130,9 @@ nav:
     - Al-Asad Airbase (ORAA): Tier 2 Positions/Al-Asad Airbase (ORAA)/Al-Asad.md
   - Training documents:
     - Overview: Training documents/index.md
-  - vACC policies:
-    - ATS Policy: 
-      - ATS Policy: vACC policies/ATS Policy/ATS Policy.md
-      - ATS Training Policy: vACC policies/ATS Policy/ATS Training Policy.md
+  - vACC policies: 
+    - ATS Policy: vACC policies/ATS Policy/ATS Policy.md
+    - ATS Training Policy: vACC policies/ATS Policy/ATS Training Policy.md
 
 
 
