@@ -146,7 +146,7 @@ As we strive to maintain a high standard of realism and excellence in air traffi
 | -------------------------------------------------------------------------------------------------- | -------- |
 | Baghdad FMP :material-information-outline:{ title="Non-standard position"} :octicons-checklist-24: | ORBI_FMP |
 | Baghdad ACD :material-information-outline:{ title="Non-standard position"}                         | ORBI_DEL |
-| Beirut FMP :material-information-outline:{ title="Non-standard position"}: :octicons-checklist-24: | OLBA_FMP |
+| Beirut FMP :material-information-outline:{ title="Non-standard position"} :octicons-checklist-24:  | OLBA_FMP |
 | Beirut ACD :material-information-outline:{ title="Non-standard position"}                          | OLBA_DEL |
 | Levant TMU :material-information-outline:{ title="Non-standard position"} :octicons-checklist-24:  | LEV_TMU  |
 
@@ -174,17 +174,17 @@ All controllers reserve the right to deny consent to any members. If consent is 
 Controllers are required to meet the following session time requirements:
 
 | Position | Minimum Session Time |
-|:--------:|:--------------------:|
-| DEL/GND |      30 Minutes      |
-| TWR     |      30 Minutes      |
-| DEP/APP |      30 Minutes      |
-| CTR     |      30 Minutes      |
+| -------- | -------------------- |
+| DEL/GND  |      30 Minutes      |
+| TWR      |      30 Minutes      |
+| DEP/APP  |      30 Minutes      |
+| CTR      |      30 Minutes      |
 
 Sessions under 30 minutes will not be counted toward the controller's quarterly total. Repeated non-compliance may lead to disciplinary action.
 
 ## Commencing a Session
 
-``` mermaid
+```mermaid
 flowchart LR
   a[Controller checks out VATSIM Radar or equivalent to see if ATC is online] --> b[Adjacent controllers are online] --> c[Log on the network with an approved callsign] --> d[Coordinate with the next controller to determine ATIS, runways in use, and operational info] --> h[Announce controller presence in 'ATC chat']
     a[Controller checks out VATSIM Radar or equivalent to see if ATC is online] --> f[Adjacent controllers are not online] --> g[Log on the network with an approved callsign] --> h[Announce controller presence in 'ATC chat']
@@ -210,5 +210,6 @@ Controllers must notify others of their intent to disconnect using the `.break` 
 
 
 Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
+
 
 
