@@ -2,9 +2,9 @@
   title: Levant vACC Air Traffic Services Training Policy for Controllers
 ---
 
-# Policy Information
+## Policy Information
 
-## Control Information
+### Control Information
 
 |                     |                                                  |
 | ------------------- | ------------------------------------------------ |
@@ -16,21 +16,21 @@
 | Next review date    |                                                  |
 | Cancelled documents | Levant vACC ATS Policy for Home/Visiting Members |
 
-## Record of Revisions
+### Record of Revisions
 
 | Revision | Date        | Notes           | Author     |
 | -------- | ----------- | --------------- | ---------- |
 | R01/2025 | 11 SEP 2025 | Initial Release | Joshua Ong |
 
-# Scope
+## Scope
 
 This document establishes the training procedures for controllers operating in both their home and visiting capacities within the Levant vACC. It delineates the various phases of training that controllers are anticipated to traverse in order to advance within the VATSIM rating system. This document takes precedence over any existing training policies for home and visiting controllers within the Levant vACC official training system. In cases of uncertainty regarding the appropriate process for a student, they should refer to this document and adhere to the applicable procedure(s).
 
-# Foundations for ATC Students
+## Foundations for ATC Students
 
-## Software
+### Software
 
-### Controller Client
+#### Controller Client
 
 EuroScope is the primary radar client used for controlling within the Levant vACC. It can be downloaded from the [Euroscope website](https://www.euroscope.hu/wp/). All Levant vACC sector files are specifically designed to work with EuroScope only.
 
@@ -44,24 +44,24 @@ Sector files for each FIR can be downloaded from the [AeroNav GNG website](https
 
 A detailed setup guide for installing EuroScope and the Levant vACC sector files will be available soon on our youtube channel.
 
-### Audio Client(s)
+#### Audio Client(s)
 
 To communicate with pilots while controlling on the network, you must install an approved Audio for VATSIM (AFV) client. Supported options include [Audio for VATSIM](https://audio.vatsim.net/docs/atc/euroscope) and/or [TrackAudio](https://github.com/pierr3/TrackAudio/releases/tag/1.3.1).
 
-### vATIS Client
+#### vATIS Client
 
 To provide pilots with up-to-date aerodrome operational information, you will need the [vATIS Client](https://vatis.app/).
 
 The AIS Department releases regular updates to our vATIS profiles to ensure all relevant airport conditions and NOTAMS are simulated and shown on the ATIS. You may download the [vATIS Profiles](https://vats.im/lev/vATIS) from our Google drive.
 
-# The Waiting List
+## The Waiting List
 Before a controller can be offered a place in a training plan, they must first express their interest and be added to the waiting list.
 
 After completing all prerequisites outlined in the Training Plan section, the controller must submit a support ticket through the Levant vACC Discord to confirm their eligibility.
 
 Controllers will only be enrolled into a training plan once all requirements have been fully met. 
 
-## Maintaining Your Spot on the Waiting List
+### Maintaining Your Spot on the Waiting List
 To remain on the waiting list, controllers must:
 
 - Stay active on the Levant vACC ATC roster
@@ -69,13 +69,13 @@ To remain on the waiting list, controllers must:
   
 Controllers who do not meet these conditions will be removed from the waiting list.
 
-## Losing Your Spot on the Waiting List
+### Losing Your Spot on the Waiting List
 The Arabian vACC ATC Training Department reserves the right to remove a controller from the waiting list without prior notice in circumstances including, but not limited to:
 
 - Disciplinary action taken against the controller  
 - Repeated negative feedback received while controlling positions associated with their current rating
 
-# Minimum Controller Activity
+## Minimum Controller Activity
 All resident controllers within the Levant vACC must log a minimum of **3 hours of ATC activity per calendar quarter** to remain active on the controller roster. 
 
 Failure to meet this requirement will result in **automatic removal** from the roster and **any associated training plan or waiting list**.
@@ -87,7 +87,7 @@ The calendar quarters are defined as follows:
 - **Quarter 3 (Q3) - 1st July to 30th September**
 - **Quarter 4 (Q4) - 1st October to 31st December**
 
-# Training Plan
+## Training Plan
 
 To be eligible for enrollment in a training plan on Hayya, students must meet the following criteria:
 
@@ -106,7 +106,7 @@ Members on the waiting list may be offered a training plan for a specific aerodr
 
 This policy ensures fair and efficient use of training resources and minimizes delays for all members in the training pipeline.
 
-## Training Facilities Across Levant vACC FIRs
+### Training Facilities Across Levant vACC FIRs
 
 Training may be conducted within any of the Levant vACC's three FIRs, The available training facilities are as follows:
 
@@ -121,24 +121,24 @@ Training may be conducted within any of the Levant vACC's three FIRs, The availa
 - **Enroute (C1)**
     - Baghdad FIR (ORBB)
 
-## Training Engagement and Availability Expectations
+### Training Engagement and Availability Expectations
 
 ATC training within the Levant vACC is a *rigorous* process. Given the number of students and the limited number of available mentors and instructors, training resources must be used efficiently. To support this, members enrolled in a training plan are expected to demonstrate consistent engagement and flexibility.
 
-## Availability Requirements
+### Availability Requirements
 
 - **Maintaining Availability**: Students must keep their availability on their discord training thread up-to-date at all times while holding a position within a training plan.
 - **Diverse Availability**: Students should aim to provide a wide range of availability—including daytime, evenings, and weekends—where possible. As mentors and instructors may be located in different time zones, flexibility significantly increases the likelihood of receiving training sessions.
 - **Session Cancellations**: If a student needs to cancel a scheduled session or withdraw a session request, they must either remove their availability on their discord training thread or notify their mentor or instructor directly with a minimum notice time of **12 hours**. Failing to do so will result in the student's training being delayed.
 
-## Recommendations to Improve Training Opportunities
+### Recommendations to Improve Training Opportunities
 
 To increase the likelihood of receiving training sessions, students are strongly encouraged to:
 
 - Enter as much availability as possible for the upcoming **14 days**
 - Provide availability in **blocks of at least 90 minutes**, with longer periods preferred
 
-## Discretionary Removal
+### Discretionary Removal
 
 The ATS Department Director reserves the right to remove a member from a training plan at their discretion in circumstances including, but not limited to:
 
@@ -149,7 +149,7 @@ The ATS Department Director reserves the right to remove a member from a trainin
 
 All forfeiture decisions will be made in alignment with the broader goals of maintaining fairness, efficiency, and high standards across the training program.
 
-## Self-Study
+### Self-Study
 
 Students are expected to engage with the theoretical content provided in the [Arabian vACC Library](https://library.arabian-vacc.com) (As we are currently working on our own theoretical content) outside of their scheduled mentoring sessions. This includes, but is not limited to, reviewing assigned readings, practicing relevant skills, and deepening their understanding of core concepts. Mentors and instructors may also suggest additional resources or encourage observation of experienced controllers.
 
@@ -157,11 +157,11 @@ After each mentoring session, mentors and instructors will provide comprehensive
 
 Arriving unprepared for a session, whether through a lack of review of session reports or theoretical material, is considered unprofessional. Mentors and instructors are within their rights to end a session prematurely if they feel that the student has not made adequate efforts to prepare. In such cases, a report will be submitted to the ATS Department Director for further review. This may lead to the student's removal from the training plan if insufficient progress or engagement is noted.
 
-## Asking for Help
+### Asking for Help
 
 In aviation, there are no "stupid" questions—it's always better to ask than to remain silent. The ATS Department staff, instructors, and mentors are always available and happy to assist students with any questions related to their training. Students are encouraged to direct their questions to our ATS Department staff.
 
-## Solo Validations
+### Solo Validations
 
 In accordance with the VATSIM Middle East & North Africa Division ATC Training Policy, the Levant vACC is responsible for issuing solo validations for students working toward their tower, approach, and center ratings. The responsibility for these validations lies with the assigned mentor or instructor. The following solo validations may be granted:
 
@@ -180,12 +180,12 @@ In accordance with the VATSIM Middle East & North Africa Division ATC Training P
 
 Solo validations will only be granted for a maximum of 30 days at a time before a practical exam is required. If a student does not pass the exam, they may continue to operate under a solo validation after receiving additional mentoring sessions. Students holding a solo validation are authorized to control at any time on their assigned training position, including during events, without the presence of a mentor.
 
-# Examinations
+## Examinations
 
-## Theoretical
+### Theoretical
 All theoretical modules and exams for the **S1**, **S2**, **S3**, and **C1** ratings are available through the [Middle East & North Africa Academy](https://academy.vatsim.me). Completion of these modules and exams is required to be eligible for enrollment in a training plan.
 
-## Practical
+### Practical
 
 When a student, in agreement with their mentor or instructor, feels ready, they can submit a request for an examination through the ATS Department. Before being forwarded for a practical exam, students will be consulted to ensure they are fully prepared, and additional training can be arranged if requested by the student. 
 
