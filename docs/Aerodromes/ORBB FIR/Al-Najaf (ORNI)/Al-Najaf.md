@@ -90,6 +90,25 @@ Departures should primarily adhere to the Standard Instrument Departure (SID) ro
 radar vectors whenever feasible. If radar vectors are to be assigned, a specific reason must be
 provided. 
 
+#### Published SID Initial Climb Altitudes
+The initial climb clearance is stated on published SID charts and does not need to be read to the pilot by
+default. Nevertheless, if the pilot asks for the initial climb altitude, the controller shall advise them of the
+following initial climb clearances:
+
+|   SID   | Runway | Initial Climb Clearance |
+| -------- | ------ | ------ |
+| SIGBI 1A |   10   | 6000ft |   
+| ILMAP 1B |   28   | 6000ft | 
+| LAGLO 1A |   10   |10000ft |  
+| NOLDO 1A |   10   |10000ft |
+| SEPTU 1A |   10   |10000ft |
+| NOLDO 1C |   10   |11000ft |
+| ILMAP 1A |   10   |14000ft |
+| LAGLO 1B |   28   |14000ft |
+| NOLDO 1B |   28   |14000ft |
+| SEPTU 1B |   28   |14000ft |
+| SIGBI 1B |   28   |14000ft |
+
 !!! phraseology
     **IAW123**: Al-Najaf Ground, IAW123, request clearance to Dubai, with information Alpha.  
     **NJF SMC**: IAW123, Al-Najaf Ground, cleared to Dubai, SEPT1A departure, flight planned route, squawk 4301. 
@@ -124,7 +143,7 @@ Winds must always be considered for Runway modes (Crosswind <20kts, Tailwind <5k
 | 4 - MODE D | 10 | 10 | |
 
 !!! warning    
-        This preferential runway configuration applies opposite runway direction operations. This may not always be possible either due to weather conditions (specifically when there is a tailwind component greater than 5 knots) or due to volumes of high traffic, which make opposite direction operations unsuitable. The operating air traffic control officer shall use their discretion and take the above factors into account when deciding and implementing active runways for arrivals and departures.
+    This preferential runway configuration applies opposite runway direction operations. This may not always be possible either due to weather conditions (specifically when there is a tailwind component greater than 5 knots) or due to volumes of high traffic, which make opposite direction operations unsuitable. The operating air traffic control officer shall use their discretion and take the above factors into account when deciding and implementing active runways for arrivals and departures.
 
 ## Coordination
 
@@ -161,8 +180,8 @@ If a departing aircraft is receiving an omni-directional departure, they must re
 
 | Runway | Heading |
 | ------ | ------- |
-| 10 | `H160???` |
-| 28 | `H???` |
+| 10 | `H160` |
+| 28 | `H330` |
 
 
 !!! tip
