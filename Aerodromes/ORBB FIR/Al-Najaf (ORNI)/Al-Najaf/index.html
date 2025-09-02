@@ -808,6 +808,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Standard Instrument Departures (SIDs)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#published-sid-initial-climb-altitudes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Published SID Initial Climb Altitudes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
           <li class="md-nav__item">
@@ -2835,6 +2850,21 @@
     </span>
   </a>
   
+    <nav class="md-nav" aria-label="Standard Instrument Departures (SIDs)">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#published-sid-initial-climb-altitudes" class="md-nav__link">
+    <span class="md-ellipsis">
+      Published SID Initial Climb Altitudes
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
 </li>
         
           <li class="md-nav__item">
@@ -3088,6 +3118,76 @@ Listed below are the SIDs:</p>
 <p>Departures should primarily adhere to the Standard Instrument Departure (SID) routes, avoiding
 radar vectors whenever feasible. If radar vectors are to be assigned, a specific reason must be
 provided. </p>
+<h4 id="published-sid-initial-climb-altitudes">Published SID Initial Climb Altitudes</h4>
+<p>The initial climb clearance is stated on published SID charts and does not need to be read to the pilot by
+default. Nevertheless, if the pilot asks for the initial climb altitude, the controller shall advise them of the
+following initial climb clearances:</p>
+<table>
+<thead>
+<tr>
+<th>SID</th>
+<th>Runway</th>
+<th>Initial Climb Clearance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SIGBI 1A</td>
+<td>10</td>
+<td>6000ft</td>
+</tr>
+<tr>
+<td>ILMAP 1B</td>
+<td>28</td>
+<td>6000ft</td>
+</tr>
+<tr>
+<td>LAGLO 1A</td>
+<td>10</td>
+<td>10000ft</td>
+</tr>
+<tr>
+<td>NOLDO 1A</td>
+<td>10</td>
+<td>10000ft</td>
+</tr>
+<tr>
+<td>SEPTU 1A</td>
+<td>10</td>
+<td>10000ft</td>
+</tr>
+<tr>
+<td>NOLDO 1C</td>
+<td>10</td>
+<td>11000ft</td>
+</tr>
+<tr>
+<td>ILMAP 1A</td>
+<td>10</td>
+<td>14000ft</td>
+</tr>
+<tr>
+<td>LAGLO 1B</td>
+<td>28</td>
+<td>14000ft</td>
+</tr>
+<tr>
+<td>NOLDO 1B</td>
+<td>28</td>
+<td>14000ft</td>
+</tr>
+<tr>
+<td>SEPTU 1B</td>
+<td>28</td>
+<td>14000ft</td>
+</tr>
+<tr>
+<td>SIGBI 1B</td>
+<td>28</td>
+<td>14000ft</td>
+</tr>
+</tbody>
+</table>
 <div class="admonition phraseology">
 <p class="admonition-title">Phraseology</p>
 <p><strong>IAW123</strong>: Al-Najaf Ground, IAW123, request clearance to Dubai, with information Alpha.<br />
@@ -3150,8 +3250,7 @@ provided. </p>
 </table>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
-<pre><code>This preferential runway configuration applies opposite runway direction operations. This may not always be possible either due to weather conditions (specifically when there is a tailwind component greater than 5 knots) or due to volumes of high traffic, which make opposite direction operations unsuitable. The operating air traffic control officer shall use their discretion and take the above factors into account when deciding and implementing active runways for arrivals and departures.
-</code></pre>
+<p>This preferential runway configuration applies opposite runway direction operations. This may not always be possible either due to weather conditions (specifically when there is a tailwind component greater than 5 knots) or due to volumes of high traffic, which make opposite direction operations unsuitable. The operating air traffic control officer shall use their discretion and take the above factors into account when deciding and implementing active runways for arrivals and departures.</p>
 </div>
 <h2 id="coordination">Coordination</h2>
 <h3 id="departure-procedures">Departure Procedures</h3>
@@ -3219,11 +3318,11 @@ provided. </p>
 <tbody>
 <tr>
 <td>10</td>
-<td><code>H160???</code></td>
+<td><code>H160</code></td>
 </tr>
 <tr>
 <td>28</td>
-<td><code>H???</code></td>
+<td><code>H330</code></td>
 </tr>
 </tbody>
 </table>
@@ -3234,6 +3333,10 @@ provided. </p>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
 <p>The runway heading <code>H100</code>/<code>H280</code> shall be avoided when possible.</p>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Holy Shrine P102</p>
+<p>Special consideration must be given to a prohibited area west of the airport, when runway 28 is in use for departures. This prohibited area protects the “Holy Shrine” and flights shall, when possible and when not following SIDs, avoid the area by flying north of the Holy Shrine. VFR flights shall also be guided to avoid this area when possible.</p>
 </div>
 <div class="admonition phraseology">
 <p class="admonition-title">Phraseology</p>
@@ -3260,7 +3363,7 @@ provided. </p>
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"/></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 2, 2025 04:55:02 UTC">September 2, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="September 2, 2025 06:40:44 UTC">September 2, 2025</span>
   </span>
 
     
