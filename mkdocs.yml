@@ -144,8 +144,9 @@ nav:
   - Training documents:
     - Overview: Training documents/index.md
   - vACC policies:
-    - Overview: vACC policies/index.md
-
+    - ATS Policy: 
+      - ATS Policy: vACC policies/ATS Policy/ATS Policy.md
+      - ATS Training Policy: vACC policies/ATS Policy/ATS Training Policy.md
 
 
 
