@@ -92,26 +92,25 @@ provided.
 
 !!! phraseology
     **IAW123**: Al-Najaf Ground, IAW123, request clearance to Dubai, with information Alpha.  
-    **NJF SMC**: IAW123, Al-Najaf Ground, cleared to Dubai, SEPT1A departure, flight planned route, initial climb 6000ft, squawk 4301. 
+    **NJF SMC**: IAW123, Al-Najaf Ground, cleared to Dubai, SEPT1A departure, flight planned route, squawk 4301. 
 
 ### Omni-directional Departures
-Aircraft can only be assigned an omni-directional departure if they are unable to fly the SIDs.
+Aircraft may be assigned an omni-directional departure if they are unable to fly a SID (for examble not RNAV capable), or for departures to the southwest, filing via RUKAM (or ALI DCT RUKAM). Al-Najaf **SMC** is required to adjust their phraseology for a omni-directional departure. 
 
 !!! phraseology
-    **IAW123**: Erbil Tower, IAW123, request clearance to Antalya, with information Alpha.  
-    **RER ADC**: IAW123, Erbil Tower, cleared to Antalya, expect omni-directional departure, flight planned route, squawk 4301. 
+    **IAW123**: Al-Najaf Ground, IAW123, request clearance to Dubai, unable SID, with information Alpha.  
+    **NJF SMC**: IAW123, Al-Najaf Ground, cleared to Dubai, expect radar vectors to ILMAP after departure, flight planned route, squawk 4301. 
 
 ### Arrivals
-In addition to aircraft on the ground at Erbil, **ORER_TWR** is also responsible for airborne arrivals and
-departures at and below 6,000ft. Special caution must be taken due to terrain to the east of the airport. As is the procedure at procedural airports, due to the lack of radar, only one aircraft must operate in the non-radar procedural airspace at one time.
+At Al-Najaf, **ORNI_TWR** is responsible for the entirety of the CTR, and is required to provide top-down service if the underlying **SMC** controller is offline.
 
 !!! phraseology
-    **IAW123**: Erbil Tower, IAW123, inbound ILS-Z runway 18, descending through 7000ft.  
-    **RER ADC**: IAW123, Erbil Tower, salam, report established on the ILS runway 18.  
+    **IAW123**: Al-Najaf Tower, IAW123, final runway 28.
+    **NJF ADC**: IAW123, Al-Najaf Tower, salam, winds 260 degrees at 8 knots, runway 28 cleared to land.  
 
 
 ## Standard Taxi Routes
-All departing aircraft shall be assigned the most appropriate taxiway, onto taxiway A. Erbil **ADC** must exercise extreme caution on taxiway A, as conflicts can easily occur between arriving and departing traffic. Taxiway B is restricted to military traffic only.
+All departing aircraft shall be assigned the most appropriate taxiway, onto taxiway C. Al-Najaf **SMC** must exercise extreme caution on taxiway C, as conflicts can easily occur between arriving and departing traffic.
 
 ## Runway Modes
 ### Preferred Runway Modes
@@ -119,51 +118,60 @@ Winds must always be considered for Runway modes (Crosswind <20kts, Tailwind <5k
 
 | Priority - Mode | Arrivals | Departures | Remarks |
 | --------------- | -------- | ---------- | ------- |
-| 1 - MODE A | 18 | 18 | |
-| 2 - MODE B | 36 | 36 | |
+| 1 - MODE A | 28 | 10 | |
+| 2 - MODE B | 10 | 28 | |
+| 3 - MODE C | 28 | 28 | |
+| 4 - MODE D | 10 | 10 | |
 
-!!! note  
-    The preferential runway for both departures and arrivals is **runway 18** and shall be used when the
-    tailwind component is less than 8 knots.
+!!! warning    
+   This preferential runway configuration applies opposite runway direction operations. This may not always be possible either due to weather conditions (specifically when there is a tailwind component greater than 5 knots) or due to volumes of high traffic, which make opposite direction operations unsuitable. The operating air traffic control officer shall use their discretion and take the above factors into account when deciding and implementing active runways for arrivals and departures.
 
 ## Coordination
 
 ### Departure Procedures
-Due to the airspace structure in Erbil, all departures shall be coordinated and receive a release for departure with the relevant Baghdad **TMA** controller (ORKK_APP) before release.
+Due to the airspace structure in Al-Najaf, all departures shall be coordinated and receive a release for departure with the relevant Baghdad **TMA** controller.
 
-'Next' coordination is **not** required to Baghdad **TMA** for aircraft that are:
+'Next' coordination is required to the following stations, in the following scenarios:
 
-- Departing from a runway nominated on the ATIS; and
-- Assigned the Standard assignable level; and
-- Assigned a **Procedural SID**; or
-- Assigned a **Standard Assignable Heading**
+| Coordination Station (ORNI_TWR -> ORXX_APP)| Departing Procedure|
+| -------- | ----- |
+| ORBI_APP | All SIDs **except** ILMAP departures, omni-directional departures expected to enter Baghdad TMA (mainly departures to the north) |
+| ORNI_APP/ORMM_APP | ILMAP departures and all other omni-directional departures|
+
+!!! note  
+    ORNI_APP/ORMM_APP must be notified of aircraft that are being released on an omni-directional departure to ORBI_APP.
 
 'Next' coordination is additionally required for:
 
 - Visual depatures (eg. VFR aircraft)
-- All departures not on a Standard Assignable Heading
 - After a go around, the next departure from that runway
 
-The Standard Assignable level from Erbil **ADC** to Baghdad **TMA** is:
+The Standard Assignable level from Al-Najaf **ADC** to Baghdad **TMA** is:
 
 | Aircraft | Level |
 | -------- | ----- |
-| IFR | `A060` |
-| VFR | `A060` |
+| IFR | `A040` or published SID altitude |
+| VFR | `A040` |
+
+!!! warning
+    'Next' coordination **is mandatory** for **all** aircraft departing Al-Najaf.  
 
 ### Standard Assignable Departure Headings
-If a departing aircraft is receiving an omni-directional departure, they must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Baghdad **TMA** controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:
+If a departing aircraft is receiving an omni-directional departure, they must recieve an assigned heading with their line up or take-off clearance. Al-Najaf **ADC** controller shall coordinate with the overlying TMA controller on a heading to follow after departure, prior to issuing a takeoff clearance. Unless coordinated otherwise **ADC** shall assign the following heading for departing aircraft
 
 | Runway | Heading |
 | ------ | ------- |
-| 18 | `H175` |
-| 36 | `H355` |
+| 10 | `H160???` |
+| 28 | `H???` |
 
 
 !!! tip
     If strong winds are present at altitude, **ADC/TMA** should discuss slight changes to these headings (+/- 5 degrees) to compensate for large crosswind components.
 
+!!! warning
+    The runway heading `H100`/`H280` shall be avoided when possible.
+
 !!! phraseology
     **IAW23**: IAW23 ready for departure.  
-    **RER ADC**: IAW23, after departure climb to altitude 6000ft, fly runway heading, surface winds variable at 3 knots, runway 18 cleared for take-off.
+    **NJF ADC**: IAW23, after departure climb to altitude 4000ft, fly heading 160 degrees, surface winds variable at 3 knots, runway 10 cleared for take-off.
 

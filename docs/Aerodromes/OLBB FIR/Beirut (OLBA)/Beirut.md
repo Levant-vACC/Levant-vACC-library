@@ -150,7 +150,7 @@ For aircrafts who are unable to accept SIDs (for example not RNAV capable), clea
 
 !!! phraseology
     **MEA123**: Beirut Ground, MEA123, request clearance to Jeddah, unable SID, information Alpha.  
-    **OLBA SMC**: MEA123, Beirut Ground, Cleared to jEDDAH, departure runway 21, expect radar vectors to Kukla after departure, flight planned route, initial climb 5,000 ft, squawk 4301. 
+    **OLBA SMC**: MEA123, Beirut Ground, Cleared to Jeddah, departure runway 21, expect radar vectors to Kukla after departure, flight planned route, initial climb 5,000 ft, squawk 4301. 
 
 Beirut **ADC** is responsible for issuing the initial heading of the departing aircraft with the
 take-off clearance.
