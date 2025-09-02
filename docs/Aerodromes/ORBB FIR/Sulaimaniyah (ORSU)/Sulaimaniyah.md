@@ -18,7 +18,7 @@ All VFR clearances are assigned by the revelant TWR controller.
 ### Circuits
 VFR Circuits are permitted on runways **13** and **31**.
 
-All VFR aircraft wishing to do remain in the circuit at Sulaymaniyah shall be issued `A030` and the following circuit directions:
+All VFR aircraft wishing to do remain in the circuit at Sulaymaniyah shall be issued `A060` and the following circuit directions:
 
 | Runway | Direction |
 | ------ | --------- |
@@ -27,7 +27,7 @@ All VFR aircraft wishing to do remain in the circuit at Sulaymaniyah shall be is
 
 !!! phraseology
     **ABC**: Sulaymaniyah Tower, ABC holding short E runway 31, full ready.    
-    **ISU ADC**: ABC, Sulaymaniyah Tower, cleared to operate in the circuit area not above altitude 3000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 31.  
+    **ISU ADC**: ABC, Sulaymaniyah Tower, cleared to operate in the circuit area not above altitude 6000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 31.  
     **ABC**: Cleared to operate in the circuit area not above altitude 3000ft, will report on the left downwind, cleared for take-off runway 31, ABC.  
 
 VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
