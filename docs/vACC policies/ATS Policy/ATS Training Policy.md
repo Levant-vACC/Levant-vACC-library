@@ -22,13 +22,9 @@
 | -------- | ----------- | --------------- | ---------- |
 | R01/2025 | 11 SEP 2025 | Initial Release | Joshua Ong |
 
----
-
 # Scope
 
 This document establishes the training procedures for controllers operating in both their home and visiting capacities within the Levant vACC. It delineates the various phases of training that controllers are anticipated to traverse in order to advance within the VATSIM rating system. This document takes precedence over any existing training policies for home and visiting controllers within the Levant vACC official training system. In cases of uncertainty regarding the appropriate process for a student, they should refer to this document and adhere to the applicable procedure(s).
-
----
 
 # Foundations for ATC Students
 
@@ -58,8 +54,6 @@ To provide pilots with up-to-date aerodrome operational information, you will ne
 
 The AIS Department releases regular updates to our vATIS profiles to ensure all relevant airport conditions and NOTAMS are simulated and shown on the ATIS. You may download the [vATIS Profiles](https://vats.im/lev/vATIS) from our Google drive.
 
----
-
 # The Waiting List
 Before a controller can be offered a place in a training plan, they must first express their interest and be added to the waiting list.
 
@@ -81,8 +75,6 @@ The Arabian vACC ATC Training Department reserves the right to remove a controll
 - Disciplinary action taken against the controller  
 - Repeated negative feedback received while controlling positions associated with their current rating
 
----
-
 # Minimum Controller Activity
 All resident controllers within the Levant vACC must log a minimum of **3 hours of ATC activity per calendar quarter** to remain active on the controller roster. 
 
@@ -94,8 +86,6 @@ The calendar quarters are defined as follows:
 - **Quarter 2 (Q2) - 1st April to 30th June**
 - **Quarter 3 (Q3) - 1st July to 30th September**
 - **Quarter 4 (Q4) - 1st October to 31st December**
-
----
 
 # Training Plan
 
@@ -116,7 +106,7 @@ Members on the waiting list may be offered a training plan for a specific aerodr
 
 This policy ensures fair and efficient use of training resources and minimizes delays for all members in the training pipeline.
 
-## Training Facilities Across Arabian vACC FIRs
+## Training Facilities Across Levant vACC FIRs
 
 Training may be conducted within any of the Levant vACC's three FIRs, The available training facilities are as follows:
 
@@ -190,8 +180,6 @@ In accordance with the VATSIM Middle East & North Africa Division ATC Training P
 
 Solo validations will only be granted for a maximum of 30 days at a time before a practical exam is required. If a student does not pass the exam, they may continue to operate under a solo validation after receiving additional mentoring sessions. Students holding a solo validation are authorized to control at any time on their assigned training position, including during events, without the presence of a mentor.
 
----
-
 # Examinations
 
 ## Theoretical
@@ -221,4 +209,5 @@ An exam will not be marked as a pass if:
 If the student passes the exam, the result will be posted on the Levant vACC Discord, and the rating will be issued within 48 hours after the exam report has been submitted. If the exam is marked as incomplete, the request will be retained, and the exam will be continued with either the same or different examiners at a later date. 
 
 In the event of a failure, the examiners will conduct a thorough debrief and create a remedial training plan, which will be forwarded to the student's mentor or instructor.
+
 
