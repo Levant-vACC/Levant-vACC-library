@@ -204,6 +204,3 @@ Controllers must notify others of their intent to disconnect using the `.break` 
 
 ## Non-compliance with this Policy
 Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
-
-
-
