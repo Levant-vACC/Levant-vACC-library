@@ -136,7 +136,7 @@ As we strive to maintain a high standard of realism and excellence in air traffi
 | **Latakia TMA**   | **OSLK_APP** |
 | **Latakia ADC**   | **OSLK_TWR** |
 
-##### Administrative Non-Standard Positions
+##### Non-Standard Administrative Positions
 
 | Name                                                                                               | Login ID |
 | -------------------------------------------------------------------------------------------------- | -------- |

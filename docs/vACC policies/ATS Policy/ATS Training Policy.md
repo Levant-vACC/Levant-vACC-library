@@ -22,9 +22,11 @@
 | -------- | ----------- | --------------- | ---------- |
 | R01/2025 | 11 SEP 2025 | Initial Release | Joshua Ong |
 
-## Scope
+## General Provisions 
+### Scope
+This policy establishes the training procedures for controllers operating in both their home and visiting capacities within the Levant vACC. It delineates the various phases of training that controllers are anticipated to traverse in order to advance within the VATSIM rating system. 
 
-This document establishes the training procedures for controllers operating in both their home and visiting capacities within the Levant vACC. It delineates the various phases of training that controllers are anticipated to traverse in order to advance within the VATSIM rating system. This document takes precedence over any existing training policies for home and visiting controllers within the Levant vACC official training system. In cases of uncertainty regarding the appropriate process for a student, they should refer to this document and adhere to the applicable procedure(s).
+This policy takes precedence over any existing training policies for home and visiting controllers within the Levant vACC official training system. In cases of uncertainty regarding the appropriate process for a student, they should refer to this document and adhere to the applicable procedure(s).
 
 ## Foundations for ATC Students
 
