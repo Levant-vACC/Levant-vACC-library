@@ -84,75 +84,77 @@ As we strive to maintain a high standard of realism and excellence in air traffi
 
 #### Beirut FIR (OLBB)
 
-| Name        | Login ID |
-| ----------- | -------- |
-| Beirut ACC  | OLBB_CTR |
-| Beirut TMA  | OLBA_APP |
-| Beirut ADC  | OLBA_TWR |
-| Beirut SMC  | OLBA_GND |
-| Kleyate ADC | OLKA_TWR |
-| Rayak ADC   | OLRA_TWR |
+| Name            | Login ID     |
+| --------------- | ------------ |
+| **Beirut ACC**  | **OLBB_CTR** |
+| **Beirut TMA**  | **OLBA_APP** |
+| **Beirut ADC**  | **OLBA_TWR** |
+| **Beirut SMC**  | **OLBA_GND** |
+| **Kleyate ADC** | **OLKA_TWR** |
+| **Rayak ADC**   | **OLRA_TWR** |
 
 #### Baghdad FIR (ORBB)
 
-| Name             | Login ID   |
-| ---------------- | ---------- |
-| Baghdad ACC                                | ORBB_N_CTR |
-| Baghdad UAC :material-information-outline: | ORBB_U_CTR |
-| Baghdad ACC :material-information-outline: | ORBB_S_CTR |
-| Baghdad UAC :material-information-outline: | ORBB_V_CTR |
-| Baghdad ACC :material-information-outline: | ORBB_W_CTR |
-| Baghdad ACC                                | ORBB_1_CTR |
-| Baghdad ACC                                | ORBB_2_CTR |
-| Balad ADC                                  | ORBD_TWR   |
-| Baghdad TMA                                | ORBI_APP   |
-| Baghdad TMA :material-information-outline: | ORBI_DEP   |
-| Baghdad ADC      | ORBI_TWR   |
-| Baghdad SMC      | ORBI_GND   |
-| Mosul ADC        | ORBM_TWR   |
-| Mosul SMC        | ORBM_GND   |
-| Erbil ADC        | ORER_TWR   |
-| Embassy ADC      | OREZ_TWR   |
-| Kirkuk TMA       | ORKK_APP   |
-| Kirkuk ADC       | ORKK_TWR   |
-| Kirkuk SMC       | ORKK_GND   |
-| Ali TMA          | ORMM_APP   |
-| Basrah ADC       | ORMM_TWR   |
-| Basrah SMC       | ORMM_GND   |
-| Ali TMA          | ORNI_APP   |
-| Al-Najaf ADC     | ORNI_TWR   |
-| Al-Najaf SMC     | ORNI_GND   |
-| Q-West ADC       | ORQW_TWR   |
-| Sulaimaniyah ADC | ORSU_TWR   |
+| Name                                                                       | Login ID       |
+| -------------------------------------------------------------------------- | -------------- |
+| **Baghdad ACC**                                                            | **ORBB_N_CTR** |
+| **Baghdad UAC**                                                            | **ORBB_U_CTR** |
+| Baghdad ACC :material-information-outline:{ title="Non-standard position"} | ORBB_S_CTR     |
+| Baghdad UAC :material-information-outline:{ title="Non-standard position"} | ORBB_V_CTR     |
+| Baghdad ACC :material-information-outline:{ title="Non-standard position"} | ORBB_W_CTR     |
+| Baghdad ACC :material-information-outline:{ title="Non-standard position"} | ORBB_1_CTR     |
+| Baghdad ACC :material-information-outline:{ title="Non-standard position"} | ORBB_2_CTR     |
+| **Balad ADC**                                                              | **ORBD_TWR**   |
+| **Baghdad TMA**                                                            | **ORBI_APP**   |
+| Baghdad TMA :material-information-outline:{ title="Non-standard position"} | ORBI_DEP       |
+| **Baghdad ADC**                                                            | **ORBI_TWR**   |
+| **Baghdad SMC**                                                            | **ORBI_GND**   |
+| **Mosul ADC**                                                              | **ORBM_TWR**   |
+| **Mosul SMC**                                                              | **ORBM_GND**   |
+| **Erbil ADC**                                                              | **ORER_TWR**   |
+| **Embassy ADC**                                                            | **OREZ_TWR**   |
+| **Kirkuk TMA**                                                             | **ORKK_APP**   |
+| **Kirkuk ADC**                                                             | **ORKK_TWR**   |
+| **Kirkuk SMC**                                                             | **ORKK_GND**   |
+| **Ali TMA**                                                                | **ORMM_APP**   |
+| **Basrah ADC**                                                             | **ORMM_TWR**   |
+| **Basrah SMC**                                                             | **ORMM_GND**   |
+| **Ali TMA**                                                                | **ORNI_APP**   |
+| **Al-Najaf ADC**                                                           | **ORNI_TWR**   |
+| **Al-Najaf SMC**                                                           | **ORNI_GND**   |
+| **Q-West ADC**                                                             | **ORQW_TWR**   |
+| **Sulaimaniyah ADC**                                                       | **ORSU_TWR**   |
 
 #### Damascus FIR (OSTT)
 
-| Name         | Login ID |
-| ------------ | -------- |
-| Damascus ACC  | OSTT_CTR |
-| Aleppo TMA    | OSAP_APP |
-| Aleppo ADC    | OSAP_TWR |
-| Damascus TMA  | OSDI_APP |
-| Damascus ADC  | OSDI_TWR |
-| Damascus SMC  | OSDI_GND |
-| Deir Zzor ADC | OSDZ_TWR |
-| Kamishly ADC  | OSKL_TWR |
-| Latakia TMA   | OSLK_APP |
-| Latakia ADC   | OSLK_TWR |
+| Name              | Login ID     |
+| ----------------- | ------------ |
+| **Damascus ACC**  | **OSTT_CTR** |
+| **Aleppo TMA**    | **OSAP_APP** |
+| **Aleppo ADC**    | **OSAP_TWR** |
+| **Damascus TMA**  | **OSDI_APP** |
+| **Damascus ADC**  | **OSDI_TWR** |
+| **Damascus SMC**  | **OSDI_GND** |
+| **Deir Zzor ADC** | **OSDZ_TWR** |
+| **Kamishly ADC**  | **OSKL_TWR** |
+| **Latakia TMA**   | **OSLK_APP** |
+| **Latakia ADC**   | **OSLK_TWR** |
 
 #### Administrative Non-Standard Positions
 
-| Name                                       | Login ID |
-| ------------------------------------------ | -------- |
-| Baghdad FMP :material-information-outline: | ORBI_FMP |
-| Baghdad ACD :material-information-outline: | ORBI_DEL |
-| Beirut FMP :material-information-outline:  | OLBA_FMP |
-| Beirut ACD :material-information-outline:  | OLBA_DEL |
-| Levant TMU :material-information-outline:  | LEV_TMU  |
+| Name                                                                                               | Login ID |
+| -------------------------------------------------------------------------------------------------- | -------- |
+| Baghdad FMP :material-information-outline:{ title="Non-standard position"} :octicons-checklist-24: | ORBI_FMP |
+| Baghdad ACD :material-information-outline:{ title="Non-standard position"}                         | ORBI_DEL |
+| Beirut FMP :material-information-outline:{ title="Non-standard position"}: :octicons-checklist-24: | OLBA_FMP |
+| Beirut ACD :material-information-outline:{ title="Non-standard position"}                          | OLBA_DEL |
+| Levant TMU :material-information-outline:{ title="Non-standard position"} :octicons-checklist-24:  | LEV_TMU  |
 
 !!! abstract "Non-Standard Positions"
     :material-information-outline: Non-standard positions may only be used with prior authorization from the vACC ATS department.
     Approval must be sought from the **bolded parent** position prior to opening a Non-Standard Position, unless indicated otherwise (eg, for events).
+
+    :octicons-checklist-24: Separate Flow endorsement is required for this position.
 
 ## Streaming
 
@@ -208,4 +210,5 @@ Controllers must notify others of their intent to disconnect using the `.break` 
 
 
 Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
+
 
