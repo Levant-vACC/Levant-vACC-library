@@ -22,7 +22,6 @@
 | -------- | ----------- | --------------- | ---------- |
 | R01/2025 | 11 SEP 2025 | Initial Release | Joshua Ong |
 
----
 
 # General Provisions
 
@@ -37,8 +36,6 @@ All VATSIM members are expected to comply with the VATSIM Code of Conduct and Co
 ## Limitation of Liability
 
 This document has been prepared for use on the VATSIM network only. It should never be used for real-world aviation operations. The authors of this document cannot be held liable for any personal injury and/or death from the misuse of this document.
-
----
 
 # Controllers
 
@@ -79,6 +76,17 @@ The Levant vACC strives to maintains a high standard of realism and excellence i
 
 Non-compliance may result in disciplinary action or restricted training and controlling privileges.
 
+## Approved Callsigns
+
+As we strive to maintain a high standard of realism and excellence in air traffic control operations within the vACC, only approved callsigns as listed below are permitted to be opened. While there are some restrictions on certain facilities and callsigns, the rest remain unrestricted.
+
+### List of Unrestricted Positions
+
+| Name | Login ID |
+| ---- | -------- |
+| Beirut ADC | OLBA_TWR |
+| Beirut SMC | OLBA_GND |
+|
 ## Streaming
 
 The Levant vACC welcomes all our controllers to stream their controlling sessions online in order to influence and show off the vACC.
@@ -92,9 +100,7 @@ The Levant vACC welcomes all our controllers to stream their controlling session
 
 All controllers reserve the right to deny consent to any members. If consent is denied, the streaming controller will be required to move to a separate Discord call to avoid disrupting coordination.
 
-## Minimum Connection Time
-
-Minimum Session Time
+## Minimum Connection Min
 
 Controllers are required to meet the following session time requirements:
 
@@ -111,7 +117,7 @@ Sessions under 30 minutes will not be counted toward the controller's quarterly 
 
 ``` mermaid
 flowchart LR
-   a[Controller checks out VATSIM Radar or equivalent to see if ATC is online] --> b[Adjacent controllers are online] --> c[Log on the network with an approved callsign] --> d[Coordinate with the next controller to determine ATIS, runways in use, and operational info] --> h[Announce controller presence in 'ATC chat']
+  a[Controller checks out VATSIM Radar or equivalent to see if ATC is online] --> b[Adjacent controllers are online] --> c[Log on the network with an approved callsign] --> d[Coordinate with the next controller to determine ATIS, runways in use, and operational info] --> h[Announce controller presence in 'ATC chat']
     a[Controller checks out VATSIM Radar or equivalent to see if ATC is online] --> f[Adjacent controllers are not online] --> g[Log on the network with an approved callsign] --> h[Announce controller presence in 'ATC chat']
 ```
 
@@ -132,5 +138,6 @@ Controllers must notify others of their intent to disconnect using the `.break` 
 ---
 
 # Non-compliance with this Policy
+
 
 Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
