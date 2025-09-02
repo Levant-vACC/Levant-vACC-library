@@ -23,6 +23,7 @@
 | R01/2025 | 11 SEP 2025 | Initial Release | Joshua Ong |
 
 ## General Provisions 
+
 ### Scope
 This policy establishes the training procedures for controllers operating in both their home and visiting capacities within the Levant vACC. It delineates the various phases of training that controllers are anticipated to traverse in order to advance within the VATSIM rating system. 
 

@@ -22,7 +22,7 @@
 | -------- | ----------- | --------------- | ---------- |
 | R01/2025 | 11 SEP 2025 | Initial Release | Joshua Ong |
 
-### General Provisions
+## General Provisions
 
 ### Scope
 
