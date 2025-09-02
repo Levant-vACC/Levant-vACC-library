@@ -140,7 +140,7 @@ As we strive to maintain a high standard of realism and excellence in air traffi
 | **Latakia TMA**   | **OSLK_APP** |
 | **Latakia ADC**   | **OSLK_TWR** |
 
-#### Administrative Non-Standard Positions
+#### Non-Standard Administrative Positions
 
 | Name                                                                                               | Login ID |
 | -------------------------------------------------------------------------------------------------- | -------- |
@@ -210,6 +210,7 @@ Controllers must notify others of their intent to disconnect using the `.break` 
 
 
 Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
+
 
 
 
