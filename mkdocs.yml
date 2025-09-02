@@ -65,6 +65,7 @@ plugins:
       height: auto
       zoomable: true
       draggable: false
+  - mermaid2
 
 #styling
 extra_css:
@@ -149,7 +150,11 @@ markdown_extensions:
   - pymdownx.mark: {} # Formatting Extension
   - pymdownx.tilde: {} # Formatting Extension
   - pymdownx.keys: {} # Visual keyboard keys extension
-  - pymdownx.superfences: {}
+  - pymdownx.superfences: 
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.emoji: # Allows emoji style inline embeds for icons

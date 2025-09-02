@@ -184,7 +184,7 @@ Sessions under 30 minutes will not be counted toward the controller's quarterly 
 
 ## Commencing a Session
 
-``` mermaid
+```mermaid
 flowchart LR
   a[Controller checks out VATSIM Radar or equivalent to see if ATC is online] --> b[Adjacent controllers are online] --> c[Log on the network with an approved callsign] --> d[Coordinate with the next controller to determine ATIS, runways in use, and operational info] --> h[Announce controller presence in 'ATC chat']
     a[Controller checks out VATSIM Radar or equivalent to see if ATC is online] --> f[Adjacent controllers are not online] --> g[Log on the network with an approved callsign] --> h[Announce controller presence in 'ATC chat']

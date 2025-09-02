@@ -190,6 +190,10 @@ If a departing aircraft is receiving an omni-directional departure, they must re
 !!! warning
     The runway heading `H100`/`H280` shall be avoided when possible.
 
+!!! warning "Holy Shrine P102"  
+    Special consideration must be given to a prohibited area west of the airport, when runway 28 is in use for departures. This prohibited area protects the “Holy Shrine” and flights shall, when possible and when not following SIDs, avoid the area by flying north of the Holy Shrine. VFR flights shall also be guided to avoid this area when possible.
+
+
 !!! phraseology
     **IAW23**: IAW23 ready for departure.  
     **NJF ADC**: IAW23, after departure climb to altitude 4000ft, fly heading 160 degrees, surface winds variable at 3 knots, runway 10 cleared for take-off.
