@@ -2,6 +2,8 @@
   title: Levant vACC Air Traffic Services Training Policy for Controllers
 ---
 
+--8<-- "includes/abbreviations.md"
+
 ## Policy Information
 
 ### Control Information

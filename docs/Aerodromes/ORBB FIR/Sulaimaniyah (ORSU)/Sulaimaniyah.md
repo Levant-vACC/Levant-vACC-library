@@ -2,6 +2,8 @@
   title: Sulaymaniyah (ORSU)
 ---
 
+--8<-- "includes/abbreviations.md"
+
 ## Positions
 
 |    Name   | Callsign	| Frequency | Login ID | Remarks |

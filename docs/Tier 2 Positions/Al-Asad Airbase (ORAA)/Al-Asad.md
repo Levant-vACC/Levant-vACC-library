@@ -8,8 +8,8 @@
 
 | Name | Callsign	| Frequency | Login ID | Remarks |
 | ---- | --------	| ---------	| -------- | ------- |
-| **Al-Asad ADC** | **Al-Asad Tower** |**123.675**(363.675)| **ORAA_TWR** | |
-| **Al-Asad SMC** | **Al-Asad Ground** | **118.200**(325.250) | **ORAA_GND**	| |
+| **Al-Asad ADC** | **Al-Asad Tower** |**123.675** (363.675)| **ORAA_TWR** | |
+| **Al-Asad SMC** | **Al-Asad Ground** | **118.200** (325.250) | **ORAA_GND**	| |
 | **Al-Asad Information** | | **25.092** | **ORAA_ATIS** | |
 
 ## Airspace - MATZ
@@ -22,7 +22,7 @@ Al-Asad is an airbase located in Western Iraq, located in the center of the R414
 ### Logon 
 Upon logging on Al-Asad ADC it is essential to annouce the activation status of R414
 !!! phraseology
-    **IQA ADC -> ORBB_N_CTR**: Request activation of R414 from SFC to A030
+    <span class="hotline">**IQA ADC -> ORBB_N_CTR**</span>: Request activation of R414 from SFC to A030
 
 ### Flight Categories
 Recovering military aircraft will usually be flying IFR, but must revert to VFR at the following points:
