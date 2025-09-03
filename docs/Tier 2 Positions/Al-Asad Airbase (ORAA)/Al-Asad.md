@@ -2,6 +2,8 @@
   title: Al-Asad (ORAA)
 ---
 
+--8<-- "includes/abbreviations.md"
+
 ## Positions
 
 | Name | Callsign	| Frequency | Login ID | Remarks |
@@ -54,7 +56,7 @@ Visual Circuits are allowed on both runways 27L/09R and 27R/09L, runway 08/26 is
 |  27R   |   Right   |
 |  09L   |   Left    |
 
-!!! phraseology
+!!! phraseology  
     **COBRA7**: Al-Asad Tower, COBRA7, flight of 2 F16's, on taxiway K, request departure to remain in circuits, information B.  
     **ORAA ADC**: COBRA7, Al-Asad Tower, cleared left hand circuit runway runway 27L, maintain alitude 2000ft, remain this frequency, report fully ready.  
     **COBRA7**: Left hand circuits 27L, maintain 2000ft, on your frequency, fully ready.  
@@ -63,12 +65,12 @@ Visual Circuits are allowed on both runways 27L/09R and 27R/09L, runway 08/26 is
 ## IFR Departures
 
 !!! phraseology
-        **IQA SMC**: COBRA7, Al-Asad Ground, you are cleared to Balad airbase, expect omnidirection departure, runway 27L, climb flight level 230, departure frequency victor 3, squawk 6275.   
-        **COBRA7**: cleared Balad, omnidirection runway 27L, climb level 230, departures on victor 3, squawking 6275.  
-        **IQA SMC**: readback correct, information B, QNH 996 hectopascals, report ready for start.
+    **IQA SMC**: COBRA7, Al-Asad Ground, you are cleared to Balad airbase, expect omnidirection departure, runway 27L, climb flight level 230, departure frequency victor 3, squawk 6275.   
+    **COBRA7**: cleared Balad, omnidirection runway 27L, climb level 230, departures on victor 3, squawking 6275.  
+    **IQA SMC**: readback correct, information B, QNH 996 hectopascals, report ready for start.
         
-!!! phraseology
-        **COBRA7** winds 260 degrees at 6 knots, runway 27R cleared for takeoff, departure end cable indicates raised, switch to approach, cya!  
+!!! phraseology  
+    **IQA ADC**: COBRA7 winds 260 degrees at 6 knots, runway 27R cleared for takeoff, departure end cable indicates raised, switch to approach, cya!  
 
 ## Military Procedures
 Military aircraft are entitled to different and more complex procedures than a normal civil fixed-wing aircraft.
@@ -86,7 +88,7 @@ The existence of a standard overhead maneuver pattern does not eliminate the pos
 
 - Circuit altitude and direction of circuits. Omit both or either, if you are aware that the pilot is familiar with the non-standard procedure.
 
-!!! phraseology
+!!! phraseology  
     **EAGLE1**: Al-Asad Tower, EAGLE1, inbound to the east, request overhead break to remain in pattern, we have bravo onboard.  
     **ORAA ADC**: EAGLE1, Al-Asad Tower, bravo is correct, runway 27L winds 280 degrees at 4 knots, pattern altitude 2000 ft, left turns, report initial.  
     **EAGLE1**: 27L, 2000ft, left turns, will report initial, EAGLE1.  

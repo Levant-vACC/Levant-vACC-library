@@ -25,7 +25,7 @@ theme:
       accent: deep orange
 
   logo: assets/logobg.png
-  favicon: assets/favicon.ico
+  favicon: assets/logobg.png
   
   features:
     - navigation.instant
@@ -37,6 +37,8 @@ theme:
     - navigation.footer
   icon:
     repo: fontawesome/brands/github
+    annotation: material/plus-circle
+    annotation: material/minus-circle
     admonition:
       example: fontawesome/solid/headset
   font:
@@ -73,6 +75,7 @@ extra_css:
   - stylesheets/admonitions.css
   - stylesheets/navigation.css
 
+#page navigation
 nav:
   - Home: index.md  
   - Aerodromes: 
@@ -128,7 +131,7 @@ nav:
   - Events: 
     - Overview: Events/index.md
   - Tier 2 Positions:
-    - Al-Asad Airbase (ORAA): Tier 2 Positions/Al-Asad Airbase (ORAA)/Al-Asad.md
+    - Al-Asad (ORAA): Tier 2 Positions/Al-Asad Airbase (ORAA)/Al-Asad.md
   - Training documents:
     - Overview: Training documents/index.md
   - vACC policies: 
@@ -138,9 +141,10 @@ nav:
 
 
 markdown_extensions:
-  - admonition
-  - attr_list
-  - md_in_html
+  - admonition: {}
+  - meta: {}
+  - attr_list: {}
+  - md_in_html: {}
   - pymdownx.blocks.caption:
   - pymdownx.tabbed:
      alternate_style: true
@@ -161,4 +165,5 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - md_in_html: {} #enables the use of image figures
-  - abbr
+  - abbr: {}
+  - pymdownx.snippets: {}

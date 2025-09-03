@@ -37,7 +37,7 @@ Once VFR aircraft are ready for departure, they shall be cleared for take-off in
 
 !!! phraseology
     **FYI**: Sulaymaniyah Tower, FYI holding short E, runway 31.  
-    **ISU ADC**: FYI, Sulaymaniyah Tower, surface winds 320 degrees 5 knots, cleared for take-off runway 18.  
+    **ISU ADC**: FYI, Sulaymaniyah Tower, surface winds 320 degrees 5 knots, cleared for take-off runway 31.  
     **FYI**: Roger, cleared for take-off runway 31.  
     **AIRCRAFT ON THE CROSSWIND TURN**  
     **ISU ADC**: FYI, report leaving the Sulaymaniyah CTR, maintain at or below altitude 6000ft.  
@@ -58,8 +58,8 @@ On initial contact, Sulaymaniyah **ADC** will pass the instructions for joining 
 
 !!! phraseology
     **YYC**: Sulaymaniyah Tower, YYC is requesting to enter the Sulaymaniyah CTR from the southeast for circuits.     
-    **ISU ADC**: YYC, Sulaymaniyah Tower, information A, cleared to enter the Sulaymaniyah CTR, maintain at or below altitude 6000ft, report final runway 18 with intentions, squawk 7403.  
-    **YYC**: We have A, cleared to enter the Sulaymaniyah CTR, at or below altitude 6000ft, will report final runway 18 with intentions, squawk 7403, YYC.   
+    **ISU ADC**: YYC, Sulaymaniyah Tower, information A, cleared to enter the Sulaymaniyah CTR, maintain at or below altitude 6000ft, report final runway 31 with intentions, squawk 7403.  
+    **YYC**: We have A, cleared to enter the Sulaymaniyah CTR, at or below altitude 6000ft, will report final runway 31 with intentions, squawk 7403, YYC.   
     **ISU ADC**: YYC, correct, QNH 998 hectopascals.    
 
 During times of heavy IFR arrival activity, VFR arrivals may be denied entry into the CTR and instructed to hold outside of the CTR awaiting further instructions.
@@ -132,7 +132,7 @@ Winds must always be considered for Runway modes (Crosswind <20kts, Tailwind <5k
 
 ## Coordination
 ### Departure Procedures
-Due to the airspace structure in Erbil, all departures shall be coordinated and receive a release for departure with the relevant Baghdad **TMA** controller (ORKK_APP) before release.
+Due to the airspace structure in Sulaimaniyah, all departures shall be coordinated and receive a release for departure with the relevant Baghdad **TMA** controller (ORKK_APP) before release.
 
 'Next' coordination is **not** required to Baghdad **TMA** for aircraft that are:
 
@@ -156,7 +156,7 @@ The Standard Assignable level from Erbil **ADC** to Baghdad **TMA** is:
 
 
 ### Standard Assignable Departure Headings
-As there are only 2 SIDs currently used in Erbil, aircraft that are flying an omni-directional departure must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Baghdad **TMA** controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:
+As there are only 2 SIDs currently used in Sulaimaniyah, aircraft that are flying an omni-directional departure must recieve an assigned heading with their line up or take-off clearance. 'Next' coordination is not required to the relevant Baghdad **TMA** controller when the departing aircraft has been assigned the standard assignable level and assigned one of the headings listed below:
 
 | Runway | Heading |
 | ------ | ------- |

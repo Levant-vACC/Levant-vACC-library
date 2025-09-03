@@ -175,6 +175,10 @@ The Standard Assignable level from Al-Najaf **ADC** to Baghdad **TMA** is:
 !!! warning
     'Next' coordination **is mandatory** for **all** aircraft departing Al-Najaf.  
 
+!!! phraseology
+    <span class="hotline">**NJF ADC** -> **BI TMA**</span>: "IAW123 for release, SIGBI1A departure, any problems?"  
+    <span class="hotline">**BI TMA** -> **NJF ADC**</span>: "IAW123 released, SIGBI1A departure, all is good"  
+
 ### Standard Assignable Departure Headings
 If a departing aircraft is receiving an omni-directional departure, they must recieve an assigned heading with their line up or take-off clearance. Al-Najaf **ADC** controller shall coordinate with the overlying TMA controller on a heading to follow after departure, prior to issuing a takeoff clearance. Unless coordinated otherwise **ADC** shall assign the following heading for departing aircraft
 

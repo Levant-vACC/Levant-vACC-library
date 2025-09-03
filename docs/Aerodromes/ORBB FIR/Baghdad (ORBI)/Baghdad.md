@@ -180,5 +180,5 @@ As there are no SIDs in Baghdad, aircraft must recieve an assigned heading with 
 As mentioned previously, **Taxiway W** is under the jurisdiction of Baghdad **ADC** when online. This is to facilitate arrivals on Runways 33R, 33L, 15R, 15L.
 
 !!! phraseology
-    **BI SMC -> BI ADC**: Request to taxi IAW23 on Whiskey, 33R.  
-    **BI ADC -> BI SMC**: Taxi IAW23 on Whiskey.  
+    <span class="hotline">**BI SMC -> BI ADC**</span>: Request to taxi IAW23 on Whiskey, 33R.  
+    <span class="hotline">**BI ADC -> BI SMC**</span>: Taxi IAW23 on Whiskey.  
