@@ -25,37 +25,37 @@ All VFR clearances are assigned by the revelant TWR controller.
 ### Circuits
 VFR Circuits are permitted on runways **27L** and **09R**. 
 
-All VFR aircraft wishing to do remain in the circuit at Kirkuk shall be issued `A040` and the following circuit directions:
+All VFR aircraft wishing to do remain in the circuit at Aleppo shall be issued `A050` and the following circuit directions:
 
 | Runway | Direction |
 | ------ | --------- |
-|   31   |   Left   |
-|   13   |   Right    |
+|   27L   |   Left   |
+|   09R   |   Right    |
 
 !!! phraseology
-    **ABC**: Kirkuk Tower, ABC holding short D runway 31, full ready.    
-    **KIK ADC**: ABC, Kirkuk Tower, cleared to operate in the circuit area not above altitude 4000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 31.  
-    **ABC**: Cleared to operate in the circuit area not above altitude 4000ft, will report on the left downwind, cleared for take-off runway 31, ABC.  
+    **ZPH**: Aleppo Tower, ZPH holding short A holding point runway 27L, full ready.    
+    **ALP ADC**: ZPH, Aleppo Tower, cleared to operate in the circuit area not above altitude 5000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 27L.  
+    **ZPH**: Cleared to operate in the circuit area not above altitude 5000ft, will report on the left downwind, cleared for take-off runway 27L, ZPH.  
 
 VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
 
 ### Leaving the CTR
-Once VFR aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn they shall be instructed to report leaving the CTR. VFR procedures inside the Kirkuk CTR must be conducted at or below `A040`.
+Once VFR aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn they shall be instructed to report leaving the CTR. VFR procedures inside the Aleppo CTR must be conducted at or below `A050`.
 
 !!! phraseology
-    **FYI**: Kirkuk Tower, FYI holding short D, runway 31.  
-    **KIK ADC**: FYI, Kirkuk Tower, surface winds 320 degrees 5 knots, cleared for take-off runway 31.  
-    **FYI**: Roger, cleared for take-off runway 31.  
+    **FYI**: Aleppo Tower, FYI holding short A holding point, runway 27L.  
+    **ALP ADC**: FYI, Aleppo Tower, surface winds 320 degrees 5 knots, cleared for take-off runway 27L.  
+    **FYI**: Roger, cleared for take-off runway 27L.  
     **AIRCRAFT ON THE CROSSWIND TURN**  
-    **KIK ADC**: FYI, report leaving the Kirkuk CTR, maintain at or below altitude 4000ft.  
+    **ALP ADC**: FYI, report leaving the Aleppo CTR, maintain at or below altitude 4000ft.  
     **FYI**: At or below 4000ft, wilco, FYI.
 
-Aircraft requesting to exit the Kirkuk CTR shall be assigned a clearance limit followed by a valid VFR cruising altitude (+500ft).
+Aircraft requesting to exit the Aleppo CTR shall be assigned a clearance limit followed by a valid VFR cruising altitude (+500ft).
 
 !!! phraseology
-    **YYC**: Kirkuk Tower, YYC is requesting to exit the Kirkuk CTR via direct Erbil, altitude 7500ft.  
-    **KIK ADC**: YYC, Kirkuk Tower, cleared to leave the Kirkuk CTR direct Erbil, maintain altitude 7500ft, squawk 7403, QNH 998 hectopascals.  
-    **YYC**: Cleared to leave the Kirkuk CTR direct Erbil, maintain altitude 7500ft, QNH 998, and squawk 7403, YYC.
+    **YYC**: Aleppo Tower, YYC is requesting to exit the Aleppo CTR via direct Qamishli, altitude 7500ft.  
+    **ALP ADC**: YYC, Aleppo Tower, cleared to leave the Aleppo CTR direct Qamishli, maintain altitude 7500ft, squawk 7403, QNH 998 hectopascals.  
+    **YYC**: Cleared to leave the Aleppo CTR direct Qamishli, maintain altitude 7500ft, QNH 998, and squawk 7403, YYC.
 
 ### Entering the CTR
 Inbound VFR aircraft shall be sent to **ADC** with enough time such that two-way

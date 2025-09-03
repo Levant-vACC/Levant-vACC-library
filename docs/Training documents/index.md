@@ -1,6 +1,4 @@
-# Welcome to the Baghdad FIRs documentation page
+# Training documents
 
-WIP insert aerodromes and info
-
-I luv Baghdad
+ATS department is workimng hard to bring this page to you!
 

@@ -340,5 +340,8 @@
 *[ATZ]: Aerodrome Traffic Zone
 *[CTR]: Control Zone
 *[MATZ]: Military Air Traffic Zone
+*[FMP]: Flow Management Position
+*[ORBB_N_CTR]: Baghdad Control North (Bandbox)
+
 *[MI NDB]: Momi
 *[VK NDB]: Navakai
