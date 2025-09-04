@@ -175,12 +175,12 @@ All controllers reserve the right to deny consent to any members. If consent is 
 
 The ATS Department has outlined the suggested connection times for controllers to connect to the network as listed below:
 
-| Position | Minimum Session Time |
-| -------- | -------------------- |
-| DEL/GND  | 30 Minutes           |
-| TWR      | 30 Minutes           |
-| DEP/APP  | 30 Minutes           |
-| CTR      | 60 Minutes           |
+| Position | Suggested Session Time |
+| -------- | ---------------------- |
+| DEL/GND  | 30 Minutes             |
+| TWR      | 30 Minutes             |
+| DEP/APP  | 30 Minutes             |
+| CTR      | 60 Minutes             |
 
 While these connection times are not mandated, controllers are highly encouraged to follow these recommended connection times to provide the best possible standard of air traffic services for pilots.
 
@@ -210,6 +210,7 @@ Controllers must notify others of their intent to disconnect using the `.break` 
 
 ## Non-compliance with this Policy
 Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
+
 
 
 
