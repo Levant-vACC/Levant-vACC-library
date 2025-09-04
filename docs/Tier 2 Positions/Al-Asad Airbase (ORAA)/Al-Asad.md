@@ -11,9 +11,9 @@
 
 | Name | Callsign	| Frequency | Login ID | Remarks |
 | ---- | --------	| ---------	| -------- | ------- |
-| **Al-Asad ADC** | **Al-Asad Tower** |**123.675** (363.675)| **ORAA_TWR** | |
-| **Al-Asad SMC** | **Al-Asad Ground** | **118.200** (325.250) | **ORAA_GND**	| |
-| **Al-Asad Information** | | **25.092** | **ORAA_ATIS** | |
+| **Al-Asad ADC** | **Al-Asad Tower** |**xxx.xxx** | **ORAA_TWR** | |
+| **Al-Asad SMC** | **Al-Asad Ground** | **xxx.xxx**| **ORAA_GND**	| |
+| **Al-Asad ATIS** | | **xxx.xxx** | **ORAA_ATIS** | |
 
 ## Airspace - MATZ
 ORAA_TWR is responsible for the Al-Asad MATZ airspace from `SFC` to `A030`.
@@ -178,17 +178,19 @@ For single flight arrivals, cleared for an approach on to a runway nominated on 
 
 ## Terminal 
 ### Airspace
-IQA APP being online, will activate the following airspaces by default:
+IQA TMA being online, will activate the following airspaces by default:
 
 - IQA MATZ `SFC` - `A030`  
-- R414 `SFC` - `F280`  
-- R401 `SFC` - `F210`  
+- R414 (ARCHER) `SFC` - `F280`  
+- R401 (AKED SOUTH) `SFC` - `F210`  
+
+![ORAA_APP](../img/ORAA_APP.png)
 
 All of which are classified as **Class C** airspace when active.
 !!! note
-     IQA APP may increase the upper limit of the Restricted Areas and their airspace. This must be either published by NOTAM, or negotiated with ORBB_*_CTR if online.  
+     IQA TMA may increase the upper limit of the Restricted Areas and their airspace. This must be either published by NOTAM, or negotiated with ORBB_*_CTR if online.  
 ### Logon 
-Upon logging on Al-Asad TMA it is essential to annouce the activation status of R414
+Upon logging on Al-Asad TMA it is essential to annouce the activation status of R414 (ARCHER) and R401 (AKED SOUTH).
 !!! phraseology
-    **IQA TMA -> ORBB_N_CTR**: Request activation of R414 from SFC to F280
+    **IQA TMA -> ORBB_N_CTR**: Request activation of R414 from SFC to F280, and R401 from SFC to F210.  
 
