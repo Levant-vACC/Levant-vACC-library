@@ -75,7 +75,7 @@ To remain on the waiting list, controllers must:
 Controllers who do not meet these conditions will be removed from the waiting list.
 
 ### Losing Your Spot on the Waiting List
-The Arabian vACC ATC Training Department reserves the right to remove a controller from the waiting list without prior notice in circumstances including, but not limited to:
+The Levant vACC ATC Training Department reserves the right to remove a controller from the waiting list without prior notice in circumstances including, but not limited to:
 
 - Disciplinary action taken against the controller  
 - Repeated negative feedback received while controlling positions associated with their current rating
