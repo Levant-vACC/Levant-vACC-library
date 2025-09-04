@@ -75,7 +75,7 @@ To remain on the waiting list, controllers must:
 Controllers who do not meet these conditions will be removed from the waiting list.
 
 ### Losing Your Spot on the Waiting List
-The Levant vACC ATC Training Department reserves the right to remove a controller from the waiting list without prior notice in circumstances including, but not limited to:
+The Levant vACC ATS Department reserves the right to remove a controller from the waiting list without prior notice in circumstances including, but not limited to:
 
 - Disciplinary action taken against the controller  
 - Repeated negative feedback received while controlling positions associated with their current rating
@@ -214,3 +214,4 @@ An exam will not be marked as a pass if:
 If the student passes the exam, the result will be posted on the Levant vACC Discord, and the rating will be issued within 48 hours after the exam report has been submitted. If the exam is marked as incomplete, the request will be retained, and the exam will be continued with either the same or different examiners at a later date. 
 
 In the event of a failure, the examiners will conduct a thorough debrief and create a remedial training plan, which will be forwarded to the student's mentor or instructor.
+
