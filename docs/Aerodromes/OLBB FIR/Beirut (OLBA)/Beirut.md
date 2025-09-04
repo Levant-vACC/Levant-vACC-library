@@ -132,9 +132,8 @@ Listed below are the SIDs:
 |  KALDE  |   2D   | 1E |   2F   |
 |  LATEB  |   1D   | 1E |   2F   |
 |  LEBOR  |   1D   | 1E |   2F   |
-| ~~BOD~~ |  ~~1~~ |~~N/A~~|~~2~~|
 
-!!! abstract "BOD1 and BOD2 departures"
+!!! warning "BOD1 and BOD2 departures"
     **BOD** departures are out of service, and are **not** to be issued by controllers.
 
 Departures should primarily adhere to the Standard Instrument Departure (SID) routes, avoiding
@@ -175,7 +174,7 @@ Winds must always be considered for Runway modes (Crosswind <20kts, Tailwind <5k
 | 2 - MODE B | 03 | 34 | VFR 35|
 | 3 - MODE C | 21 | 21 | VFR 17 |
 
-!!! note
+!!! warning
     To operate in MODE C, **you must receive prior approval from the Levant ATS department**.
 
 ## Beirut Flow

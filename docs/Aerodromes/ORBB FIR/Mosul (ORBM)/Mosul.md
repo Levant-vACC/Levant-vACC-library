@@ -15,5 +15,5 @@
 !!! note  
     All aircraft departing or arriving **Mosul** must operate VFR unless IMC
 
-!!! warning "NOTAM"
+!!! warning "NOTAM: A0XX/25"
     Aerodrome is closed IRL due to security reasons

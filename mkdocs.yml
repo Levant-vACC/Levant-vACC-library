@@ -99,28 +99,22 @@ nav:
   - Terminal:
     - Overview: Terminal/index.md
     - OLBB FIR: 
-      - Beirut (OLBA): 
-        - Airport Overview: Terminal/OLBB FIR/Beirut (OLBA)/Airport Overview.md
-        - Beirut Ground: Terminal/OLBB FIR/Beirut (OLBA)/Beirut Ground.md
-        - Beirut Tower: Terminal/OLBB FIR/Beirut (OLBA)/Beirut Tower.md
+      - Beirut Approach (OLBA_APP): Terminal/OLBB FIR/Beirut Approach (OLBA_APP)/Beirut.md
     - ORBB FIR:
       - Baghdad Approach (ORKK_APP): Terminal/ORBB FIR/Baghdad Approach (ORKK_APP)/ORKK_APP.md
       - Baghdad Approach (ORBI_APP): Terminal/ORBB FIR/Baghdad Approach (ORBI_APP)/ORBI_APP.md
       - Baghdad Approach (ORMM_APP): Terminal/ORBB FIR/Baghdad Approach (ORMM_APP)/ORMM_APP.md
     - OSTT FIR:
-      - Damascus (OSDI): 
-        - Airport Overview: Terminal/OSTT FIR/Damascus (OSDI)/Airport Overview.md
+      - Damascus Approach (OSDI_APP): Terminal/OSTT FIR/Damascus (OSDI)/Damascus.md
+      - Aleppo Radar (OSAP_APP): Terminal/OSTT FIR/Aleppo (OSTT)/Aleppo.md
   - Enroute:
     - Overview: Enroute/index.md
     - OLBB FIR: 
-      - Beirut Radar(OLBB_CTR): 
-        - Beirut Radar (OLBB_CTR): Enroute/OLBB FIR/Beirut Radar (OLBB_CTR)/Beirut Radar (OLBB_CTR).md
+      - Beirut Radar (OLBB_CTR): Enroute/OLBB FIR/Beirut Radar (OLBB_CTR)/Beirut Radar (OLBB_CTR).md
     - ORBB FIR:
-      - Baghdad Control (ORBB_*_CTR): 
-        - Baghdad Control (ORBB_*_CTR): Enroute/ORBB FIR/Baghdad Control (ORBB_*_CTR)/Baghdad Control (ORBB_*_CTR).md
+      - Baghdad Control (ORBB_*_CTR): Enroute/ORBB FIR/Baghdad Control (ORBB_*_CTR)/Baghdad Control (ORBB_*_CTR).md
     - OSTT FIR:
-      - Damascus Control (OSTT_CTR): 
-        - Damascus Control (OSTT_CTR): Enroute/OSTT FIR/Damascus Control (OSTT_CTR)/Damascus Control (OSTT_CTR).md
+      - Damascus Control (OSTT_CTR): Enroute/OSTT FIR/Damascus Control (OSTT_CTR)/Damascus Control (OSTT_CTR).md
   - Events: 
     - Overview: Events/index.md
   - Tier 2 Positions:

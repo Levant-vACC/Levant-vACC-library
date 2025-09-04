@@ -171,8 +171,8 @@ The Standard Assignable level from Al-Najaf **ADC** to Baghdad **TMA** is:
 
 | Aircraft | Level |
 | -------- | ----- |
-| IFR | `A040` or published SID altitude |
-| VFR | `A040` |
+| IFR | `A080` |
+| VFR | `A050` |
 
 !!! warning
     'Next' coordination **is mandatory** for **all** aircraft departing Al-Najaf.  

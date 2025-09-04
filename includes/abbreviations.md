@@ -8,7 +8,7 @@
 *[DGA]: DME or GNSS Arrival
 *[ANR]: Air Navigation Register   
 *[ATS]: Air Traffic Services
-*[TMA]: Terminal Maneuvering Area
+*[TMA]: Terminal Maneuvering Area (Approach Controller)
 *[FIR]: Flight Information Region
 *[SSR]: Secondary Surveillance Radar
 *[LL]: Lower Level
@@ -21,9 +21,6 @@
 *[RRO]: Reciprocal Runway Operations
 *[SMC]: Surface Movement Control (Ground Controller)
 *[ADC]: Aerodrome Control (Tower Controller)
-*[TCU]: Terminal Control Unit (Approach Controller)
-*[DIR]: Director (Sydney)
-*[IVA]: Independent Visual Approach
 *[IAP]: Instrument Approach
 *[CFL]: Cleared Flight Level
 *[FDR]: Flight Data Record
@@ -60,136 +57,8 @@
 *[SVFR]: Special VFR
 *[MTOW]: Maximum Takeoff Weight
 *[SDC]: Standard Departure Clearance
-*[AAW]: Adelaide Approach West
-*[AAE]: Adelaide Approach East
-*[BAC]: Brisbane (Gold Coast) Approach
-*[BAN]: Brisbane Approach North
-*[BAS]: Brisbane Approach South
-*[BDN]: Brisbane Departures North
-*[BDS]: Brisbane Departures South
-*[CSA]: Cairns Approach
-*[CSD]: Cairns Departures
-*[CBW]: Canberra Approach West
-*[CBE]: Canberra Approach East
-*[DAW]: Darwin Approach West
-*[DAE]: Darwin Approach East
-*[ESA]: Sale Approach
-*[HBA]: Hobart Approach
-*[LTA]: Launceston Approach
-*[MKA]: Mackay Approach
-*[RKA]: Rockhampton Approach
-*[MAE]: Melbourne Approach East
-*[MDN]: Melbourne Departures North
-*[MDS]: Melbourne Departures South
-*[MAV]: Melbourne (Avalon) Approach
-*[PHA]: Perth Approach
-*[PHD]: Perth Departures
-*[SAN]: Sydney Approach North
-*[SAS]: Sydney Approach South
-*[SDN]: Sydney Departures North
-*[SDS]: Sydney Departures South
-*[SFW]: Sydney Director West
-*[SFE]: Sydney Director East
-*[SRI]: Sydney Radar
-*[ARL]: Brisbane (Armidale) Centre
-*[INL]: Brisbane (Inverell) Centre
-*[ISA]: Brisbane (Mt Isa) Centre
-*[KEN]: Brisbane (Kennedy) Centre
-*[TRT]: Brisbane (Territory) Centre
-*[IND]: Brisbane (Indian) Radio
-*[TSN]: Brisbane (Tasman) Radio
-*[ASP]: Melbourne (Alice Springs) Centre
-*[BIK]: Melbourne (Bindook) Centre
-*[ELW]: Melbourne (Eildon Weir) Centre
-*[HUO]: Melbourne (Huon) Centre
-*[OLW]: Melbourne (Onslow) Centre
-*[PIY]: Melbourne (Pingelly) Centre
-*[TBD]: Melbourne (Tailem Bend) Centre
-*[YWE]: Melbourne (Yarrowee) Centre
-*[ARA]: Brisbane (Arafura) Centre
-*[ARE]: Brisbane (Arafura East) Centre
-*[BAR]: Brisbane (Barra) Centre
-*[BUR]: Brisbane (Burnett) Centre
-*[CVN]: Brisbane (Carnarvon) Centre
-*[CNK]: Brisbane (Cessnock) Centre
-*[DOS]: Brisbane (Downs) Centre
-*[GOL]: Brisbane (Gold Coast) Centre
-*[KPL]: Brisbane (Keppel) Centre
-*[KIY]: Brisbane (Kimberley) Centre
-*[ASH]: Brisbane (Ashmore) Centre
-*[TRS]: Brisbane (Territory South) Centre
-*[MLD]: Brisbane (Maitland) Centre
-*[MNN]: Brisbane (Manning) Centre
-*[MDE]: Brisbane (Mudgee) Centre
-*[NSA]: Brisbane (Noosa) Centre
-*[OCN]: Brisbane (Ocean) Centre
-*[SDY]: Brisbane (Straddy) Centre
-*[STR]: Brisbane (Sturt) Centre
-*[SWY]: Brisbane (Swampy) Centre
-*[TBP]: Brisbane (Tabletop) Centre
-*[WEG]: Brisbane (Warrego) Centre
-*[WIL]: Brisbane (Willis) Centre
-*[COL]: Brisbane (Coral) Radio
-*[FLD]: Brisbane (Flinders) Radio
-*[HWE]: Brisbane (Howe) Centre
-*[INE]: Brisbane (Indian East) Radio
-*[INS]: Brisbane (Indian South) Radio
-*[ASW]: Melbourne (Alice Springs West) Centre
-*[AUG]: Melbourne (Augusta) Centre
-*[BLA]: Melbourne (Benalla) Centre
-*[BKE]: Melbourne (Bourke) Centre
-*[CRS]: Melbourne (Cross) Centre
-*[ESP]: Melbourne (Esperance) Centre
-*[FOR]: Melbourne (Forrest) Centre
-*[FOW]: Melbourne (Forrest West) Centre
-*[GEL]: Melbourne (Geraldton) Centre
-*[GTH]: Melbourne (Griffith) Centre
-*[GVE]: Melbourne (Grove) Centre
-*[GUN]: Melbourne (Gundagai) Centre
-*[HYD]: Melbourne (Hyden) Centre
-*[JAR]: Melbourne (Jarrah) Centre
-*[KAT]: Melbourne (Katoomba) Centre
-*[LEA]: Melbourne (Leeman) Centre
-*[MEK]: Melbourne (Meekatharra) Centre
-*[MZI]: Melbourne (Menzies) Centre
-*[MTK]: Melbourne (Mount) Centre
-*[MUN]: Melbourne (Mungo) Centre
-*[NEW]: Melbourne (Newman) Centre
-*[OXL]: Melbourne (Oxley) Centre
-*[PAR]: Melbourne (Paraburdoo) Centre
-*[POT]: Melbourne (Port) Centre
-*[SNO]: Melbourne (Snowy) Centre
-*[WAR]: Melbourne (Warburton) Centre
-*[WOL]: Melbourne (Wollongong) Centre
-*[WON]: Melbourne (Wonthaggi) Centre
-*[WRA]: Melbourne (Woomera) Centre
-*[SFL]: Sydney Flow
-*[MFL]: Melbourne Flow
-*[AFL]: Adelaide Flow
-*[BFL]: Brisbane Flow
-*[CSF]: Cairns Flow
-*[CBF]: Canberra Flow
-*[PFL]: Perth Flow
-*[AYPYA]: Jacksons Radar
-*[AYNZA]: Nadzab Approach
-*[NWWWA]: Tontouta Approach
-*[NWWWT]: Tontouta Approach (Terminal)
-*[NFFNA]: Nadi Approach
-*[NFNAA]: Nausori Approach
-*[AYNZ]: Nadzab
-*[AYGA]: Goroka
-*[AYMD]: Madang
-*[AYMH]: Mt Hagen
-*[AYTK]: Tokua
-*[GGO]: Goonoo Goonoo Station
-*[WBH]: Wallabadah
-*[NUN]: Nundle
-*[DGN]: Dungowan
-*[NEM]: Nemingha
-*[MAL]: Manilla
-*[GWT]: Gate West
-*[DUA]: Duri Gap
-*[GST]: Gate South
+*[ALP]: Aleppo
+*[IQA]: Al-Asad
 *[LLC]: Leaves Lateral Conflict
 *[ELC]: Enters Lateral Conflict
 *[LSALT]: Lowest Safe Altitude
@@ -342,6 +211,8 @@
 *[MATZ]: Military Air Traffic Zone
 *[FMP]: Flow Management Position
 *[ORBB_N_CTR]: Baghdad Control North (Bandbox)
-
+*[ACC]: Area Control Center
+*[UAC]: Upper Area Control
+*[TMU]: Traffic Management Unit
 *[MI NDB]: Momi
 *[VK NDB]: Navakai

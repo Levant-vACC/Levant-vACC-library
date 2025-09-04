@@ -4,6 +4,9 @@
 
 --8<-- "includes/abbreviations.md"
 
+
+!!! failure "These procedures are not to be used and are still WIP"
+
 ## Positions
 
 | Name | Callsign	| Frequency | Login ID | Remarks |
