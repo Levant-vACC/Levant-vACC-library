@@ -101,9 +101,9 @@ nav:
     - OLBB FIR: 
       - Beirut Approach (OLBA_APP): Terminal/OLBB FIR/Beirut Approach (OLBA_APP)/Beirut.md
     - ORBB FIR:
-      - Baghdad Approach (ORKK_APP): Terminal/ORBB FIR/Baghdad Approach (ORKK_APP)/ORKK_APP.md
-      - Baghdad Approach (ORBI_APP): Terminal/ORBB FIR/Baghdad Approach (ORBI_APP)/ORBI_APP.md
-      - Baghdad Approach (ORMM_APP): Terminal/ORBB FIR/Baghdad Approach (ORMM_APP)/ORMM_APP.md
+      - Kirkuk TMA (Baghdad Approach): Terminal/ORBB FIR/Baghdad Approach (ORKK_APP)/ORKK_APP.md
+      - Baghdad TMA  (Baghdad Approach): Terminal/ORBB FIR/Baghdad Approach (ORBI_APP)/ORBI_APP.md
+      - Ali TMA (Baghdad Approach): Terminal/ORBB FIR/Baghdad Approach (ORMM_APP)/ORMM_APP.md
     - OSTT FIR:
       - Damascus Approach (OSDI_APP): Terminal/OSTT FIR/Damascus (OSDI)/Damascus.md
       - Aleppo Radar (OSAP_APP): Terminal/OSTT FIR/Aleppo (OSTT)/Aleppo.md
