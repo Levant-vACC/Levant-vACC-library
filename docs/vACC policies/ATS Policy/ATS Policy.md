@@ -24,6 +24,8 @@
 | -------- | ----------- | ------------- | ---------- |
 | R01/2025 | 11 SEP 2025 | Initial Draft | Joshua Ong |
 
+---
+
 ## General Provisions
 
 ### Scope
@@ -37,6 +39,8 @@ All VATSIM members are expected to comply with the VATSIM Code of Conduct and Co
 ### Limitation of Liability
 
 This document has been prepared for use on the VATSIM network only. It should never be used for real-world aviation operations. The authors of this document cannot be held liable for any personal injury and/or death from the misuse of this document.
+
+---
 
 ## Controllers
 
@@ -206,5 +210,6 @@ Controllers must notify others of their intent to disconnect using the `.break` 
 
 ## Non-compliance with this Policy
 Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
+
 
 
