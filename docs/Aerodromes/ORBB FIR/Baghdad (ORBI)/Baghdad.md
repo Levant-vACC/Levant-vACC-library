@@ -86,12 +86,30 @@ On initial contact, Baghdad **ADC** will pass the instructions for joining the c
 
 During times of heavy IFR arrival activity, VFR arrivals may be denied entry into the CTR and instructed to hold outside of the CTR awaiting further instructions.
 
+## IFR Operations
+IFR clearances are issued by Baghdad **SMC** (or ACD), ensuring appropriate routing.
+
+### Departure Clearance
+At Baghdad no SIDs are used, aircraft receive departure instructions in their line up/takeoff clearance, thus **SMC** (or ACD) doesn't need to provide departure instructions. 
+
+!!! phraseology  
+    **IAW123**: Baghdad Ground, IAW123, request IFR clearance to Dubai, with information A.  
+    **BI SMC**: IAW123, Baghdad Ground, cleared to Dubai, flight planned route, squawk 7403.  
+    **IAW123**: Cleared Dubai, flight planned route, squawk 7403, IAW123.  
+    **BI SMC**: IAW123, readback correct, report ready for push and start.  
+
+For **ADC**, the standard assignable departure instructions can be located further down this document.
+
 ## Maneuvering Area Responsibilities
 When Baghdad **ADC** is online, the aprons and taxiways west of Runways 33L and 15R are under the jurisdiction of **ADC**. Baghdad **SMC** shall relinquish control of these areas accordingly.
 
 
 ## Standard Taxi Routes
 All departing aircraft shall be assigned Taxiway Y. Taxiway W falls under the jurisdiction of Baghdad **ADC**; therefore, any departing aircraft requiring Taxiway W must be prior coordinated by Baghdad **SMC** with **ADC**. This is because all arriving traffic into Baghdad are assigned onto Taxiway W.
+
+!!! phraseology
+    **IAW123**: Request taxi.  
+    **BI SMC**: IAW123 taxi via Y, hold short S. 
 
 ## Runway Modes
 

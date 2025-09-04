@@ -12,10 +12,10 @@
 | **Baghdad DEP**	| **Baghdad Approach** | **128.200** | **ORBI_DEP**	| |
 
 ## Airspace - Class D
-**ORBI_APP** is responsible for the entire Baghdad TMA airspace from `A010` to `F235`.
+**ORBI_APP** is responsible for the entire Baghdad TMA airspace from `A010` and `A030` to `F235`.
 
 ![Baghdad TMA ORBI_APP](img/ORBI_APP.png)
 
-**ORBI_DEP** is responsible for Baghdad TMA's 1 and 2 airspace from `A010` to `F235`.
+**ORBI_DEP** is responsible for Baghdad TMA's 1 and 2 airspace from `A010` and `A030` to `F235`.
 
 ![Baghdad TMA ORBI_DEP](img/ORBI_DEP.png)
