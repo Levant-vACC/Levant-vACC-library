@@ -214,5 +214,3 @@ An exam will not be marked as a pass if:
 If the student passes the exam, the result will be posted on the Levant vACC Discord, and the rating will be issued within 48 hours after the exam report has been submitted. If the exam is marked as incomplete, the request will be retained, and the exam will be continued with either the same or different examiners at a later date. 
 
 In the event of a failure, the examiners will conduct a thorough debrief and create a remedial training plan, which will be forwarded to the student's mentor or instructor.
-
-
