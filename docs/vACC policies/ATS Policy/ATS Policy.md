@@ -167,18 +167,18 @@ The Levant vACC welcomes all our controllers to stream their controlling session
 
 All controllers reserve the right to deny consent to any members. If consent is denied, the streaming controller will be required to move to a separate Discord call to avoid disrupting coordination.
 
-### Minimum Connection Min
+### Suggested Connection Times
 
-Controllers are required to meet the following session time requirements:
+The ATS Department has outlined the suggested connection times for controllers to connect to the network as listed below:
 
 | Position | Minimum Session Time |
 | -------- | -------------------- |
-| DEL/GND  |      30 Minutes      |
-| TWR      |      30 Minutes      |
-| DEP/APP  |      30 Minutes      |
-| CTR      |      30 Minutes      |
+| DEL/GND  | 30 Minutes           |
+| TWR      | 30 Minutes           |
+| DEP/APP  | 30 Minutes           |
+| CTR      | 60 Minutes           |
 
-Sessions under 30 minutes will not be counted toward the controller's quarterly total. Repeated non-compliance may lead to disciplinary action.
+While these connection times are not mandated, controllers are highly encouraged to follow these recommended connection times to provide the best possible standard of air traffic services for pilots.
 
 ### Commencing a Session
 
@@ -206,4 +206,5 @@ Controllers must notify others of their intent to disconnect using the `.break` 
 
 ## Non-compliance with this Policy
 Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
+
 
