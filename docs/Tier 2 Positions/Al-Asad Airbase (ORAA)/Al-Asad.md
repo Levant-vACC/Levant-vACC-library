@@ -194,3 +194,23 @@ Upon logging on Al-Asad TMA it is essential to annouce the activation status of 
 !!! phraseology
     **IQA TMA -> ORBB_N_CTR**: Request activation of R414 from SFC to F280, and R401 from SFC to F210.  
 
+### Lanes and Training Areas
+
+<figure markdown>
+![Training Areas](../img/MOAs.png)
+  <figcaption>Training areas available for ORAA departures</figcaption>
+</figure>
+
+<figure markdown>
+![Training Areas](../img/BALAD.png)
+  <figcaption>Balad training areas</figcaption>
+</figure>
+
+#### Outbound lanes
+The outbound lanes are used by aircraft transiting to/from exterior training areas or for entry and exit of IQA military airspace. 
+
+Aircraft departing Al-Asad Airbase towards either the **PEGASUS** or **MADDOG** MOAs are to make use of the R312 (HIGHWAY) as an outbound land for aircraft either departing or recovering.  
+
+Aircraft departing Al-Asad Airbase towards either **Balad Airbase (ORBD)** or one of the **Balad training areas** are to make use of R414 (ARCHER) and R413 (BALAD WEST CORRIDOR) where appropriate, exercising caution with the P401 (`SFC`-`F210`) located just due North.
+
+Aircraft departing Al-Asad airbase towards **the west** are to make use of R601 (BRUCE LOW) before entering R309 (TOPCAT LOW) or R313 (SPIDY)
