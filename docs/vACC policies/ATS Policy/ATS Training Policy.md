@@ -11,7 +11,7 @@
 |                     |                                                  |
 | ------------------- | ------------------------------------------------ |
 | Type                | Policy                                           |
-| Revision            | DFT01/2025                                       |
+| Revision            | R01/2025                                         |
 | Effective Date      | 11 SEP 2025                                      |
 | Prepared by         | Joshua Ong - ACCLEV3                             |
 | Approved by         | Jordan Townsend - ACCLEV1                        |
@@ -20,9 +20,9 @@
 
 ### Record of Revisions
 
-| Revision   | Date        | Notes         | Author     |
-| ---------- | ----------- | ------------- | ---------- |
-| DFT01/2025 | 11 SEP 2025 | Initial Draft | Joshua Ong |
+| Revision | Date        | Notes         | Author     |
+| -------- | ----------- | ------------- | ---------- |
+| R01/2025 | 11 SEP 2025 | Initial Draft | Joshua Ong |
 
 ## General Provisions 
 
@@ -75,13 +75,13 @@ To remain on the waiting list, controllers must:
 Controllers who do not meet these conditions will be removed from the waiting list.
 
 ### Losing Your Spot on the Waiting List
-The Levant vACC ATS Department reserves the right to remove a controller from the waiting list without prior notice in circumstances including, but not limited to:
+The Arabian vACC ATC Training Department reserves the right to remove a controller from the waiting list without prior notice in circumstances including, but not limited to:
 
 - Disciplinary action taken against the controller  
 - Repeated negative feedback received while controlling positions associated with their current rating
 
 ## Minimum Controller Activity
-All resident controllers within the Levant vACC must log a minimum of **3 hours of ATC activity per calendar quarter** to remain active on the controller roster. 
+All resident and visiting controllers within the Levant vACC must log a minimum of **3 hours of ATC activity per calendar quarter** to remain active on the controller roster. 
 
 Failure to meet this requirement will result in **automatic removal** from the roster and **any associated training plan or waiting list**.
 
@@ -133,7 +133,7 @@ ATC training within the Levant vACC is a *rigorous* process. Given the number of
 ### Availability Requirements
 
 - **Maintaining Availability**: Students must keep their availability on their discord training thread up-to-date at all times while holding a position within a training plan.
-- **Diverse Availability**: Students should aim to provide a wide range of availability—including daytime, evenings, and weekends—where possible. As mentors and instructors may be located in different time zones, flexibility significantly increases the likelihood of receiving training sessions.
+- **Diverse Availability**: Students should aim to provide a wide range of availability. Including daytime, evenings, and weekends where possible. As mentors and instructors may be located in different time zones, flexibility significantly increases the likelihood of receiving training sessions.
 - **Session Cancellations**: If a student needs to cancel a scheduled session or withdraw a session request, they must either remove their availability on their discord training thread or notify their mentor or instructor directly with a minimum notice time of **12 hours**. Failing to do so will result in the student's training being delayed.
 
 ### Recommendations to Improve Training Opportunities
@@ -214,6 +214,3 @@ An exam will not be marked as a pass if:
 If the student passes the exam, the result will be posted on the Levant vACC Discord, and the rating will be issued within 48 hours after the exam report has been submitted. If the exam is marked as incomplete, the request will be retained, and the exam will be continued with either the same or different examiners at a later date. 
 
 In the event of a failure, the examiners will conduct a thorough debrief and create a remedial training plan, which will be forwarded to the student's mentor or instructor.
-
-
-
