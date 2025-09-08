@@ -2,6 +2,8 @@
   title: Levant vACC Air Traffic Services Policy for Controllers
 ---
 
+--8<-- "includes/abbreviations.md"
+
 ## Policy Information
 
 ### Control Information
@@ -13,7 +15,7 @@
 | Effective Date      | 11 SEP 2025                                      |
 | Prepared by         | Joshua Ong - ACCLEV3                             |
 | Approved by         | Jordan Townsend - ACCLEV1                        |
-| Next review date    |                                                  |
+| Next review date    | 08 MAR 2026                                      |
 | Cancelled documents | Levant vACC ATS Policy for Home/Visiting Members |
 
 ### Record of Revisions
@@ -219,3 +221,4 @@ The calendar quarters are defined as follows:
 
 ## Non-compliance with this Policy
 Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
+
