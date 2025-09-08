@@ -15,7 +15,7 @@
 | Effective Date      | 11 SEP 2025                                      |
 | Prepared by         | Joshua Ong - ACCLEV3                             |
 | Approved by         | Jordan Townsend - ACCLEV1                        |
-| Next review date    |                                                  |
+| Next review date    | 08 MAR 2026                                      |
 | Cancelled documents | Levant vACC ATS Policy for Home/Visiting Members |
 
 ### Record of Revisions
@@ -188,7 +188,7 @@ Solo validations will only be granted for a maximum of 30 days at a time before 
 ## Examinations
 
 ### Theoretical
-All theoretical modules and exams for the **S1**, **S2**, **S3**, and **C1** ratings are available through the [Middle East & North Africa Academy](https://academy.vatsim.me). Completion of these modules and exams is required to be eligible for enrollment in a training plan.
+All theoretical modules and exams for the **S1**, **S2**, **S3**, and **C1** ratings are available through the [Middle East & North Africa Academy](https://exams.vatsim.me/). Completion of these modules and exams is required to be eligible for enrollment in a training plan.
 
 ### Practical
 
