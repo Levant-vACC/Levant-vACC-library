@@ -2,8 +2,6 @@
   title: Levant vACC Air Traffic Services Policy for Controllers
 ---
 
---8<-- "includes/abbreviations.md"
-
 ## Policy Information
 
 ### Control Information
@@ -11,7 +9,7 @@
 |                     |                                                  |
 | ------------------- | ------------------------------------------------ |
 | Type                | Policy                                           |
-| Revision            | DFT01/2025                                       |
+| Revision            | R01/2025                                         |
 | Effective Date      | 11 SEP 2025                                      |
 | Prepared by         | Joshua Ong - ACCLEV3                             |
 | Approved by         | Jordan Townsend - ACCLEV1                        |
@@ -20,11 +18,9 @@
 
 ### Record of Revisions
 
-| Revision   | Date        | Notes         | Author     |
-| ---------- | ----------- | ------------- | ---------- |
-| DFT01/2025 | 11 SEP 2025 | Initial Draft | Joshua Ong |
-
----
+| Revision | Date        | Notes           | Author     |
+| -------- | ----------- | --------------- | ---------- |
+| R01/2025 | 11 SEP 2025 | Initial Release | Joshua Ong |
 
 ## General Provisions
 
@@ -39,8 +35,6 @@ All VATSIM members are expected to comply with the VATSIM Code of Conduct and Co
 ### Limitation of Liability
 
 This document has been prepared for use on the VATSIM network only. It should never be used for real-world aviation operations. The authors of this document cannot be held liable for any personal injury and/or death from the misuse of this document.
-
----
 
 ## Controllers
 
@@ -171,18 +165,18 @@ The Levant vACC welcomes all our controllers to stream their controlling session
 
 All controllers reserve the right to deny consent to any members. If consent is denied, the streaming controller will be required to move to a separate Discord call to avoid disrupting coordination.
 
-### Suggested Connection Times
+### Minimum Connection Min
 
-The ATS Department has outlined the suggested connection times for controllers to connect to the network as listed below:
+Controllers are required to meet the following session time requirements:
 
-| Position | Suggested Duration |
-| -------- | ------------------ |
-| DEL/GND  | 30 Minutes         |
-| TWR      | 30 Minutes         |
-| DEP/APP  | 30 Minutes         |
-| CTR      | 60 Minutes         |
+| Position | Minimum Session Time |
+| -------- | -------------------- |
+| DEL/GND  | 30 Minutes           |
+| TWR      | 30 Minutes           |
+| DEP/APP  | 30 Minutes           |
+| CTR      | 30 Minutes           |
 
-While these connection times are not mandated, controllers are highly encouraged to follow these recommended connection times to provide the best possible standard of air traffic services for pilots.
+Sessions under 30 minutes will not be counted toward the controller's quarterly total. Repeated non-compliance may lead to disciplinary action.
 
 ### Commencing a Session
 
@@ -192,7 +186,7 @@ flowchart LR
     a[Controller checks out VATSIM Radar or equivalent to see if ATC is online] --> f[Adjacent controllers are not online] --> g[Log on the network with an approved callsign] --> h[Announce controller presence in 'ATC chat']
 ```
 
-## Discord Presence
+### Discord Presence
 
 Though not mandated, for coordination purposes, controllers should present in the appropriate coordination channel on Discord to allow for smoother coordination. 
 
@@ -200,7 +194,7 @@ However during events, controllers are **MANDATED** to remain present in the app
 
 ### Relief Callsigns
 
-Controllers relieving others during peak hours or events must use a relief callsign (e.g. ORBB_RN_CTR) to ensure proper transition and avoid disruption.
+Controllers relieving others during peak hours or events must use a relief callsign (e.g. `ORBB_RN_CTR`) to ensure proper transition and avoid disruption.
 
 ### Ending a Session
 
@@ -208,11 +202,20 @@ Controllers must notify others of their intent to disconnect using the `.break` 
 
 ---
 
+## Controller Currency
+This section sets the minimum activity requirement for resident and visiting controllers within the Levant vACC. It ensures that all controllers remain active and proficient by requiring them to log a minimum of **3 hours per calendar quarter**. Controllers who fail to meet this requirement will be considered inactive and removed from the roster, along with any associated training or waiting list status.
+
+## Minimum Controller Activity
+All resident and visiting controllers within the Levant vACC must log a minimum of **3 hours of ATC activity per calendar quarter** to remain active on the controller roster. 
+
+Failure to meet this requirement will result in **automatic removal** from the roster and **any associated training plan or waiting list**.
+
+The calendar quarters are defined as follows:
+
+- **Quarter 1 (Q1) - 1st January to 31st March**
+- **Quarter 2 (Q2) - 1st April to 30th June**
+- **Quarter 3 (Q3) - 1st July to 30th September**
+- **Quarter 4 (Q4) - 1st October to 31st December**
+
 ## Non-compliance with this Policy
 Ignorance of policies is not an acceptable defense. It is each member’s responsibility to stay informed of the latest procedures. Repeated violations will result in the revocation of approvals.
-
-
-
-
-
-
