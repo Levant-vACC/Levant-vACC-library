@@ -13,7 +13,7 @@ The arrival runway is specified in the Baghdad ATIS, with a preference for 33R a
 The standard approach at Baghdad is the ILS for runway 33R, pilots **may** request the RNP for runway 33L but this may not always be approved, depending on the current traffic situation.
 
 ## Speeds
-The speed limits and recommended speeds within different segments of the Baghdad terminal area is as follows:
+The recommended speeds within different segments of the Baghdad terminal area is as follows:
 
 |  Speed Range  |              Arrival Segment              |
 |:-------------:|:-----------------------------------------:|
@@ -23,7 +23,7 @@ The speed limits and recommended speeds within different segments of the Baghdad
 |    190 kts    |                Until 10 DME               |
 |    160 kts    |                Until 4 DME                |
 
-All speed restrictions must be adhered to as accurately as possible. Aircraft unable to comply with these restrictions must notify ATC in advance and specify the speeds they can maintain. Pilots should also inform ATC if circumstances require a speed adjustment for any reason.  
+All speed recommendations should try to be followed, restrictions placed by ATC **must take priority** over these recommended speeds. Aircraft unable to comply with these restrictions must notify ATC in advance and specify the speeds they can maintain. Pilots should also inform ATC if circumstances require a speed adjustment for any reason.  
 
 To ensure accurate spacing, pilots are requested to comply with speed adjustments as promptly as practicable, considering their operational constraints.  
 
