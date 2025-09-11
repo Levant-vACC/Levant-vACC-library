@@ -77,7 +77,13 @@ extra_css:
 
 #page navigation
 nav:
-  - Home: index.md  
+  - Home: index.md 
+  - Pilots:
+    - Overview: Pilots/index.md 
+    - Baghdad:
+      - Airport Overview: Pilots/Baghdad/Airport Overview.md
+      - Departing Aircraft: Pilots/Baghdad/Departing Aircraft.md
+      - Arriving Aircraft: Pilots/Baghdad/Arriving Aircraft.md
   - Aerodromes: 
     - Overview: Aerodromes/index.md
     - OLBB FIR: 
