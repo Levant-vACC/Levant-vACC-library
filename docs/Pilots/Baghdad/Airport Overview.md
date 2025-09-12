@@ -29,9 +29,9 @@ Pilots can access the latest charts through the following sources: [Chartfox (Fr
 
 |       Area       |   Stand Allocation   |        Operator                                                     |
 |:----------------:|:--------------------:|:-----------------------------------------------------------------------------------------------------------------:|
-| Terminal B       |   Stands B21-B26     | IQA, IQA(CRJ)                                                                                                |
+| Terminal B       |   Stands B21-B26     | IAW, IAW(CRJ)                                                                                                |
 | Terminal C       |   Stands C31-C36     | All foreign Boeing or Airbus aircraft                                         |
-| Terminal D       |   Stands D41-D46     | IQA Airbus and Boeing aircraft                                                                                  |
+| Terminal D       |   Stands D41-D46     | IAW Airbus and Boeing aircraft                                                                                  |
 | Remote Apron     |   Stands R21-R24     | Charter Aircraft                                                                          |
 | Apron K          |   Stands K1-K3       |  All Cargo Aircraft   |
 | JMMT Ramp        | Ramp Z4, Stands 1-3  |     |

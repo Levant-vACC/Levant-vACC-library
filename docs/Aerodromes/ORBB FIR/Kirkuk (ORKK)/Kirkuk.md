@@ -15,6 +15,8 @@
 
 ORKK_TWR is responsible for the Kirkuk CTR airspace from `SFC` to `A040`.
 
+![Kirkuk CTR airspace structure](img/Kirkuk structure.png)
+
 ## VFR Operations
 All VFR clearances are assigned by the revelant TWR controller.
 

@@ -14,6 +14,8 @@
 
 ORMM_TWR is responsible for the Basra CTR airspace from `SFC` to `A030`.
 
+![Basra CTR airspace structure](img/Basra structure.png)
+
 ## VFR Operations
 All VFR clearances are assigned by the revelant TWR controller.
 

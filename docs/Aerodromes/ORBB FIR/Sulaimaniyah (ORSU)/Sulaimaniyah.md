@@ -1,5 +1,5 @@
 ---
-  title: Sulaymaniyah (ORSU)
+  title: Sulaimaniyah (ORSU)
 ---
 
 --8<-- "includes/abbreviations.md"
@@ -8,11 +8,13 @@
 
 |    Name   | Callsign	| Frequency | Login ID | Remarks |
 | --------- | --------	| ---------	| -------- | ------- |
-| **Sulaymaniyah ADC** | **Sulaymaniyah Tower** | **118.300** | **ORSU_TWR** | |
+| **Sulaimaniyah ADC** | **Sulaymaniyah Tower** | **118.300** | **ORSU_TWR** | |
 
 ## Airspace - Procedural Class D
 
 ORSU_TWR is responsible for the Sulaymaniyah CTR airspace from `SFC` to `A060`.
+
+![Sulaimaniyah CTR airspace structure](img/Sulaimaniyah structure.png)
 
 ## VFR Operations
 All VFR clearances are assigned by the revelant TWR controller.
@@ -20,7 +22,7 @@ All VFR clearances are assigned by the revelant TWR controller.
 ### Circuits
 VFR Circuits are permitted on runways **13** and **31**.
 
-All VFR aircraft wishing to do remain in the circuit at Sulaymaniyah shall be issued `A060` and the following circuit directions:
+All VFR aircraft wishing to do remain in the circuit at Sulaimaniyah shall be issued `A060` and the following circuit directions:
 
 | Runway | Direction |
 | ------ | --------- |
@@ -28,51 +30,51 @@ All VFR aircraft wishing to do remain in the circuit at Sulaymaniyah shall be is
 |   13   |   Right   |
 
 !!! phraseology
-    **ABC**: Sulaymaniyah Tower, ABC holding short E runway 31, full ready.    
-    **ISU ADC**: ABC, Sulaymaniyah Tower, cleared to operate in the circuit area not above altitude 6000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 31.  
+    **ABC**: Sulaimaniyah Tower, ABC holding short E runway 31, full ready.    
+    **ISU ADC**: ABC, Sulaimaniyah Tower, cleared to operate in the circuit area not above altitude 6000ft, left hand circuits report on the downwind, surface winds 320 degrees 5 knots, cleared for take-off runway 31.  
     **ABC**: Cleared to operate in the circuit area not above altitude 3000ft, will report on the left downwind, cleared for take-off runway 31, ABC.  
 
 VFR Circuits shall **not** be permitted at the aerodrome during times of increased IFR departure or arrival activity.
 
 ### Leaving the CTR
-Once VFR aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn they shall be instructed to report leaving the CTR. VFR procedures inside the Sulaymaniyah CTR must be conducted at or below `A060`.
+Once VFR aircraft are ready for departure, they shall be cleared for take-off in sequence. As they begin their crosswind turn they shall be instructed to report leaving the CTR. VFR procedures inside the Sulaimaniyah CTR must be conducted at or below `A060`.
 
 !!! phraseology
-    **FYI**: Sulaymaniyah Tower, FYI holding short E, runway 31.  
-    **ISU ADC**: FYI, Sulaymaniyah Tower, surface winds 320 degrees 5 knots, cleared for take-off runway 31.  
+    **FYI**: Sulaimaniyah Tower, FYI holding short E, runway 31.  
+    **ISU ADC**: FYI, Sulaimaniyah Tower, surface winds 320 degrees 5 knots, cleared for take-off runway 31.  
     **FYI**: Roger, cleared for take-off runway 31.  
     **AIRCRAFT ON THE CROSSWIND TURN**  
-    **ISU ADC**: FYI, report leaving the Sulaymaniyah CTR, maintain at or below altitude 6000ft.  
+    **ISU ADC**: FYI, report leaving the Sulaimaniyah CTR, maintain at or below altitude 6000ft.  
     **FYI**: At or below 6000ft, wilco, FYI.
 
-Aircraft requesting to exit the Sulaymaniyah CTR shall be assigned a clearance limit followed by a valid VFR cruising altitude (+500ft).
+Aircraft requesting to exit the Sulaimaniyah CTR shall be assigned a clearance limit followed by a valid VFR cruising altitude (+500ft).
 
 !!! phraseology
-    **YYC**: Sulaymaniyah Tower, YYC is requesting to exit the Sulaymaniyah CTR via direct Erbil, altitude 7500ft.  
-    **ISU ADC**: YYC, Sulaymaniyah Tower, cleared to leave the Sulaymaniyah CTR direct Erbil, maintain altitude 7500ft, squawk 7403, QNH 998 hectopascals.  
-    **YYC**: Cleared to leave the Sulaymaniyah CTR direct Erbil, maintain altitude 7500ft, QNH 998, and squawk 7403, YYC.
+    **YYC**: Sulaimaniyah Tower, YYC is requesting to exit the Sulaimaniyah CTR via direct Erbil, altitude 7500ft.  
+    **ISU ADC**: YYC, Sulaymaniiah Tower, cleared to leave the Sulaimaniyah CTR direct Erbil, maintain altitude 7500ft, squawk 7403, QNH 998 hectopascals.  
+    **YYC**: Cleared to leave the Sulaimaniyah CTR direct Erbil, maintain altitude 7500ft, QNH 998, and squawk 7403, YYC.
 
 ### Entering the CTR
 Inbound VFR aircraft shall be sent to **ADC** with enough time such that two-way
 radio communications have been established before aircraft receive clearance to enter the CTR.
 
-On initial contact, Sulaymaniyah **ADC** will pass the instructions for joining the circuit, as well as any other pertinent information such as traﬃc information with the sector.
+On initial contact, Sulaimaniyah **ADC** will pass the instructions for joining the circuit, as well as any other pertinent information such as traﬃc information with the sector.
 
 !!! phraseology
-    **YYC**: Sulaymaniyah Tower, YYC is requesting to enter the Sulaymaniyah CTR from the southeast for circuits.     
-    **ISU ADC**: YYC, Sulaymaniyah Tower, information A, cleared to enter the Sulaymaniyah CTR, maintain at or below altitude 6000ft, report final runway 31 with intentions, squawk 7403.  
-    **YYC**: We have A, cleared to enter the Sulaymaniyah CTR, at or below altitude 6000ft, will report final runway 31 with intentions, squawk 7403, YYC.   
+    **YYC**: Sulaimaniyah Tower, YYC is requesting to enter the Sulaimaniyah CTR from the southeast for circuits.     
+    **ISU ADC**: YYC, Sulaimaniyah Tower, information A, cleared to enter the Sulaimaniyah CTR, maintain at or below altitude 6000ft, report final runway 31 with intentions, squawk 7403.  
+    **YYC**: We have A, cleared to enter the Sulaimaniyah CTR, at or below altitude 6000ft, will report final runway 31 with intentions, squawk 7403, YYC.   
     **ISU ADC**: YYC, correct, QNH 998 hectopascals.    
 
 During times of heavy IFR arrival activity, VFR arrivals may be denied entry into the CTR and instructed to hold outside of the CTR awaiting further instructions.
 
 ## IFR Operations
-IFR clearances are issued by Sulaymaniyah **ADC**, ensuring appropriate routing.
+IFR clearances are issued by Sulaimaniyah **ADC**, ensuring appropriate routing.
 
 Aircraft flying IFR may either fly a SID that fly to either waypoint KIRKUK or ERBIL, **or** an omnidirectional departure.
 
 ### Standard Instrument Departures
-Sulaymaniyah makes use of SIDs that fly to either waypoint KIRKUK or ERBIL.
+Sulaimaniyah makes use of SIDs that fly to either waypoint KIRKUK or ERBIL.
 
 The departure shall be assigned based on the departure waypoint, based on which of these two waypoints is closest to the aircraft’s flight planned route. The SID is designed to allow aircraft to pass the waypoints PUTRI or RASKI, both located 10nm from SUL, at or above `A110`, to avoid terrain to the west and shall be transferred to Kirkuk TMA when passing `A060`
 
@@ -89,36 +91,36 @@ The Standard Instrument Departures available are:
 The departure runway does not need to be included within the clearance, as these SIDs are runway specific.
 
 !!! phraseology
-    **IAW123**: Sulaymaniyah Tower, IAW123, request clearance to Antalya, with information Alpha.  
-    **ISU ADC**: IAW123, Sulaymaniyah Tower, Cleared to Antalya, KIRKK1 departure, flight planned route, initial climb 6,000 ft, squawk 4301. 
+    **IAW123**: Sulaimaniyah Tower, IAW123, request clearance to Antalya, with information Alpha.  
+    **ISU ADC**: IAW123, Sulaimaniyah Tower, Cleared to Antalya, KIRKK1 departure, flight planned route, initial climb 6,000 ft, squawk 4301. 
 
 ### Omni-directional Departures
 Departing IFR aircraft shall fly an omni-directional departure, if they are not flying a SID.
 
-If an aircraft are flying an omnidirectional to one of these waypoints, the Sulmaniyah VOR (SUL) shall always be their first waypoint in the clearance. Followed by one of the following waypoints to join their flight-planned route:  
+If an aircraft are flying an omnidirectional to one of these waypoints, the Sulaimaniyah VOR (SUL) shall always be their first waypoint in the clearance. Followed by one of the following waypoints to join their flight-planned route:  
 - TOMSI  
 - BOXIX  
 - SOBIL  
 - MUTAG  
 
 !!! phraseology
-    **IAW123**: Sulaymaniyah Tower, IAW123, request clearance to Antalya, with information Alpha.  
-    **ISU ADC**: IAW123, Sulaymaniyah Tower, Cleared to Antalya, expect omni-directional departure, flight planned route, squawk 4301.  
+    **IAW123**: Sulaimaniyah Tower, IAW123, request clearance to Antalya, with information Alpha.  
+    **ISU ADC**: IAW123, Sulaimaniyah Tower, Cleared to Antalya, expect omni-directional departure, flight planned route, squawk 4301.  
 
 ### Arrivals
 In addition to aircraft on the ground at Sulaimaniyah, **ORSU_TWR** is also responsible for airborne
 arrivals and departures at and below 6,000ft. As is the procedure at procedural airports, due to the lack
 of radar, only one aircraft must operate in the non-radar procedural airspace at one time.
 
-Arrivals are transferred to Sulaymaniyah **ADC** from Baghdad **TMA** at 7,000ft or 8,000ft, following
+Arrivals are transferred to Sulaimaniyah **ADC** from Baghdad **TMA** at 7,000ft or 8,000ft, following
 either the ERBIL1, ERBIL2, KIRKK1, KIRKK2 arrivals.
 
 !!! phraseology
-    **IAW123**: Sulaymaniyah Tower, IAW123, overhead SUL VOR, descending through 7000ft.  
-    **ISU ADC**: IAW123, Sulaymaniyah Tower, salam, report established on the ILS runway 31.  
+    **IAW123**: Sulaimaniyah Tower, IAW123, overhead SUL VOR, descending through 7000ft.  
+    **ISU ADC**: IAW123, Sulaimaniyah Tower, salam, report established on the ILS runway 31.  
 
 ## Standard Taxi Routes
-All departing aircraft shall be assigned the most appropriate taxiway, onto taxiway A. Sulaymaniyah **ADC** must exercise extreme caution on taxiway A, as conflicts can easily occur between arriving and departing traffic.
+All departing aircraft shall be assigned the most appropriate taxiway, onto taxiway A. Sulaimaniyah **ADC** must exercise extreme caution on taxiway A, as conflicts can easily occur between arriving and departing traffic.
 
 ## Runway Modes
 ### Preferred Runway Modes
@@ -149,7 +151,7 @@ Due to the airspace structure in Sulaimaniyah, all departures shall be coordinat
 - All departures not on a Standard Assignable Heading
 - After a go around, the next departure from that runway
 
-The Standard Assignable level from Erbil **ADC** to Baghdad **TMA** is:
+The Standard Assignable level from Sulaimaniyah **ADC** to Baghdad **TMA** is:
 
 | Aircraft | Level |
 | -------- | ----- |

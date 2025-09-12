@@ -72,102 +72,10 @@
 *[SAR]: Search and Rescue
 *[SVY]: Aerial Survey
 *[BCTA]: Bottom of Controlled Airspace
-*[PAL]: Port Adelaide
-*[TWRN]: Two R N
-*[DSN]: Doncaster Shopping Town
-*[ADWD]: Adventure World
-*[TVT]: TV Towers
-*[SBD]: Story Bridge
-*[FREM]: Fremantle Golf Course
-*[YGB]: Yangebup Lake
-*[FDL]: Forestdale Lake
-*[BOAT]: Boatyard
-*[POWR]: Powerhouse
-*[OAKF]: Oakford
-*[RUSS]: Russell
-*[CNB]: Canning Bridge
-*[SHOP]: Armadale Shops
-*[BTO]: Brighton
-*[BAW]: Baywest
-*[CARR]: Carrum
-*[GMH]: GMH (General Motors Holden)
-*[ACE]: Academy
-*[SHOL]: Shoal
-*[CWST]: Choppers West
-*[CNTH]: Choppers North
-*[CSTH]: Choppers South
-*[PSP]: Prospect Reservoir
-*[EDT]: Edmonton
-*[CGF]: Cape Grafton
-*[ADI]: Admiralty Island
-*[BRY]: Bringelly
-*[MEG]: Menangle
-*[PIC]: Picton
-*[THK]: The Oaks
-*[MYF]: Mayfield
-*[KAO]: Kalkallo
-*[YYN]: Yan Yean Reservoir
-*[APL]: Albert Park Lake
-*[SNP]: Station Pier
-*[WES]: West Gate Bridge
-*[MCG]: Melbourne Cricket Ground
-*[MVC]: Moonee Valley Racecourse
-*[FGN]: Flemington
-*[CBV]: Craigbourne Reservoir
-*[CPA]: Campania
-*[RCH]: Richmond
-*[RADT]: Radio Telescope
-*[SORL]: Sorell
-*[DLY]: Dunalley
-*[DRP]: Droughty Point
-*[LAUD]: Lauderdale
-*[CREM]: Cremorne
-*[BOWB]: Bowen Bridge
-*[SWT]: Sunbury Water Tank
-*[OHB]: Outer Harbor
-*[DMW]: Dam Wall
-*[CTE]: Cottesloe
-*[PCTY]: Perth City
-*[HKE]: Herdsman Lake
-*[JIBN]: Jibbon Point
-*[CUL]: Cronulla
-*[BTJ]: Brighton Jetty
-*[HNLY]: Henley Jetty
-*[GRB]: Georges River Bridge
-*[GON]: Goodna
-*[PKR]: Park Ridge Water Tower
 *[TAR]: Target
-*[CBRG]: Centenary Bridge
-*[WTBG]: Walter Taylor Bridge
-*[KCFF]: Kingscliff
 *[DNGR]: Point Danger
 *[IAS]: Indicated Airspeed
-*[PNL]: Port Noarlunga
 *[PWLC]: Powerline Crossing
-*[LUY]: Latrobe University
-*[WMS]: Williamstown
-*[NPBR]: Nepean Bridge
-*[KRMD]: Kurmond
-*[YBBB]: Brisbane FIR
-*[YMMM]: Melbourne FIR
-*[NFFF]: Nadi FIR
-*[AGGG]: Honiara FIR
-*[ANAU]: Nauru FIR
-*[NZZO]: Auckland FIR
-*[NZCM]: McMurdo FIR
-*[KZAK]: Oakland FIR
-*[NTTT]: Tahiti FIR
-*[WAAF]: Ujung Pandang FIR
-*[WIIF]: Jakarta FIR
-*[VCCF]: Colombo FIR
-*[VRMF]: Male FIR
-*[FIMM]: Mauritius FIR
-*[FAJO]: Johannesburg FIR
-*[AYPM]: Port Moresby FIR
-*[AYPE]: Port Moresby (East) FIR
-*[NWWW]: Noumea FIR
-*[NVVV]: Port Vila FIR
-*[RJTG]: Fukuoka FIR
 *[MX]: Maximum Speed
 *[CSR]: Cancel Speed Restrictions
 *[COBT]: Calculated Off Blocks Time
@@ -180,29 +88,13 @@
 *[TACAN]: Tactical Air Navigation System
 *[LSALT]: Lowest Safe Altitude
 *[FPR]: Flight Planned Route
-*[CIRA]: Circuit Area
 *[VPT]: Visual Manoeuvre with Prescribed Track
-*[ESL]: East Sale
-*[WSL]: West Sale
-*[RAAF]: Royal Australian Air Force
 *[TERMA]: Terminal Area Radar and Military Airspace
-*[SWTA]: South Western Training Area
-*[MTWK]: Mount Walker
-*[CLVT]: Calvert
-*[MNG]: Mangalore
-*[LTV]: Latrobe Valley
-*[AY]: Albury
-*[AV]: Avalon
-*[EN]: Essendon
-*[MB]: Moorabbin
 *[SUA]: Special Use Airspace
 *[CPDLC]: Controller-Pilot Datalink Communications
 *[LDA]: Landing Distance Available
 *[TORA]: Takeoff Run Available
-*[UQLD]: University of Queensland
 *[HLS]: Helicopter Landing Site
-*[BLHS]: Bald Hills
-*[MBHM]: Manly Boat Harbour
 *[MARSA]: Military Authority Assumes Responsibility for Separation of Military Aircraft
 *[NOCOM]: Non-Continuous Communication
 *[AEWC]: Airborne Early Warning and Control
@@ -214,5 +106,17 @@
 *[ACC]: Area Control Center
 *[UAC]: Upper Area Control
 *[TMU]: Traffic Management Unit
-*[MI NDB]: Momi
-*[VK NDB]: Navakai
+*[IAW]: Iraqi Airways
+*[ORBB]: Baghdad FIR
+*[OLBB]: Beirut FIR
+*[OSTT]: Damascus FIR
+*[TWR]: Tower
+*[ISU]: Sulaymaniyah
+*[KIK]: Kirkuk
+*[RER]: Erbil
+*[BSR]: Basra
+*[NJF]: Al-Najaf
+*[OLBA]: Beirut-Rafic Hariri Airport
+*[ORBI]: Baghdad International Airport
+*[OSTT]: Damascus International Airport
+*[SUL]: Sulaimaniyah VOR

@@ -16,6 +16,8 @@
 
 ORNI_TWR is responsible for the AL-Najaf CTR airspace from `SFC` to `A040`.
 
+![Al-Najaf CTR airspace structure](img/Al-Najaf structure.png)
+
 ## VFR Operations
 All VFR clearances are assigned by the revelant TWR controller.
 

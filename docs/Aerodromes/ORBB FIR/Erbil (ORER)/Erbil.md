@@ -15,6 +15,8 @@
 
 ORER_TWR is responsible for the Erbil CTR airspace from `SFC` to `A060`.
 
+![Erbil CTR airspace structure](img/Erbil structure.png)
+
 ## VFR Operations
 All VFR clearances are assigned by the revelant TWR controller.
 
