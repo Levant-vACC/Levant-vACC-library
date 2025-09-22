@@ -98,12 +98,12 @@ The following taxi diagrams depict the standard taxi routings. Note that it may 
 ### Runway 15s Configuration
 #### Departure Bias
 <figure markdown>
-![ORBI - 15s Configuration, Departure Bias](../img/omdb/OMDB_12_TITO_DB.png)
+![ORBI - 15s Configuration, Departure Bias](../img/omdb/ORBI_15_DB.png)
 </figure>
 
 #### Arrival Bias
 <figure markdown>
-![ORBI - 15s Configuration, Arrival Bias](../img/omdb/OMDB_12_TITO_AB.png)
+![ORBI - 15s Configuration, Arrival Bias](../img/omdb/ORBI_15_AB.png)
 </figure>
 
 ## Take-off
